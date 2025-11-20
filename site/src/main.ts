@@ -26,13 +26,16 @@ const regions = [
   { slug: 'ucayali', nombre: 'Ucayali' }
 ]
 
-const API = (import.meta.env.VITE_API_BASE_URL || 'https://platos-api.<tu-subdominio>.workers.dev').replace(/\/$/, '')
+const API_BASE = 'https://buildersaqp.github.io/api-comida-peru/api'
+
 const el = document.getElementById('regions')
 if (el) {
   for (const r of regions) {
     const a = document.createElement('a')
-    a.className = 'pill'
-    a.href = `${API}/api/${r.slug}?limit=5`
+    a.className = 'region-pill'
+    a.href = `${API_BASE}/${r.slug}?limit=10`
+    a.target = '_blank'
+    a.rel = 'noopener noreferrer'
     a.textContent = r.nombre
     el.appendChild(a)
   }
