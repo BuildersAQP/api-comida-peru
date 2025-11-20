@@ -1,0 +1,244 @@
+{
+  "id_region": "CAL",
+  "nombre_region": "Callao",
+  "dato_curioso": "El gentilicio 'Chalaco' proviene de la palabra quechua 'Challa', que significa 'costa' o 'arena'. El Callao es la cuna de los 'Choritos a la Chalaca' y es famoso por sus desayunos de puerto contundentes, donde el Pan con Pejerrey es el rey indiscutible.",
+  "platos": [
+    {
+      "id": 1201,
+      "nombre": "Choritos a la Chalaca",
+      "tipo": "Entrada",
+      "ingredientes": ["Choros (mejillones)", "Cebolla roja", "Tomate", "Maíz (choclo)", "Limón", "Ají limo"],
+      "preparacion": [
+        "Hervir los choros y usar la media valva como recipiente.",
+        "Picar cebolla, tomate y ají en cuadraditos muy pequeños.",
+        "Mezclar con choclo, limón y sal, y colocar sobre cada choro."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Choritos_a_la_chalaca.jpg/800px-Choritos_a_la_chalaca.jpg"
+    },
+    {
+      "id": 1202,
+      "nombre": "Pan con Pejerrey (Arrebosado)",
+      "tipo": "Desayuno / Sándwich",
+      "ingredientes": ["Pejerrey", "Huevo", "Harina", "Pan francés", "Salsa criolla"],
+      "preparacion": [
+        "Limpiar el pejerrey quitando la espina.",
+        "Pasar por harina y huevo batido.",
+        "Freír y servir dentro del pan con salsa criolla."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PanPejerrey.jpg"
+    },
+    {
+      "id": 1203,
+      "nombre": "Parihuela Chalaca",
+      "tipo": "Sopa",
+      "ingredientes": ["Pescado entero (tramboyo o cabrilla)", "Cangrejos", "Mariscos variados", "Chicha de jora", "Ají panca"],
+      "preparacion": [
+        "Hacer un aderezo base de coral y ají panca.",
+        "Hervir el pescado y los cangrejos para obtener un concentrado de fósforo.",
+        "Servir caliente con canchita y yuyo."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Parihuela.jpg/800px-Parihuela.jpg"
+    },
+    {
+      "id": 1204,
+      "nombre": "Muchame de Atún",
+      "tipo": "Entrada",
+      "ingredientes": ["Atún seco o en conserva (originalmente delfín, hoy prohibido)", "Palta", "Tomate", "Galletas de soda", "Aceite de oliva"],
+      "preparacion": [
+        "Cortar el atún en láminas finas.",
+        "Servir acompañado de trozos de palta, tomate y galletas.",
+        "Bañar con abundante aceite de oliva y orégano."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Muchame.jpg"
+    },
+    {
+      "id": 1205,
+      "nombre": "Chicharrón de Pota",
+      "tipo": "Street Food / Fondo",
+      "ingredientes": ["Pota (calamar gigante)", "Harina", "Huevo", "Mostaza", "Yuca"],
+      "preparacion": [
+        "Cortar la pota en aros o tiras.",
+        "Macerar con mostaza y sillao, pasar por harina.",
+        "Freír y acompañar con salsa tártara."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ChicharronPota.jpg"
+    },
+    {
+      "id": 1206,
+      "nombre": "Pan con Chimbombo",
+      "tipo": "Sándwich",
+      "ingredientes": ["Pescado (cojinova o bonito)", "Pan francés", "Cebolla", "Camote frito"],
+      "preparacion": [
+        "Freír el filete de pescado apanado.",
+        "Colocar en el pan junto con rodajas de camote frito y salsa criolla.",
+        "Es el clásico 'matahambre' del puerto."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Chimbombo.jpg"
+    },
+    {
+      "id": 1207,
+      "nombre": "Leche de Tigre",
+      "tipo": "Entrada / Bebida",
+      "ingredientes": ["Jugo de limón", "Fumet de pescado", "Ají limo", "Culantro", "Trozos de pescado"],
+      "preparacion": [
+        "Licuar un poco de pescado con limón y caldo para la base.",
+        "Mezclar con trozos de pescado picado, ají y cebolla.",
+        "Servir en vaso o copa."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Leche_de_tigre.jpg/800px-Leche_de_tigre.jpg"
+    },
+    {
+      "id": 1208,
+      "nombre": "Jalea Mixta",
+      "tipo": "Fondo",
+      "ingredientes": ["Pescado", "Langostinos", "Calamares", "Yuca", "Harina"],
+      "preparacion": [
+        "Enharinar todos los mariscos y trozos de pescado.",
+        "Freír hasta que estén crocantes.",
+        "Servir una montaña de fritura coronada con salsa criolla y yucas fritas."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Jalea_peruana.jpg/800px-Jalea_peruana.jpg"
+    },
+    {
+      "id": 1209,
+      "nombre": "Arroz con Mariscos",
+      "tipo": "Fondo",
+      "ingredientes": ["Arroz", "Mix de mariscos", "Ají panca", "Ají amarillo", "Arvejas"],
+      "preparacion": [
+        "Hacer un aderezo potente de ajíes.",
+        "Cocinar el arroz en el caldo de choros y mariscos.",
+        "Mezclar para que quede como una paella criolla jugosa."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Arroz_con_Mariscos.jpg"
+    },
+    {
+      "id": 1210,
+      "nombre": "Cangrejo Reventado",
+      "tipo": "Fondo",
+      "ingredientes": ["Cangrejos", "Huevo", "Ají panca", "Ajos", "Caldo"],
+      "preparacion": [
+        "Limpiar y golpear los cangrejos.",
+        "Guisar en un aderezo picante.",
+        "Al final, añadir huevos batidos para que se 'revienten' y espesen la salsa."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CangrejoReventado.jpg"
+    },
+    {
+      "id": 1211,
+      "nombre": "Tacu Tacu con Mariscos",
+      "tipo": "Fondo",
+      "ingredientes": ["Frijoles canario", "Arroz", "Mariscos", "Salsa madre (roja)"],
+      "preparacion": [
+        "Mezclar arroz y frijoles del día anterior y dorar en sartén (Tacu Tacu).",
+        "Preparar una salsa de mariscos picante y cremosa.",
+        "Servir la salsa bañando el tacu tacu."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_TacuTacuMariscos.jpg"
+    },
+    {
+      "id": 1212,
+      "nombre": "Sudado de Pescado",
+      "tipo": "Fondo",
+      "ingredientes": ["Pescado entero", "Tomate", "Cebolla", "Chicha de jora", "Ají amarillo"],
+      "preparacion": [
+        "Hacer una cama de cebolla y tomate en la olla.",
+        "Colocar el pescado y rociar con chicha.",
+        "Cocinar al vapor tapado por pocos minutos."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sudado_de_pescado.jpg/800px-Sudado_de_pescado.jpg"
+    },
+    {
+      "id": 1213,
+      "nombre": "Pescado a lo Macho",
+      "tipo": "Fondo",
+      "ingredientes": ["Filete de pescado frito", "Salsa de mariscos", "Crema de leche", "Ají"],
+      "preparacion": [
+        "Freír el pescado.",
+        "Hacer una salsa picante con mariscos y un toque de crema.",
+        "Cubrir el pescado con esta salsa caliente."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pescado_a_lo_macho.jpg/800px-Pescado_a_lo_macho.jpg"
+    },
+    {
+      "id": 1214,
+      "nombre": "Chilcano de Pescado",
+      "tipo": "Sopa",
+      "ingredientes": ["Espinazo y cabeza de pescado", "Cebolla china", "Apio", "Kion (jengibre)"],
+      "preparacion": [
+        "Hervir los huesos del pescado con kion y apio.",
+        "Servir el caldo muy caliente con cebolla china picada y limón.",
+        "Conocido como 'Levantamuertos'."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Chilcano_de_pescado.jpg/800px-Chilcano_de_pescado.jpg"
+    },
+    {
+      "id": 1215,
+      "nombre": "Escabeche de Pescado",
+      "tipo": "Entrada / Fondo",
+      "ingredientes": ["Pescado frito", "Cebolla roja", "Vinagre", "Ají panca", "Ají amarillo"],
+      "preparacion": [
+        "Freír el pescado y reservar.",
+        "Hacer un aderezo con mucha cebolla en tiras, vinagre y ajíes.",
+        "Dejar reposar el pescado en esta salsa (se come frío o tibio)."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Escabeche_de_pescado.jpg/800px-Escabeche_de_pescado.jpg"
+    },
+    {
+      "id": 1216,
+      "nombre": "Cau Cau de Mariscos",
+      "tipo": "Fondo",
+      "ingredientes": ["Mix de mariscos", "Papas en cubos", "Palillo (cúrcuma)", "Hierbabuena"],
+      "preparacion": [
+        "Hacer un guiso base con palillo y papas.",
+        "Agregar los mariscos al final para que no se pongan duros.",
+        "Aromatizar con hierbabuena."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CauCauMariscos.jpg"
+    },
+    {
+      "id": 1217,
+      "nombre": "Tiradito Chalaco",
+      "tipo": "Entrada",
+      "ingredientes": ["Pescado en láminas", "Crema de ají amarillo", "Limón", "Choclo"],
+      "preparacion": [
+        "Cortar el pescado en láminas finas (tipo sashimi, influencia japonesa).",
+        "Bañar con una emulsión de limón y ají amarillo (sin cebolla encima)."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tiradito.jpg/800px-Tiradito.jpg"
+    },
+    {
+      "id": 1218,
+      "nombre": "Tortilla de Rayas",
+      "tipo": "Fondo",
+      "ingredientes": ["Raya seca o fresca", "Huevos", "Cebolla china", "Ajos"],
+      "preparacion": [
+        "Deshilachar la raya precocida.",
+        "Mezclar con huevos batidos y cebolla china.",
+        "Freír como una tortilla grande y servir con yuca."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_TortillaRaya.jpg"
+    },
+    {
+      "id": 1219,
+      "nombre": "Pulpo al Olivo",
+      "tipo": "Entrada",
+      "ingredientes": ["Pulpo cocido", "Aceituna de botija", "Mayonesa", "Limón", "Aceite de oliva"],
+      "preparacion": [
+        "Cortar el pulpo cocido en láminas.",
+        "Licuar aceitunas con mayonesa y limón.",
+        "Bañar el pulpo con la salsa morada."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Pulpo_al_olivo.jpg/800px-Pulpo_al_olivo.jpg"
+    },
+    {
+      "id": 1220,
+      "nombre": "Choritos a la Chalaca (Versión Picante)",
+      "tipo": "Piqueo",
+      "ingredientes": ["Choros", "Rocoto", "Limón", "Cebolla"],
+      "preparacion": [
+        "Variante del clásico, donde se reemplaza el ají limo por rocoto picado para más intensidad."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ChoritosPicante.jpg"
+    }
+  ]
+}

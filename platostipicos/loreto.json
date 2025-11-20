@@ -1,0 +1,241 @@
+{
+  "id_region": "LOR",
+  "nombre_region": "Loreto",
+  "dato_curioso": "Loreto es el hogar del 'Paiche', uno de los peces de agua dulce más grandes del mundo. Su cocina es famosa por el uso de frutas exóticas como el 'Camu Camu' (la fruta con más vitamina C del planeta) y por platos ancestrales que utilizan técnicas de cocción en hojas de bijao, como el Juane y la Patarashca.",
+  "platos": [
+    {
+      "id": 1701,
+      "nombre": "Juane de Gallina",
+      "tipo": "Fondo (Fiesta de San Juan)",
+      "ingredientes": ["Arroz", "Gallina", "Huevos", "Aceitunas", "Palillo (Cúrcuma)", "Hojas de bijao"],
+      "preparacion": [
+        "Cocinar el arroz con palillo y especias.",
+        "Mezclar con huevos crudos para compactar la masa.",
+        "Colocar una presa de gallina y aceituna en el centro, envolver en hojas de bijao y hervir."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Juane_peruano.jpg/800px-Juane_peruano.jpg"
+    },
+    {
+      "id": 1702,
+      "nombre": "Tacacho con Cecina",
+      "tipo": "Fondo",
+      "ingredientes": ["Plátano verde (bellaco)", "Manteca de cerdo", "Cecina (cerdo ahumado)", "Chicharrón"],
+      "preparacion": [
+        "Asar o freír los plátanos verdes.",
+        "Machacar en mortero con manteca y trozos de chicharrón hasta formar bolas.",
+        "Servir acompañado de la cecina frita."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Tacacho_con_Cecina.jpg"
+    },
+    {
+      "id": 1703,
+      "nombre": "Inchicapi de Gallina",
+      "tipo": "Sopa",
+      "ingredientes": ["Gallina regional", "Maní pelado", "Harina de maíz", "Sacha culantro", "Yuca"],
+      "preparacion": [
+        "Hervir la gallina para hacer el caldo.",
+        "Licuar el maní, el maíz y el sacha culantro.",
+        "Agregar la mezcla al caldo y cocinar hasta que espese y tome color amarillo verdoso."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Inchicapi.jpg"
+    },
+    {
+      "id": 1704,
+      "nombre": "Patarashca",
+      "tipo": "Fondo",
+      "ingredientes": ["Pescado entero (Palometa/Boquichico)", "Hojas de bijao", "Sacha culantro", "Ají dulce"],
+      "preparacion": [
+        "Limpiar el pescado y rellenarlo con verduras y hierbas picadas.",
+        "Envolver en hojas de bijao.",
+        "Asar a la parrilla (carbón) para que se cocine en sus propios jugos."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Patarashca.jpg/800px-Patarashca.jpg"
+    },
+    {
+      "id": 1705,
+      "nombre": "Timbuche (Caldo de Carachama)",
+      "tipo": "Sopa",
+      "ingredientes": ["Carachama (pez)", "Sacha culantro", "Ajos", "Agua", "Plátano verde (opcional)"],
+      "preparacion": [
+        "Hervir el pescado carachama (famoso por su piel dura) por largo tiempo.",
+        "Es una sopa clara y reconstituyente, conocida como 'Levantamuertos'."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Carachama.jpg"
+    },
+    {
+      "id": 1706,
+      "nombre": "Ensalada de Chonta",
+      "tipo": "Entrada",
+      "ingredientes": ["Chonta (corazón de palma)", "Limón", "Aceite", "Sal", "Tomate"],
+      "preparacion": [
+        "Deshilachar la chonta fresca en tiras finas (parece fettuccine).",
+        "Aliñar con limón y aceite.",
+        "Es fresca, crujiente y acompaña platos fuertes."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Chonta.jpg"
+    },
+    {
+      "id": 1707,
+      "nombre": "Paiche a la Loretana",
+      "tipo": "Fondo",
+      "ingredientes": ["Paiche fresco", "Cebolla", "Tomate", "Ají dulce", "Palillo"],
+      "preparacion": [
+        "Cortar el paiche en medallones.",
+        "Freír o sudar con un aderezo de verduras y palillo.",
+        "Servir con arroz y plátano cocido."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PaicheLoretana.jpg"
+    },
+    {
+      "id": 1708,
+      "nombre": "Brochetas de Suri",
+      "tipo": "Entrada / Street Food",
+      "ingredientes": ["Suri (gusano de palma)", "Sal", "Ajos"],
+      "preparacion": [
+        "Ensartar los suris (larvas comestibles) en palos.",
+        "Asar a la parrilla hasta que estén dorados y crocantes por fuera y cremosos por dentro."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Suri_food.jpg/800px-Suri_food.jpg"
+    },
+    {
+      "id": 1709,
+      "nombre": "Picadillo de Paiche",
+      "tipo": "Fondo",
+      "ingredientes": ["Paiche seco salado", "Cebolla", "Tomate", "Ají dulce"],
+      "preparacion": [
+        "Remojar el paiche para quitar la sal y deshilacharlo.",
+        "Hacer un sofrito con las verduras y mezclar con el pescado.",
+        "Se sirve seco, acompañado de arroz o plátano."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PicadilloPaiche.jpg"
+    },
+    {
+      "id": 1710,
+      "nombre": "Nina Juane",
+      "tipo": "Fondo",
+      "ingredientes": ["Pescado", "Huevos", "Sacha culantro", "Hojas de bijao"],
+      "preparacion": [
+        "Variante del juane que NO lleva arroz.",
+        "Es pescado mezclado con huevo batido y hierbas, cocido dentro de la hoja a la parrilla."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_NinaJuane.jpg"
+    },
+    {
+      "id": 1711,
+      "nombre": "Pango de Pescado",
+      "tipo": "Fondo",
+      "ingredientes": ["Pescado seco (Paiche o Gamitana)", "Plátano verde", "Agua"],
+      "preparacion": [
+        "Hervir el pescado seco (sin salar más) junto con el plátano verde pelado.",
+        "Es un plato muy sencillo y cotidiano, se come mojando el plátano en salsa de cocona."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Pango.jpg"
+    },
+    {
+      "id": 1712,
+      "nombre": "Salsa de Cocona",
+      "tipo": "Acompañamiento",
+      "ingredientes": ["Cocona", "Ají charapita", "Cebolla", "Sacha culantro", "Limón"],
+      "preparacion": [
+        "Picar la cocona (fruta ácida) en cubitos.",
+        "Mezclar con cebolla picada, sacha culantro y el picante ají charapita.",
+        "Es el ají de mesa obligatorio en Loreto."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Cocona.jpg"
+    },
+    {
+      "id": 1713,
+      "nombre": "Masato",
+      "tipo": "Bebida",
+      "ingredientes": ["Yuca", "Agua", "Azúcar (opcional)"],
+      "preparacion": [
+        "Cocer y machacar la yuca.",
+        "Dejar fermentar (mientras más días, más alcohol).",
+        "Bebida ancestral y ceremonial."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Masato.jpg"
+    },
+    {
+      "id": 1714,
+      "nombre": "Aguajina",
+      "tipo": "Bebida",
+      "ingredientes": ["Aguaje (fruto)", "Agua", "Azúcar"],
+      "preparacion": [
+        "Remojar los aguajes en agua tibia para ablandar la cáscara.",
+        "Estrujar la pulpa con las manos en agua y colar.",
+        "Servir muy helada. Es rica en aceites naturales."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Aguajina.jpg"
+    },
+    {
+      "id": 1715,
+      "nombre": "Majaz Asado",
+      "tipo": "Fondo",
+      "ingredientes": ["Majaz (Picuro)", "Sacha culantro", "Ajos", "Plátano"],
+      "preparacion": [
+        "Carne de monte (roedor grande) macerada.",
+        "Asada al horno de leña o a la parrilla.",
+        "Tiene una piel crujiente similar al cerdo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Majaz.jpg"
+    },
+    {
+      "id": 1716,
+      "nombre": "Chapo",
+      "tipo": "Bebida",
+      "ingredientes": ["Plátano maduro (bellaco)", "Agua", "Leche (opcional)"],
+      "preparacion": [
+        "Hervir los plátanos maduros hasta que estén muy suaves.",
+        "Licuar o machacar con el agua de cocción.",
+        "Bebida espesa y dulce natural."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Chapo.jpg"
+    },
+    {
+      "id": 1717,
+      "nombre": "Zarapatera (Sopa de Motelo)",
+      "tipo": "Sopa (Ancestral)",
+      "ingredientes": ["Motelo (tortuga)", "Plátano verde rallado", "Culantro", "Ajos"],
+      "preparacion": [
+        "Plato tradicional antiguo.",
+        "Se cocina la carne de tortuga (a veces en su propio caparazón) y se espesa con plátano rallado."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Zarapatera.jpg"
+    },
+    {
+      "id": 1718,
+      "nombre": "Refresco de Camu Camu",
+      "tipo": "Bebida",
+      "ingredientes": ["Camu Camu", "Agua", "Azúcar"],
+      "preparacion": [
+        "Extraer la pulpa del camu camu (fruta ácida y pequeña).",
+        "Mezclar con agua y abundante azúcar.",
+        "Excelente antioxidante."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CamuCamu.jpg"
+    },
+    {
+      "id": 1719,
+      "nombre": "Gamitana Frita",
+      "tipo": "Fondo",
+      "ingredientes": ["Pescado Gamitana", "Harina", "Aceite", "Patacones"],
+      "preparacion": [
+        "Pescado de río de gran tamaño y carne grasa.",
+        "Se hacen cortes en los lomos y se fríe.",
+        "Se acompaña con patacones y ensalada."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Gamitana.jpg"
+    },
+    {
+      "id": 1720,
+      "nombre": "Patarashca de Suri",
+      "tipo": "Entrada / Fondo",
+      "ingredientes": ["Suris", "Hojas de bijao", "Sacha culantro"],
+      "preparacion": [
+        "Envolver los suris sazonados en hojas de bijao.",
+        "Asar a la parrilla. La grasa del suri cocina la preparación por dentro."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PatarashcaSuri.jpg"
+    }
+  ]
+}

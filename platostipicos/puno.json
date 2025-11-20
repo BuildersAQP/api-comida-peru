@@ -1,0 +1,242 @@
+{
+  "id_region": "PUN",
+  "nombre_region": "Puno",
+  "dato_curioso": "Puno es la capital del folclore peruano y su gastronomía gira en torno al Lago Titicaca y las alturas. Es la tierra maestra de la conservación de alimentos: aquí se perfeccionó la técnica milenaria del 'Chuño' y la 'Tunta' (papa deshidratada por congelación nocturna y sol diurno), ingredientes que pueden durar años y son la base de su dieta.",
+  "platos": [
+    {
+      "id": 2101,
+      "nombre": "Kankacho",
+      "tipo": "Fondo",
+      "ingredientes": ["Cordero", "Cerveza negra", "Ají panca", "Papas nativas", "Moraya"],
+      "preparacion": [
+        "Macerar el cordero con cerveza negra, ají y hierbas.",
+        "Hornear en horno de ladrillo a leña hasta que la piel quede crocante y la carne jugosa.",
+        "Servir con papas y moraya (chuño blanco) al horno."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Kankacho.jpg"
+    },
+    {
+      "id": 2102,
+      "nombre": "Pesque de Quinua",
+      "tipo": "Fondo / Desayuno",
+      "ingredientes": ["Quinua blanca lavada", "Leche fresca", "Queso", "Mantequilla", "Anís"],
+      "preparacion": [
+        "Hervir la quinua hasta que reviente bien (sin sal al inicio).",
+        "Batir vigorosamente con leche y mantequilla hasta lograr un puré cremoso.",
+        "Mezclar con queso fresco picado."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Pesque_de_quinua.jpg/800px-Pesque_de_quinua.jpg"
+    },
+    {
+      "id": 2103,
+      "nombre": "Chairo Puneño",
+      "tipo": "Sopa",
+      "ingredientes": ["Chuño negro chancado", "Carne de cordero", "Chalona (carne seca)", "Zanahoria", "Mote"],
+      "preparacion": [
+        "Hervir las carnes hasta obtener un caldo sustancioso.",
+        "Agregar las verduras picadas en tiras finas y el mote.",
+        "Espesar con el chuño chancado remojado."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Chairo_soup.jpg"
+    },
+    {
+      "id": 2104,
+      "nombre": "Thimpo de Carachi",
+      "tipo": "Sopa / Fondo",
+      "ingredientes": ["Carachi (pez del Titicaca)", "Muña", "Chuño", "Papa", "Cebolla"],
+      "preparacion": [
+        "Hervir el pescado carachi (muy nutritivo) con papas y chuño.",
+        "Aromatizar con mucha muña.",
+        "Se sirve el caldo aparte y el pescado con las papas en otro plato (el 'seco')."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Thimpo.jpg"
+    },
+    {
+      "id": 2105,
+      "nombre": "Trucha Frita",
+      "tipo": "Fondo",
+      "ingredientes": ["Trucha del Titicaca", "Harina", "Papas doradas", "Ensalada criolla"],
+      "preparacion": [
+        "Sazonar la trucha fresca y pasar por harina.",
+        "Freír en aceite bien caliente hasta dorar.",
+        "Acompañar con papas y arroz."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Trucha_frita.jpg/800px-Trucha_frita.jpg"
+    },
+    {
+      "id": 2106,
+      "nombre": "Huatia",
+      "tipo": "Festivo",
+      "ingredientes": ["Papas nativas", "Ocas", "Habas", "Queso (opcional)"],
+      "preparacion": [
+        "Construir un horno con terrones de tierra (curpas) en el campo.",
+        "Calentar con leña hasta que los terrones estén al rojo vivo.",
+        "Derrumbar el horno sobre las papas y dejar cocinar con el calor residual de la tierra."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Huatia.jpg"
+    },
+    {
+      "id": 2107,
+      "nombre": "Chicharrón de Alpaca",
+      "tipo": "Fondo",
+      "ingredientes": ["Carne de alpaca", "Chuño", "Maíz tostado", "Sal"],
+      "preparacion": [
+        "Cocer la alpaca en agua hasta que evapore.",
+        "Dorar en su propia grasa (es una carne magra y sana).",
+        "Servir con chuño y cancha."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Chicharr%C3%B3n_de_alpaca.jpg/800px-Chicharr%C3%B3n_de_alpaca.jpg"
+    },
+    {
+      "id": 2108,
+      "nombre": "Caldo de Cabeza (Huarjata)",
+      "tipo": "Sopa",
+      "ingredientes": ["Cabeza de cordero/cerdo", "Chuño negro", "Papas", "Arroz"],
+      "preparacion": [
+        "Limpiar y trozar la cabeza.",
+        "Hervir por horas para concentrar el sabor y colágeno.",
+        "Servir con chuño entero y papa pelada."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Huarjata.jpg"
+    },
+    {
+      "id": 2109,
+      "nombre": "Queso Cauche",
+      "tipo": "Fondo",
+      "ingredientes": ["Queso fresco", "Cebolla", "Papa", "Huacatay", "Leche"],
+      "preparacion": [
+        "Hacer un sofrito de cebolla y ají.",
+        "Colocar las papas y cubrir con láminas de queso.",
+        "Agregar leche y huacatay, tapar para que el queso se derrita."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_QuesoCauche.jpg"
+    },
+    {
+      "id": 2110,
+      "nombre": "Ispis Fritos",
+      "tipo": "Entrada / Snack",
+      "ingredientes": ["Ispis (pececillos del lago)", "Harina de maíz", "Aceite", "Mote"],
+      "preparacion": [
+        "Lavar y secar los ispis.",
+        "Enharinar y freír en abundante aceite hasta que estén como galletas crocantes.",
+        "Se comen enteros (con espinas) acompañados de mote."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Ispis.jpg"
+    },
+    {
+      "id": 2111,
+      "nombre": "Sancochado Puneño",
+      "tipo": "Fondo",
+      "ingredientes": ["Carne de res", "Cordero", "Papas", "Chuño", "Repollo"],
+      "preparacion": [
+        "Hervir las carnes con verduras.",
+        "Lo distintivo es el acompañamiento de chuño blanco y negro, y salsas picantes de la zona."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_SancochadoPuno.jpg"
+    },
+    {
+      "id": 2112,
+      "nombre": "Mazamorra de Quinua",
+      "tipo": "Postre",
+      "ingredientes": ["Harina de quinua", "Leche", "Canela", "Azúcar", "Pasas"],
+      "preparacion": [
+        "Disolver la harina de quinua y cocinar con canela.",
+        "Agregar leche y azúcar hasta espesar.",
+        "Postre muy nutritivo y caliente."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_MazamorraQuinua.jpg"
+    },
+    {
+      "id": 2113,
+      "nombre": "Quispiño",
+      "tipo": "Pan / Guarnición",
+      "ingredientes": ["Harina de quinua", "Cal (lejía natural)", "Agua", "Manteca"],
+      "preparacion": [
+        "Mezclar harina de quinua con agua de cal.",
+        "Formar pequeños panecillos oscuros al vapor.",
+        "Se come frío, sustituyendo al pan, y dura mucho tiempo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Quispino.jpg"
+    },
+    {
+      "id": 2114,
+      "nombre": "Chuño Cola",
+      "tipo": "Sopa",
+      "ingredientes": ["Harina de chuño negro", "Carne", "Papas", "Verduras"],
+      "preparacion": [
+        "Hervir caldo de carne.",
+        "Espesar con harina de chuño diluida (textura gelatinosa).",
+        "Plato energético ancestral."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ChunoColaPuno.jpg"
+    },
+    {
+      "id": 2115,
+      "nombre": "Fricasé Puneño",
+      "tipo": "Fondo",
+      "ingredientes": ["Cerdo", "Mote", "Chuño", "Ají amarillo", "Pan molido"],
+      "preparacion": [
+        "Guiso picante de cerdo con ají amarillo.",
+        "Se espesa con pan molido y se sirve con abundante mote y chuño."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Fricase.jpg"
+    },
+    {
+      "id": 2116,
+      "nombre": "Ponche de Habas",
+      "tipo": "Bebida",
+      "ingredientes": ["Harina de habas tostadas", "Leche", "Huevo", "Pisco (opcional)"],
+      "preparacion": [
+        "Cocinar la harina de habas con leche y especias.",
+        "Batir con huevo para que espume.",
+        "Bebida caliente para las mañanas frías."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PoncheHabas.jpg"
+    },
+    {
+      "id": 2117,
+      "nombre": "Sajta de Pollo",
+      "tipo": "Fondo",
+      "ingredientes": ["Pollo", "Tunta (chuño blanco)", "Ají amarillo", "Cebolla", "Arvejas"],
+      "preparacion": [
+        "Estofado de pollo en salsa de ají amarillo con arvejas.",
+        "Se sirve obligatoriamente sobre una cama de tunta rebozada con huevo o queso."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Sajta.jpg"
+    },
+    {
+      "id": 2118,
+      "nombre": "Chupe de Quinua",
+      "tipo": "Sopa",
+      "ingredientes": ["Quinua", "Verduras", "Queso", "Leche", "Huevo"],
+      "preparacion": [
+        "Sopa consistente donde la quinua se cocina con verduras.",
+        "Se finaliza con leche y queso para darle cremosidad."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ChupeQuinua.jpg"
+    },
+    {
+      "id": 2119,
+      "nombre": "Torrejas de Quinua",
+      "tipo": "Entrada",
+      "ingredientes": ["Quinua cocida", "Huevo", "Harina", "Cebolla", "Queso"],
+      "preparacion": [
+        "Mezclar la quinua graneada con huevo y queso.",
+        "Freír en aceite formando tortillas.",
+        "Opción vegetariana y nutritiva."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Torrejas.jpg"
+    },
+    {
+      "id": 2120,
+      "nombre": "Chicha de Quinua",
+      "tipo": "Bebida",
+      "ingredientes": ["Quinua", "Piña", "Manzana", "Canela", "Clavo"],
+      "preparacion": [
+        "Hervir la quinua con cáscaras de fruta y especias.",
+        "Colar y servir fría (refresco) o dejar fermentar ligeramente."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ChichaQuinua.jpg"
+    }
+  ]
+}

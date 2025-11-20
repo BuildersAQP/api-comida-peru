@@ -1,0 +1,244 @@
+{
+  "id_region": "CAJ",
+  "nombre_region": "Cajamarca",
+  "dato_curioso": "Cajamarca es conocida por su gran producción lechera, lo que hace que el 'Manjar Blanco' y el 'Quesillo' sean omnipresentes. Su plato bandera, el 'Cuy Frito', se diferencia del de otras regiones por ir acompañado de un guiso picante de papa y maní.",
+  "platos": [
+    {
+      "id": 1101,
+      "nombre": "Cuy Frito con Picante de Papa",
+      "tipo": "Fondo",
+      "ingredientes": ["Cuy entero", "Papa", "Ají panca", "Maní", "Ajos"],
+      "preparacion": [
+        "Adobar el cuy con ajo y sal, y freírlo en abundante aceite hasta que esté muy crocante (estilo chactado).",
+        "Sancochar las papas y cortarlas en cubos.",
+        "Preparar un aderezo de ají panca y maní, y mezclar con las papas (picante)."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cuy_frito_con_picante_de_papas.jpg/800px-Cuy_frito_con_picante_de_papas.jpg"
+    },
+    {
+      "id": 1102,
+      "nombre": "Caldo Verde",
+      "tipo": "Sopa",
+      "ingredientes": ["Papas", "Quesillo (queso fresco)", "Huevos", "Paico", "Ruda", "Perejil"],
+      "preparacion": [
+        "Hervir un caldo de papa.",
+        "Licuar o moler las hierbas (paico, ruda, perejil) y agregarlas al caldo.",
+        "Servir con un huevo escalfado dentro y abundante quesillo desmenuzado."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CaldoVerde.jpg"
+    },
+    {
+      "id": 1103,
+      "nombre": "Frito Cajamarquino",
+      "tipo": "Desayuno",
+      "ingredientes": ["Vísceras de cerdo", "Carne de cerdo", "Papa sancochada", "Achiote", "Mote"],
+      "preparacion": [
+        "Cocinar las menudencias y la carne de cerdo con un aderezo de achiote y azafrán.",
+        "Dejar que se reduzca hasta que quede jugoso pero frito.",
+        "Servir acompañado de papa sancochada y mote. Típico del Carnaval."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_FritoCajamarquino.jpg"
+    },
+    {
+      "id": 1104,
+      "nombre": "Cecina Shilpida",
+      "tipo": "Fondo",
+      "ingredientes": ["Cecina de cerdo (seca)", "Huevos", "Cebolla", "Tomate", "Ají"],
+      "preparacion": [
+        "Deshilachar o trozar la cecina seca.",
+        "Freír la cecina y mezclarla con un sofrito de cebolla y tomate.",
+        "Revolver con huevos batidos (similar a un revuelto)."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CecinaShilpida.jpg"
+    },
+    {
+      "id": 1105,
+      "nombre": "Quesillo con Miel",
+      "tipo": "Postre",
+      "ingredientes": ["Quesillo (cuajada fresca)", "Miel de caña (chancaca)"],
+      "preparacion": [
+        "Cortar el quesillo fresco en láminas o cubos.",
+        "Bañar generosamente con miel de chancaca.",
+        "Es el postre más sencillo y tradicional de la región."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_QuesilloMiel.jpg"
+    },
+    {
+      "id": 1106,
+      "nombre": "Sopa de Chochoca",
+      "tipo": "Sopa",
+      "ingredientes": ["Harina de maíz fermentado (chochoca)", "Carne de res", "Papa", "Apio"],
+      "preparacion": [
+        "Hacer un caldo de carne con verduras.",
+        "Diluir la harina de chochoca en agua fría y agregar al caldo.",
+        "Cocinar moviendo constantemente hasta que espese."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ChochocaCajamarca.jpg"
+    },
+    {
+      "id": 1107,
+      "nombre": "Humitas Cajamarquinas",
+      "tipo": "Entrada / Postre",
+      "ingredientes": ["Choclo", "Manteca", "Queso (saladas)", "Pasas y azúcar (dulces)"],
+      "preparacion": [
+        "Moler el choclo y mezclar con manteca.",
+        "Si son saladas, rellenar con queso; si son dulces, agregar azúcar y pasas.",
+        "Envolver en panca y cocinar al vapor."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Humita.jpg/800px-Humita.jpg"
+    },
+    {
+      "id": 1108,
+      "nombre": "Manjar Blanco",
+      "tipo": "Postre",
+      "ingredientes": ["Leche fresca de vaca", "Azúcar", "Canela"],
+      "preparacion": [
+        "Hervir la leche con el azúcar en perol de cobre.",
+        "Mover constantemente con pala de madera por horas hasta que tome punto (espese y cambie de color).",
+        "Enfriar y envasar."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Manjar_blanco_peruano.jpg/800px-Manjar_blanco_peruano.jpg"
+    },
+    {
+      "id": 1109,
+      "nombre": "Chicharrón con Mote",
+      "tipo": "Fondo",
+      "ingredientes": ["Cerdo", "Sal", "Hierbabuena", "Mote de maíz"],
+      "preparacion": [
+        "Cocinar trozos de cerdo en agua con hierbabuena.",
+        "Dejar que el agua se evapore y la carne se fría en su propia grasa.",
+        "Servir caliente con mote pelado."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chicharr%C3%B3n_peruano.jpg/800px-Chicharr%C3%B3n_peruano.jpg"
+    },
+    {
+      "id": 1110,
+      "nombre": "Rosquitas de Manteca",
+      "tipo": "Snack / Panadería",
+      "ingredientes": ["Harina", "Manteca de cerdo", "Sal", "Agua"],
+      "preparacion": [
+        "Amasar la harina con manteca hasta obtener una masa quebradiza.",
+        "Formar rosquitas pequeñas.",
+        "Hornear hasta que estén doradas y crujientes."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Rosquitas.jpg"
+    },
+    {
+      "id": 1111,
+      "nombre": "Conserva de Higos",
+      "tipo": "Postre",
+      "ingredientes": ["Higos maduros", "Azúcar", "Clavo de olor"],
+      "preparacion": [
+        "Hacer un almíbar con azúcar y clavo.",
+        "Cocinar los higos enteros en el almíbar hasta que estén suaves y brillantes."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Higos.jpg"
+    },
+    {
+      "id": 1112,
+      "nombre": "Caldo de Cabeza de Carnero",
+      "tipo": "Sopa",
+      "ingredientes": ["Cabeza de carnero", "Hierbabuena", "Papa", "Mote"],
+      "preparacion": [
+        "Limpiar y trozar la cabeza.",
+        "Hervir por largo tiempo con mote.",
+        "Al final agregar papa y abundante hierbabuena. Se consume para reponer energías."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CaldoCabeza.jpg"
+    },
+    {
+      "id": 1113,
+      "nombre": "Tamal Cajamarquino",
+      "tipo": "Entrada",
+      "ingredientes": ["Harina de maíz", "Manteca", "Cerdo", "Ají panca", "Hojas de plátano"],
+      "preparacion": [
+        "Hacer una masa de maíz condimentada.",
+        "Rellenar con carne de cerdo y huevo.",
+        "A diferencia de otros andinos, se suele envolver en hoja de plátano (influencia de selva alta)."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_TamalCajamarca.jpg"
+    },
+    {
+      "id": 1114,
+      "nombre": "Arroz de Trigo",
+      "tipo": "Guarnición / Fondo",
+      "ingredientes": ["Trigo pelado", "Aceite", "Ajos", "Sal"],
+      "preparacion": [
+        "Chancar ligeramente el trigo.",
+        "Granearlo en olla como si fuera arroz común, con ajo y sal.",
+        "Sirve de acompañamiento para guisos."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ArrozTrigo.jpg"
+    },
+    {
+      "id": 1115,
+      "nombre": "Estofado de Carnero",
+      "tipo": "Fondo",
+      "ingredientes": ["Carne de carnero", "Ají panca", "Chicha de jora", "Papas", "Arvejas"],
+      "preparacion": [
+        "Macerar el carnero en chicha y ají.",
+        "Guisar lentamente con las verduras y papas hasta que la carne se desprenda del hueso."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_EstofadoCarnero.jpg"
+    },
+    {
+      "id": 1116,
+      "nombre": "Sopa de Pan",
+      "tipo": "Sopa",
+      "ingredientes": ["Pan frío (tipo piso)", "Caldo de carne", "Huevo", "Queso"],
+      "preparacion": [
+        "Tener un caldo de carne hirviendo.",
+        "Remojar el pan y agregarlo al caldo.",
+        "Batir huevo y queso dentro de la sopa antes de servir."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_SopaPan.jpg"
+    },
+    {
+      "id": 1117,
+      "nombre": "Picante de Cuy (Guisado)",
+      "tipo": "Fondo",
+      "ingredientes": ["Cuy trozado", "Ají panca", "Papas", "Maní"],
+      "preparacion": [
+        "Freír ligeramente las presas de cuy.",
+        "Terminar la cocción dentro de un aderezo picante de ají y maní con papas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PicanteCuy.jpg"
+    },
+    {
+      "id": 1118,
+      "nombre": "Turrón de Cajamarca",
+      "tipo": "Postre",
+      "ingredientes": ["Miel de caña", "Clara de huevo", "Nueces o maní"],
+      "preparacion": [
+        "Batir las claras a punto de nieve.",
+        "Agregar la miel caliente en hilo sin dejar de batir (tipo nougat).",
+        "Mezclar con nueces y enfriar."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_TurronCajamarca.jpg"
+    },
+    {
+      "id": 1119,
+      "nombre": "Pan de Agua (Pan de Piso)",
+      "tipo": "Panadería",
+      "ingredientes": ["Harina", "Agua", "Sal", "Levadura"],
+      "preparacion": [
+        "Masa simple sin mucha grasa.",
+        "Se hornea directamente en el piso del horno de leña.",
+        "Corteza dura y miga suave."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PanPiso.jpg"
+    },
+    {
+      "id": 1120,
+      "nombre": "Poroto con Pato",
+      "tipo": "Fondo",
+      "ingredientes": ["Pato", "Frijol (poroto)", "Culantro", "Zapallo"],
+      "preparacion": [
+        "Hacer un guiso de pato.",
+        "Cocinar los frijoles por separado.",
+        "Mezclar todo y dejar que los sabores se integren."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PorotoPato.jpg"
+    }
+  ]
+}

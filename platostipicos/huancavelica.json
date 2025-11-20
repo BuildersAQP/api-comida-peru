@@ -1,0 +1,246 @@
+{
+  "id_region": "HUV",
+  "nombre_region": "Huancavelica",
+  "dato_curioso": "Huancavelica es famosa por su 'Mondongo', una sopa que se cocina durante toda la noche anterior a las fiestas en ollas gigantes para que el maíz mote reviente y la carne se deshaga. Además, es una de las regiones con mayor consumo de carne de alpaca, considerada una de las más saludables del mundo.",
+  "platos": [
+    {
+      "id": 1301,
+      "nombre": "Mondongo Huancavelicano",
+      "tipo": "Sopa / Festivo",
+      "ingredientes": ["Mote (maíz pelado)", "Carne de res", "Carne de carnero", "Mondongo", "Cabeza de vacuno"],
+      "preparacion": [
+        "Cocinar el mote y las carnes en olla de barro durante toda la noche (mínimo 8 horas).",
+        "Servir muy caliente con aderezo de ají colorado y hierbabuena.",
+        "Es el plato típico de bodas, bautizos y fiestas patronales."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_MondongoH.jpg"
+    },
+    {
+      "id": 1302,
+      "nombre": "Pachamanca Huancavelicana",
+      "tipo": "Festivo",
+      "ingredientes": ["Carnero", "Alpaca", "Cerdo", "Papas nativas", "Ocas", "Habas", "Chincho"],
+      "preparacion": [
+        "Calentar piedras en un hoyo.",
+        "Macerar las carnes con chincho y especias.",
+        "Enterrar ingredientes intercalados con piedras calientes y cubrir con tierra."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pachamanca.jpg"
+    },
+    {
+      "id": 1303,
+      "nombre": "Chicharrón de Alpaca",
+      "tipo": "Fondo",
+      "ingredientes": ["Carne de alpaca", "Sal", "Maíz tostado (cancha)", "Papas"],
+      "preparacion": [
+        "Cortar la carne de alpaca en trozos y hervir hasta que se consuma el agua.",
+        "Freír en su propia grasa.",
+        "Servir con cancha, papas y salsa criolla. Es una carne baja en colesterol."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Chicharr%C3%B3n_de_alpaca.jpg/800px-Chicharr%C3%B3n_de_alpaca.jpg"
+    },
+    {
+      "id": 1304,
+      "nombre": "Patachi",
+      "tipo": "Sopa",
+      "ingredientes": ["Trigo pelado", "Carne de res", "Tocino ahumado", "Habas", "Arvejas"],
+      "preparacion": [
+        "Hervir el trigo con las carnes durante horas hasta que el grano reviente.",
+        "Añadir las menestras frescas.",
+        "Es una sopa muy espesa, casi un guiso, llena de energía para el trabajo de campo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PatachiH.jpg"
+    },
+    {
+      "id": 1305,
+      "nombre": "Tiqi (Tique)",
+      "tipo": "Fondo",
+      "ingredientes": ["Carne de alpaca", "Quesillo", "Leche", "Papas", "Ají"],
+      "preparacion": [
+        "Picar la carne de alpaca muy fina.",
+        "Hacer un guiso con papas picadas.",
+        "Al final agregar leche y quesillo, resultando en un plato jugoso y blanco."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Tiqi.jpg"
+    },
+    {
+      "id": 1306,
+      "nombre": "Carnero al Palo",
+      "tipo": "Fondo",
+      "ingredientes": ["Carnero entero", "Sal", "Ajos", "Cerveza o chicha", "Limón"],
+      "preparacion": [
+        "Macerar el carnero abierto.",
+        "Ensartar en un palo y cocinar a las brasas girando lentamente por horas.",
+        "Servir con papas sancochadas y ají."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CarneroPalo.jpg"
+    },
+    {
+      "id": 1307,
+      "nombre": "Cuy Colorado",
+      "tipo": "Fondo",
+      "ingredientes": ["Cuy", "Ají panca (colorado)", "Maní", "Papas", "Arroz"],
+      "preparacion": [
+        "Freír el cuy.",
+        "Preparar una salsa roja con ají panca y maní molido.",
+        "Bañar el cuy en la salsa y cocinar unos minutos para integrar sabores."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CuyColorado.jpg"
+    },
+    {
+      "id": 1308,
+      "nombre": "Chuño Pasi",
+      "tipo": "Guarnición / Fondo",
+      "ingredientes": ["Chuño negro (remojado)", "Huevos", "Queso", "Manteca"],
+      "preparacion": [
+        "Sancochar el chuño y escurrir.",
+        "Sofreír en manteca y revuelto con huevos batidos y queso desmenuzado.",
+        "Se come típicamente en el desayuno o cena."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ChunoPasi.jpg"
+    },
+    {
+      "id": 1309,
+      "nombre": "Picante de Llullucha",
+      "tipo": "Fondo",
+      "ingredientes": ["Llullucha (algas de lagunas altoandinas)", "Papas", "Ají amarillo", "Cebolla"],
+      "preparacion": [
+        "Lavar bien las algas (bolitas verdes).",
+        "Guisar con papas en cubos y un aderezo picante de ají.",
+        "Plato muy rico en hierro."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Llullucha.jpg"
+    },
+    {
+      "id": 1310,
+      "nombre": "Mazamorra de Calabaza",
+      "tipo": "Postre",
+      "ingredientes": ["Calabaza", "Chancaca", "Canela", "Clavo", "Leche"],
+      "preparacion": [
+        "Cocinar la calabaza con cáscara en poca agua.",
+        "Retirar la pulpa y cocinar con chancaca y especias hasta que tome punto.",
+        "Servir con leche evaporada."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_MazamorraCalabazaH.jpg"
+    },
+    {
+      "id": 1311,
+      "nombre": "Teqte (Tecre)",
+      "tipo": "Guiso",
+      "ingredientes": ["Papas", "Queso", "Leche", "Arvejas", "Habas", "Paico"],
+      "preparacion": [
+        "Cocinar papas y menestras verdes.",
+        "Añadir un aderezo de queso, leche y huevos, aromatizado con paico.",
+        "Es un guiso vegetariano muy común en la sierra."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Teqte.jpg"
+    },
+    {
+      "id": 1312,
+      "nombre": "Trucha Frita",
+      "tipo": "Fondo",
+      "ingredientes": ["Trucha de río/laguna", "Harina", "Papas", "Ensalada"],
+      "preparacion": [
+        "Aprovechando las lagunas de la región, se pesca la trucha.",
+        "Se fríe en manteca o aceite bien caliente.",
+        "Se sirve con papas nativas."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Trucha_frita.jpg/800px-Trucha_frita.jpg"
+    },
+    {
+      "id": 1313,
+      "nombre": "Puspu (Habas Tostadas)",
+      "tipo": "Snack",
+      "ingredientes": ["Habas secas", "Sal", "Agua"],
+      "preparacion": [
+        "Remojar las habas en agua salada.",
+        "Tostar en tiesto de barro (callana) hasta que estén crocantes.",
+        "Fiambre típico para los viajeros."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Puspu.jpg"
+    },
+    {
+      "id": 1314,
+      "nombre": "Sopa de Morón",
+      "tipo": "Sopa",
+      "ingredientes": ["Cebada partida (morón)", "Carne de cordero", "Papas", "Apio"],
+      "preparacion": [
+        "Hervir el caldo de cordero.",
+        "Agregar el morón lavado y cocinar hasta que espese.",
+        "Nutritivo y caliente para el frío de altura."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_SopaMoron.jpg"
+    },
+    {
+      "id": 1315,
+      "nombre": "Guiso de Quinua",
+      "tipo": "Fondo",
+      "ingredientes": ["Quinua", "Queso", "Papas", "Achiote"],
+      "preparacion": [
+        "Lavar la quinua varias veces.",
+        "Guisar con aderezo de achiote y papas.",
+        "Finalizar con queso fresco."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_GuisoQuinua.jpg"
+    },
+    {
+      "id": 1316,
+      "nombre": "Ponche de Habas",
+      "tipo": "Bebida",
+      "ingredientes": ["Harina de habas", "Leche", "Azúcar", "Canela", "Pisco (opcional)"],
+      "preparacion": [
+        "Disolver la harina de habas y cocinar.",
+        "Mezclar con leche caliente y especias.",
+        "A veces se añade un punto de licor para calentar el cuerpo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PoncheHabasH.jpg"
+    },
+    {
+      "id": 1317,
+      "nombre": "Bisteck de Alpaca",
+      "tipo": "Fondo",
+      "ingredientes": ["Lomo de alpaca", "Arroz", "Papas fritas", "Ensalada"],
+      "preparacion": [
+        "Filetear el lomo de alpaca.",
+        "Freír a la plancha (vuelta y vuelta para no secarla).",
+        "Servir al estilo 'a lo pobre' o con arroz."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_BisteckAlpaca.jpg"
+    },
+    {
+      "id": 1318,
+      "nombre": "Empanadas de Queso",
+      "tipo": "Panadería",
+      "ingredientes": ["Harina", "Manteca", "Queso", "Achiote", "Azúcar impalpable"],
+      "preparacion": [
+        "Hacer una masa quebradiza.",
+        "Rellenar con queso serrano.",
+        "Hornear y espolvorear con azúcar (son dulces y saladas a la vez)."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_EmpanadasH.jpg"
+    },
+    {
+      "id": 1319,
+      "nombre": "Olluquito con Charqui",
+      "tipo": "Fondo",
+      "ingredientes": ["Olluco", "Charqui de alpaca", "Papas", "Perejil"],
+      "preparacion": [
+        "Picar el olluco finamente.",
+        "Cocinar junto con el charqui deshilachado y papa picada para dar cuerpo.",
+        "Servir con perejil picado."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Olluquito_con_charqui.jpg/800px-Olluquito_con_charqui.jpg"
+    },
+    {
+      "id": 1320,
+      "nombre": "Qapchi de Chuño",
+      "tipo": "Entrada",
+      "ingredientes": ["Chuño", "Queso", "Rocoto", "Huacatay", "Leche"],
+      "preparacion": [
+        "Similar al qapchi de papa, pero usando chuño sancochado.",
+        "Se baña con una salsa rústica de queso, rocoto y huacatay."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_QapchiChuno.jpg"
+    }
+  ]
+}

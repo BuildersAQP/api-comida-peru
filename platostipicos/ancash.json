@@ -1,0 +1,247 @@
+{
+  "id_region": "ANC",
+  "nombre_region": "Áncash",
+  "dato_curioso": "La gastronomía ancashina destaca por el uso intensivo del 'Chocho' o 'Tarwi' (leguminosa andina) y por platos únicos como la 'Llunca Cashqui' (sopa de trigo). Además, en su costa (Casma/Huarmey) se prepara el famoso Ceviche de Pato.",
+  "platos": [
+    {
+      "id": 801,
+      "nombre": "Picante de Cuy",
+      "tipo": "Fondo",
+      "ingredientes": ["Cuy entero", "Ají panca", "Maní", "Papas", "Ajos"],
+      "preparacion": [
+        "Freír el cuy sazonado hasta que esté dorado.",
+        "Preparar una salsa espesa con ají panca, maní y el caldo del cuy.",
+        "Servir el cuy bañado en esta salsa acompañado de papas."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Picante_de_cuy.jpg/800px-Picante_de_cuy.jpg"
+    },
+    {
+      "id": 802,
+      "nombre": "Llunca Cashqui",
+      "tipo": "Sopa",
+      "ingredientes": ["Trigo resbalado (llunca)", "Gallina", "Papa", "Huacatay", "Orégano"],
+      "preparacion": [
+        "Hervir la gallina para hacer un caldo sustancioso.",
+        "Agregar el trigo remojado y cocinar hasta que reviente.",
+        "Añadir papas y finalizar con un aderezo de hierbas (chincho/huacatay)."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Llunca.jpg"
+    },
+    {
+      "id": 803,
+      "nombre": "Ceviche de Chochos",
+      "tipo": "Entrada / Street Food",
+      "ingredientes": ["Chochos (tarwi) desamargados", "Limón", "Cebolla", "Tomate", "Cancha", "Culantro"],
+      "preparacion": [
+        "Lavar bien los chochos.",
+        "Mezclar en un bol con cebolla picada, tomate y culantro.",
+        "Aliñar con bastante limón y sal (estilo ceviche).",
+        "Servir con cancha tostada."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ceviche_de_chochos.jpg/800px-Ceviche_de_chochos.jpg"
+    },
+    {
+      "id": 804,
+      "nombre": "Cuchicanca",
+      "tipo": "Fondo",
+      "ingredientes": ["Cerdo (lechón)", "Vinagre", "Ají mirasol", "Ajos"],
+      "preparacion": [
+        "Macerar la carne de cerdo con vinagre, ají mirasol y sal desde el día anterior.",
+        "Hornear a fuego lento hasta que la carne esté tierna y la piel dorada.",
+        "Servir con mote y papas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Cuchicanca.jpg"
+    },
+    {
+      "id": 805,
+      "nombre": "Pecan Caldo",
+      "tipo": "Sopa (Desayuno)",
+      "ingredientes": ["Cabeza de carnero", "Mondongo", "Mote", "Hierbabuena", "Paico"],
+      "preparacion": [
+        "Hervir la cabeza de carnero limpia durante toda la madrugada.",
+        "Agregar el mondongo y el mote.",
+        "Servir muy caliente al amanecer con hierbas picadas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PecanCaldo.jpg"
+    },
+    {
+      "id": 806,
+      "nombre": "Ceviche de Pato",
+      "tipo": "Fondo (Costa)",
+      "ingredientes": ["Pato", "Ají mirasol", "Limón (o naranja agria)", "Cebolla", "Yuca"],
+      "preparacion": [
+        "Macerar el pato en trozos con limón y ají.",
+        "Sudar el pato en olla (no es crudo como el pescado) con su marinada.",
+        "Servir jugoso acompañado de yucas y cebolla."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ceviche_de_pato.jpg/800px-Ceviche_de_pato.jpg"
+    },
+    {
+      "id": 807,
+      "nombre": "Jamón Huaracino",
+      "tipo": "Entrada / Fiambre",
+      "ingredientes": ["Pierna de cerdo", "Sal", "Ajos", "Achiote"],
+      "preparacion": [
+        "Macerar la pierna de cerdo con sal y achiote por varios días.",
+        "Secar y ahumar ligeramente.",
+        "Servir en láminas frías con ensalada o pan."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_JamonHuaracino.jpg"
+    },
+    {
+      "id": 808,
+      "nombre": "Puchero Ancashino",
+      "tipo": "Fondo",
+      "ingredientes": ["Carne de res", "Carne de cerdo", "Col", "Papa", "Camote", "Yuca", "Jamón"],
+      "preparacion": [
+        "Hervir las carnes.",
+        "Agregar las verduras y tubérculos enteros.",
+        "Servir el caldo por un lado y las carnes con verduras por otro."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Puchero.jpg"
+    },
+    {
+      "id": 809,
+      "nombre": "Jaka Cashqui",
+      "tipo": "Sopa",
+      "ingredientes": ["Cuy", "Papa", "Queso", "Habas", "Fideos"],
+      "preparacion": [
+        "Preparar un caldo base con el cuy trozado.",
+        "Añadir papas, habas y fideos.",
+        "Finalizar agregando queso fresco y leche."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_JakaCashqui.jpg"
+    },
+    {
+      "id": 810,
+      "nombre": "Charqui con Papas",
+      "tipo": "Fondo",
+      "ingredientes": ["Charqui (carne seca de res o alpaca)", "Papa", "Cebolla", "Ají"],
+      "preparacion": [
+        "Remojar el charqui y deshilachar.",
+        "Freír el charqui con cebolla y ají.",
+        "Servir revuelto con papas sancochadas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Charqui.jpg"
+    },
+    {
+      "id": 811,
+      "nombre": "Api de Calabaza",
+      "tipo": "Postre",
+      "ingredientes": ["Calabaza madura", "Chancaca", "Leche", "Canela", "Harina de maíz"],
+      "preparacion": [
+        "Hervir la calabaza con chancaca y especias.",
+        "Triturar la calabaza.",
+        "Espesar ligeramente con harina de maíz disuelta y agregar leche."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ApiCalabaza.jpg"
+    },
+    {
+      "id": 812,
+      "nombre": "Pachamanca Ancashina",
+      "tipo": "Festivo",
+      "ingredientes": ["Cerdo", "Pollo", "Cuy", "Papas", "Ocas", "Habas", "Chincho"],
+      "preparacion": [
+        "Adobar las carnes con chincho molido (hierba clave).",
+        "Calentar piedras en un hoyo en la tierra.",
+        "Colocar papas, carnes y habas, cubrir y cocinar bajo tierra por horas."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pachamanca.jpg"
+    },
+    {
+      "id": 813,
+      "nombre": "Mazamorra de Tocosh",
+      "tipo": "Postre / Medicinal",
+      "ingredientes": ["Tocosh (papa fermentada)", "Azúcar", "Canela", "Clavo de olor"],
+      "preparacion": [
+        "Hervir el tocosh fermentado con agua, canela y clavo.",
+        "Endulzar al gusto (tiene un olor fuerte pero sabor dulce y propiedades probióticas).",
+        "Servir caliente."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Tocosh.jpg"
+    },
+    {
+      "id": 814,
+      "nombre": "Trucha Frita",
+      "tipo": "Fondo",
+      "ingredientes": ["Trucha de río", "Harina", "Ajos", "Papas"],
+      "preparacion": [
+        "Sazonar la trucha con ajo y sal.",
+        "Pasar por harina y freír.",
+        "Servir con ensalada criolla y papas doradas."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Trucha_frita.jpg/800px-Trucha_frita.jpg"
+    },
+    {
+      "id": 815,
+      "nombre": "Tamales Ancashinos",
+      "tipo": "Entrada",
+      "ingredientes": ["Maíz pelado", "Manteca", "Relleno de carne", "Hojas de panca"],
+      "preparacion": [
+        "Moler el maíz y batir con manteca hasta que esté blanco y esponjoso.",
+        "Rellenar con carne guisada y ají.",
+        "Envolver en hojas de maíz y cocinar al vapor."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Tamales.jpg"
+    },
+    {
+      "id": 816,
+      "nombre": "Caldo de Gallina de Chacra",
+      "tipo": "Sopa",
+      "ingredientes": ["Gallina negra (de preferencia)", "Kion", "Fideos tallarín", "Huevo duro", "Canchita"],
+      "preparacion": [
+        "Hervir la gallina por horas hasta que esté suave.",
+        "Añadir fideos gruesos y papa amarilla.",
+        "Servir con huevo duro, cebolla china y cancha."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Caldo_de_gallina_peruano.jpg/800px-Caldo_de_gallina_peruano.jpg"
+    },
+    {
+      "id": 817,
+      "nombre": "Picante de Cochayuyo",
+      "tipo": "Guarnición / Fondo",
+      "ingredientes": ["Cochayuyo (algas de río/lago)", "Papas", "Ají amarillo", "Cebolla"],
+      "preparacion": [
+        "Lavar bien el cochayuyo.",
+        "Hacer un sofrito de cebolla y ají.",
+        "Mezclar las papas cocidas en cubos y el cochayuyo con el sofrito."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Cochayuyo.jpg"
+    },
+    {
+      "id": 818,
+      "nombre": "Wawa Caldo",
+      "tipo": "Sopa",
+      "ingredientes": ["Feto de ovino o cordero muy tierno", "Hierbabuena", "Papas"],
+      "preparacion": [
+        "Plato tradicional (medicinal para algunos) hecho hirviendo la carne tierna.",
+        "Se condimenta principalmente con hierbabuena."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_WawaCaldo.jpg"
+    },
+    {
+      "id": 819,
+      "nombre": "Shakvi (Shacwi)",
+      "tipo": "Desayuno / Mazamorra",
+      "ingredientes": ["Harina de arveja", "Harina de habas", "Carne (opcional)", "Papas"],
+      "preparacion": [
+        "Cocinar las harinas diluidas en caldo hasta formar una mazamorra espesa salada.",
+        "Añadir papas y a veces carne o charqui.",
+        "Se sirve típicamente en el desayuno serrano."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Shacwi.jpg"
+    },
+    {
+      "id": 820,
+      "nombre": "Chicha de Jora Ancashina",
+      "tipo": "Bebida",
+      "ingredientes": ["Jora (maíz germinado)", "Chancaca", "Agua", "Clavo de olor"],
+      "preparacion": [
+        "Hervir la jora por horas.",
+        "Colar y dejar fermentar en cántaros de barro.",
+        "En Áncash a veces se endulza más que en el sur."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Chicha_de_jora_cusque%C3%B1a.jpg"
+    }
+  ]
+}

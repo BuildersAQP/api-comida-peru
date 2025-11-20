@@ -1,0 +1,270 @@
+{
+  "id_region": "ICA",
+  "nombre_region": "Ica",
+  "dato_curioso": "Ica es el hogar del Pisco, el aguardiente de bandera del Perú. Su gastronomía tiene una fuerte influencia afroperuana (especialmente en Chincha) y su ingrediente estrella es el 'Pallar' (una leguminosa gigante), tanto que existe el dicho: 'Iqueño que no come pallar, no es iqueño'.",
+  "platos": [
+    {
+      "id": 1501,
+      "nombre": "Mancha Pecho",
+      "tipo": "Fondo",
+      "ingredientes": ["Carapulcra chinchana", "Sopa seca", "Cerdo", "Albahaca", "Ají panca"],
+      "preparacion": [
+        "Es la combinación de dos platos en uno: Carapulcra y Sopa Seca.",
+        "Se sirve una porción generosa de carapulcra y al lado (o encima) los tallarines verdes de la sopa seca.",
+        "El nombre viene porque al comer los fideos manchados de salsa, es fácil ensuciarse el pecho."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Carapulcra.jpg/800px-Carapulcra.jpg"
+    },
+    {
+      "id": 1502,
+      "nombre": "Carapulcra Chinchana",
+      "tipo": "Fondo",
+      "ingredientes": ["Papa seca (papa cristalizada)", "Carne de cerdo", "Ají panca", "Maní", "Clavo de olor"],
+      "preparacion": [
+        "Tostar y remojar la papa seca.",
+        "Hacer un aderezo con ají panca y cocinar con el cerdo.",
+        "A diferencia de la limeña, la chinchana suele ser más picante y usar papa fresca mezclada con seca."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CarapulcraChincha.jpg"
+    },
+    {
+      "id": 1503,
+      "nombre": "Sopa Seca",
+      "tipo": "Guarnición / Fondo",
+      "ingredientes": ["Tallarines", "Albahaca", "Achiote", "Perejil", "Pollo o gallina"],
+      "preparacion": [
+        "Hacer un aderezo con achiote (color rojo) y hierbas verdes (albahaca/perejil).",
+        "Cocinar los fideos en este caldo hasta que absorban todo el líquido (por eso es 'seca').",
+        "Queda como un tallarín jugoso y condimentado."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_SopaSeca.jpg"
+    },
+    {
+      "id": 1504,
+      "nombre": "Morusa de Pallares",
+      "tipo": "Guarnición",
+      "ingredientes": ["Pallares secos", "Tocino o cerdo", "Leche", "Queso", "Mantequilla"],
+      "preparacion": [
+        "Cocinar los pallares hasta que se deshagan casi como un puré.",
+        "Mezclar con un refrito de tocino o cerdo.",
+        "Suavizar con leche y mantequilla."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Morusa.jpg"
+    },
+    {
+      "id": 1505,
+      "nombre": "Picante de Pallares Verdes",
+      "tipo": "Fondo",
+      "ingredientes": ["Pallares verdes (tiernos)", "Ají amarillo", "Leche", "Queso", "Arroz"],
+      "preparacion": [
+        "Usar pallares frescos (verdes).",
+        "Guisar con un aderezo de ají amarillo.",
+        "Terminar con leche y queso fresco, servido con arroz."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PicantePallares.jpg"
+    },
+    {
+      "id": 1506,
+      "nombre": "Ensalada de Pallares",
+      "tipo": "Entrada",
+      "ingredientes": ["Pallares cocidos", "Cebolla", "Tomate", "Vinagre", "Ají limo"],
+      "preparacion": [
+        "Cocer los pallares al dente (que no se deshagan).",
+        "Mezclar en frío con cebolla picada, tomate y aliño de vinagre (salsa criolla).",
+        "Refrescante para el calor iqueño."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_EnsaladaPallares.jpg"
+    },
+    {
+      "id": 1507,
+      "nombre": "Tejas Iqueñas",
+      "tipo": "Postre",
+      "ingredientes": ["Manjar blanco", "Pecanas (o frutas confitadas)", "Baño de fondant (azúcar)"],
+      "preparacion": [
+        "Rellenar una pecana o fruta (higo/limón) con manjar blanco.",
+        "Bañar en una pasta blanca de azúcar (fondant), no chocolate.",
+        "Envolver en papel blanco con flecos."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tejas_dulce.jpg/800px-Tejas_dulce.jpg"
+    },
+    {
+      "id": 1508,
+      "nombre": "Chocotejas",
+      "tipo": "Postre",
+      "ingredientes": ["Chocolate", "Manjar blanco", "Pecanas", "Pasas borrachas"],
+      "preparacion": [
+        "Versión moderna de la teja.",
+        "Cascarilla de chocolate rellena de manjar y pecanas.",
+        "Se ha popularizado en todo el Perú."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tejas_dulce.jpg/800px-Tejas_dulce.jpg"
+    },
+    {
+      "id": 1509,
+      "nombre": "Frejol Colado",
+      "tipo": "Postre",
+      "ingredientes": ["Frijoles negros o canarios", "Azúcar (chancaca)", "Clavo de olor", "Ajonjolí", "Leche"],
+      "preparacion": [
+        "Cocinar los frijoles, pelarlos y licuarlos hasta hacer una pasta fina.",
+        "Cocinar con azúcar y especias hasta que tome punto (como un manjar oscuro).",
+        "Espolvorear con ajonjolí tostado."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Frejol_colado.jpg/800px-Frejol_colado.jpg"
+    },
+    {
+      "id": 1510,
+      "nombre": "Chapanas",
+      "tipo": "Postre",
+      "ingredientes": ["Yuca rallada", "Chancaca", "Anís", "Pasas", "Hojas de plátano"],
+      "preparacion": [
+        "Mezclar yuca cruda rallada con chancaca y especias.",
+        "Envolver en hojas de plátano y asar a la parrilla o al vapor.",
+        "Es un dulce gomoso y rústico."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Chapanas.jpg"
+    },
+    {
+      "id": 1511,
+      "nombre": "Pisco Sour",
+      "tipo": "Bebida",
+      "ingredientes": ["Pisco Quebranta", "Limón", "Jarabe de goma", "Clara de huevo", "Amargo de Angostura"],
+      "preparacion": [
+        "Batir o licuar 3 onzas de pisco, 1 de limón, 1 de jarabe y clara.",
+        "Servir frío con gotas de amargo.",
+        "Ica es la región productora por excelencia."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pisco_Sour_2010.jpg/800px-Pisco_Sour_2010.jpg"
+    },
+    {
+      "id": 1512,
+      "nombre": "Chilcano de Pisco",
+      "tipo": "Bebida",
+      "ingredientes": ["Pisco", "Ginger Ale", "Limón", "Hielo"],
+      "preparacion": [
+        "En un vaso largo con hielo, poner 2 onzas de pisco.",
+        "Completar con Ginger Ale y unas gotas de limón.",
+        "Refrescante y popular en la costa."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Chilcano.jpg/800px-Chilcano.jpg"
+    },
+    {
+      "id": 1513,
+      "nombre": "Cachina",
+      "tipo": "Bebida",
+      "ingredientes": ["Jugo de uva fermentado (mosto)"],
+      "preparacion": [
+        "Es el jugo de uva fresca que recién inicia su fermentación.",
+        "Se bebe estacionalmente durante la vendimia (festa de la uva).",
+        "Es dulce y traicionera (emborracha rápido)."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Cachina.jpg"
+    },
+    {
+      "id": 1514,
+      "nombre": "Chupe de Pallares",
+      "tipo": "Sopa",
+      "ingredientes": ["Pallares verdes", "Leche", "Queso", "Huevo", "Pescado (opcional)"],
+      "preparacion": [
+        "Hervir los pallares verdes.",
+        "Hacer un aderezo y agregar leche y queso.",
+        "Es una sopa contundente y cremosa."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ChupePallares.jpg"
+    },
+    {
+      "id": 1515,
+      "nombre": "Tamales Chinchanos",
+      "tipo": "Desayuno",
+      "ingredientes": ["Maíz blanco", "Ají panca", "Cerdo", "Huevo", "Aceituna"],
+      "preparacion": [
+        "Tamal cuadrado y grande, envuelto en hoja de plátano.",
+        "La masa es bien sazonada con ají panca."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_TamalChincha.jpg"
+    },
+    {
+      "id": 1516,
+      "nombre": "Machacado de Membrillo",
+      "tipo": "Postre",
+      "ingredientes": ["Membrillos", "Azúcar"],
+      "preparacion": [
+        "Cocinar los membrillos hasta deshacerlos.",
+        "Mezclar con azúcar hasta formar una pasta densa (ate).",
+        "Se corta en barras."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Machacado.jpg"
+    },
+    {
+      "id": 1517,
+      "nombre": "Ceviche de Pejerrey",
+      "tipo": "Entrada",
+      "ingredientes": ["Pejerrey", "Limón", "Ají limo", "Cebolla"],
+      "preparacion": [
+        "Usar pejerrey fresco de Paracas o Pisco.",
+        "Marinar brevemente en limón.",
+        "Textura delicada y sabor suave."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CevichePejerrey.jpg"
+    },
+    {
+      "id": 1518,
+      "nombre": "Picante de Mariscos",
+      "tipo": "Fondo",
+      "ingredientes": ["Mariscos variados", "Ají panca", "Ají amarillo", "Vino blanco"],
+      "preparacion": [
+        "Hacer una salsa picante y cremosa.",
+        "Cocinar los mariscos brevemente en la salsa.",
+        "Servir con arroz y yucas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PicanteMariscos.jpg"
+    },
+    {
+      "id": 1519,
+      "nombre": "Tortilla de Camarones",
+      "tipo": "Fondo",
+      "ingredientes": ["Camarones de río (Chinchipe/Pisco)", "Huevo", "Harina", "Cebolla"],
+      "preparacion": [
+        "Limpiar las colitas de camarón.",
+        "Mezclar con huevo batido y cebolla.",
+        "Freír como tortilla gruesa."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_TortillaCamaron.jpg"
+    },
+    {
+      "id": 1520,
+      "nombre": "Dulce de Alcayota",
+      "tipo": "Postre",
+      "ingredientes": ["Alcayota (calabaza blanca)", "Azúcar", "Clavo", "Canela"],
+      "preparacion": [
+        "Extraer las hebras de la alcayota.",
+        "Cocinar en almíbar hasta que cristalice.",
+        "Se usa como relleno de empanadas dulces o solo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Alcayota.jpg"
+    },
+    {
+      "id": 1521,
+      "nombre": "Coctel de Algarrobina",
+      "tipo": "Bebida",
+      "ingredientes": ["Pisco", "Algarrobina (jarabe)", "Leche evaporada", "Yema de huevo"],
+      "preparacion": [
+        "Licuar todos los ingredientes con hielo.",
+        "Servir con canela en polvo.",
+        "Muy popular en Ica por los algarrobos del desierto."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cocktail_de_Algarrobina.jpg/800px-Cocktail_de_Algarrobina.jpg"
+    },
+    {
+      "id": 1522,
+      "nombre": "Adobo de Cerdo Iqueño",
+      "tipo": "Fondo",
+      "ingredientes": ["Cerdo", "Vinagre", "Ají panca", "Garbanzos (opcional)"],
+      "preparacion": [
+        "Macerar el cerdo en vinagre y panca.",
+        "Cocinar hasta que quede jugoso.",
+        "A veces se sirve acompañado de garbanzos guisados."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_AdoboIca.jpg"
+    }
+  ]
+}

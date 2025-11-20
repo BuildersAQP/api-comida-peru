@@ -1,0 +1,306 @@
+{
+  "id_region": "ARE",
+  "nombre_region": "Arequipa",
+  "dato_curioso": "Arequipa es conocida como la 'Roma de América' no solo por su arquitectura, sino por su vasta riqueza culinaria. Posee el recetario más extenso de todo el Perú y sus picanterías son Patrimonio Cultural de la Nación. Se dice que en Arequipa 'no se come para vivir, se vive para comer'.",
+  "platos": [
+    {
+      "id": 401,
+      "nombre": "Rocoto Relleno",
+      "tipo": "Fondo / Entrada",
+      "ingredientes": ["Rocoto", "Carne de res picada", "Queso paria", "Leche", "Maní", "Pasas"],
+      "preparacion": [
+        "Limpiar los rocotos y hervirlos 3 veces en agua con vinagre y sal.",
+        "Preparar un guiso de carne con maní y pasas.",
+        "Rellenar los rocotos, cubrir con lámina de queso y mezcla de leche con huevo.",
+        "Hornear hasta gratinar."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rocoto_relleno_2.JPG/800px-Rocoto_relleno_2.JPG"
+    },
+    {
+      "id": 402,
+      "nombre": "Adobo Arequipeño",
+      "tipo": "Desayuno (Domingos)",
+      "ingredientes": ["Lomo de cerdo", "Concho de chicha de jora", "Ají panca", "Cebolla roja", "Rocoto entero"],
+      "preparacion": [
+        "Macerar el cerdo en chicha, ají y especias desde la noche anterior.",
+        "Cocinar a fuego lento en olla de barro.",
+        "Añadir cebollas en gajos gruesos al final."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Adobo_arequipe%C3%B1o.jpg/800px-Adobo_arequipe%C3%B1o.jpg"
+    },
+    {
+      "id": 403,
+      "nombre": "Chupe de Camarones",
+      "tipo": "Sopa",
+      "ingredientes": ["Camarones de río", "Papa amarilla", "Arroz", "Leche", "Queso", "Huacatay"],
+      "preparacion": [
+        "Hacer un aderezo base de coral de camarón y ají.",
+        "Hervir caldo con papas y arroz.",
+        "Agregar colitas de camarón, leche, queso y huevos escalfados al final."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Chupe_de_camarones.jpg/800px-Chupe_de_camarones.jpg"
+    },
+    {
+      "id": 404,
+      "nombre": "Ocopa Arequipeña",
+      "tipo": "Entrada",
+      "ingredientes": ["Ají mirasol", "Huacatay", "Maní tostado", "Queso fresco", "Galletas de animalito"],
+      "preparacion": [
+        "Sofreír cebolla, ajos y ají mirasol.",
+        "Licuar el sofrito con huacatay, maní, queso y leche.",
+        "Servir bañando papas sancochadas."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ocopa.jpg/800px-Ocopa.jpg"
+    },
+    {
+      "id": 405,
+      "nombre": "Solterito de Queso",
+      "tipo": "Ensalada",
+      "ingredientes": ["Habas verdes", "Choclo", "Queso fresco", "Cebolla", "Tomate", "Aceitunas", "Rocoto"],
+      "preparacion": [
+        "Sancochar habas y choclo.",
+        "Mezclar en un bol con queso en cubos, cebolla, tomate y rocoto picado.",
+        "Aliñar con vinagre, aceite y perejil."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Solterito_arequipe%C3%B1o.jpg/800px-Solterito_arequipe%C3%B1o.jpg"
+    },
+    {
+      "id": 406,
+      "nombre": "Pastel de Papa",
+      "tipo": "Guarnición",
+      "ingredientes": ["Papa blanca en láminas", "Queso paria", "Leche evaporada", "Huevos", "Anís"],
+      "preparacion": [
+        "Intercalar capas de papa cruda y queso en una fuente.",
+        "Bañar con una mezcla batida de leche, huevos y sal.",
+        "Hornear hasta que la papa esté cocida y dorada."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PastelPapa.jpg"
+    },
+    {
+      "id": 407,
+      "nombre": "Cuy Chactado",
+      "tipo": "Fondo",
+      "ingredientes": ["Cuy entero", "Maíz molido", "Ajos", "Ají panca", "Limón"],
+      "preparacion": [
+        "Sazonar el cuy abierto.",
+        "Pasar por harina de maíz.",
+        "Freír en abundante aceite colocando una piedra (chaqueña) encima para aplastarlo."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cuy_chactado.jpg/800px-Cuy_chactado.jpg"
+    },
+    {
+      "id": 408,
+      "nombre": "Escribano",
+      "tipo": "Entrada",
+      "ingredientes": ["Papas sancochadas", "Tomate", "Rocoto", "Vinagre", "Aceite"],
+      "preparacion": [
+        "Chancar las papas rústicamente con tenedor.",
+        "Mezclar con tomate y rocoto picados.",
+        "Aliñar con vinagre y sal."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Escribano.jpg"
+    },
+    {
+      "id": 409,
+      "nombre": "Queso Helado",
+      "tipo": "Postre",
+      "ingredientes": ["Leche fresca", "Leche condensada", "Coco rallado", "Canela", "Clavo"],
+      "preparacion": [
+        "Infusionar las leches con coco y especias al fuego.",
+        "Congelar la mezcla batiendo constantemente (como garapiñera) para lograr textura cremosa."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Queso_helado.jpg/800px-Queso_helado.jpg"
+    },
+    {
+      "id": 410,
+      "nombre": "Chairo",
+      "tipo": "Sopa",
+      "ingredientes": ["Chuño negro chancado", "Carne de res", "Cecina", "Tripas", "Mote", "Verduras"],
+      "preparacion": [
+        "Hervir las carnes hasta hacer caldo.",
+        "Agregar verduras y mote.",
+        "Espesar ligeramente agregando el chuño remojado y chancado al final."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Chairo_soup.jpg"
+    },
+    {
+      "id": 411,
+      "nombre": "Sarza de Sencca",
+      "tipo": "Piqueo / Entrada",
+      "ingredientes": ["Sencca (hocico de res)", "Cebolla", "Tomate", "Perejil", "Vinagre"],
+      "preparacion": [
+        "Hervir la sencca hasta que esté suave y picar en tiras.",
+        "Mezclar con cebolla en pluma, tomate y perejil.",
+        "Aliñar como una ensalada fresca."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Sencca.jpg"
+    },
+    {
+      "id": 412,
+      "nombre": "Costillar Dorado",
+      "tipo": "Fondo",
+      "ingredientes": ["Costillar de cordero", "Ajos", "Vinagre tinto", "Sal", "Comino"],
+      "preparacion": [
+        "Macerar las costillas con ajos y vinagre.",
+        "Hervir con un poco de agua hasta que esta se evapore.",
+        "Dejar freír en su propia grasa hasta que queden crocantes."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Costillar.jpg"
+    },
+    {
+      "id": 413,
+      "nombre": "Malaya Dorada",
+      "tipo": "Fondo",
+      "ingredientes": ["Malaya (falda de res)", "Ají panca", "Ajos", "Vinagre"],
+      "preparacion": [
+        "Hervir la carne de malaya hasta que esté suave.",
+        "Adobar con ají panca y vinagre.",
+        "Dorar en aceite caliente y servir con papas doradas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Malaya.jpg"
+    },
+    {
+      "id": 414,
+      "nombre": "Cauche de Queso",
+      "tipo": "Fondo",
+      "ingredientes": ["Queso fresco serrano", "Cebolla", "Tomate", "Ají amarillo", "Huacatay", "Leche"],
+      "preparacion": [
+        "Hacer un sofrito de cebolla, tomate y ají.",
+        "Colocar láminas gruesas de queso encima.",
+        "Añadir leche y huacatay, tapar y dejar que el queso sude y se derrita."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Cauche.jpg"
+    },
+    {
+      "id": 415,
+      "nombre": "Locro de Pecho",
+      "tipo": "Fondo",
+      "ingredientes": ["Pecho de res", "Papas harinosas", "Ají panca", "Ajos"],
+      "preparacion": [
+        "Hervir el pecho de res y reservar el caldo.",
+        "Hacer un aderezo de ají panca.",
+        "Cocinar las papas chancadas en el caldo con el aderezo hasta formar un guiso espeso."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_LocroPecho.jpg"
+    },
+    {
+      "id": 416,
+      "nombre": "Buñuelos de Yuca",
+      "tipo": "Postre",
+      "ingredientes": ["Yuca sancochada", "Harina", "Huevo", "Levadura", "Miel de chancaca"],
+      "preparacion": [
+        "Prensar la yuca y mezclar con harina y levadura.",
+        "Dejar leudar la masa.",
+        "Freír en forma de aros y servir bañados en miel."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Bunuelos.jpg"
+    },
+    {
+      "id": 417,
+      "nombre": "Chicha de Guiñapo",
+      "tipo": "Bebida",
+      "ingredientes": ["Maíz negro germinado (guiñapo)", "Agua", "Azúcar"],
+      "preparacion": [
+        "Hervir el maíz guiñapo por horas.",
+        "Colar y dejar fermentar en tinajas de barro por 24 horas.",
+        "Endulzar antes de servir."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Guinapo.jpg"
+    },
+    {
+      "id": 418,
+      "nombre": "Pebre Arequipeño",
+      "tipo": "Sopa",
+      "ingredientes": ["Lomos de cordero", "Chuño blanco remojado", "Arroz", "Cecina"],
+      "preparacion": [
+        "Hervir las carnes.",
+        "Agregar el arroz y al final el chuño entero (moraya).",
+        "Servir caldoso."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Pebre.jpg"
+    },
+    {
+      "id": 419,
+      "nombre": "Sivinche de Camarones",
+      "tipo": "Entrada",
+      "ingredientes": ["Colitas de camarón", "Vinagre", "Ají panca", "Cebolla", "Ajos"],
+      "preparacion": [
+        "Pasar los camarones limpios por agua hirviendo (blanquear).",
+        "Mezclar en frío con una salsa de vinagre, ají, cebolla y sal (tipo escabeche o sarza)."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Sivinche.jpg"
+    },
+    {
+      "id": 420,
+      "nombre": "Ají de Lacayote",
+      "tipo": "Fondo",
+      "ingredientes": ["Lacayote (calabaza)", "Papas", "Ají amarillo", "Queso", "Huacatay"],
+      "preparacion": [
+        "Picar el lacayote y las papas en cubos.",
+        "Guisar con aderezo de ají amarillo.",
+        "Finalizar agregando leche, queso picado y huacatay."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Lacayote.jpg"
+    },
+    {
+      "id": 421,
+      "nombre": "Timpusca de Peras",
+      "tipo": "Sopa",
+      "ingredientes": ["Peras pequeñas (de agua)", "Carne de res", "Chuño", "Trigo", "Cochayuyo"],
+      "preparacion": [
+        "Hacer un caldo de res con trigo y chuño.",
+        "Agregar las peras enteras y el cochayuyo.",
+        "Cocinar hasta que la fruta aporte su dulzor característico al caldo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Timpusca.jpg"
+    },
+    {
+      "id": 422,
+      "nombre": "Chaque de Tripas",
+      "tipo": "Sopa (Lunes)",
+      "ingredientes": ["Tripas de res", "Carne", "Papas", "Verduras", "Trigo"],
+      "preparacion": [
+        "Hervir las tripas y carne.",
+        "Añadir verduras picadas y papas chancadas.",
+        "Es una sopa muy espesa y nutritiva típica de los lunes."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Chaque.jpg"
+    },
+    {
+      "id": 423,
+      "nombre": "Mazamorra de Airampo",
+      "tipo": "Postre",
+      "ingredientes": ["Semillas de airampo", "Frutas secas", "Manzana", "Fécula de camote"],
+      "preparacion": [
+        "Hervir frutas con canela.",
+        "Añadir el agua teñida con las semillas de airampo (color carmín).",
+        "Espesar con la fécula y servir caliente o frío."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Airampo.jpg"
+    },
+    {
+      "id": 424,
+      "nombre": "Pastel de Tallarín",
+      "tipo": "Fondo / Guarnición",
+      "ingredientes": ["Tallarines", "Leche", "Huevos", "Queso paria", "Mantequilla"],
+      "preparacion": [
+        "Mezclar los tallarines cocidos con leche y huevos batidos.",
+        "Colocar en fuente engrasada intercalando con queso.",
+        "Hornear hasta que cuaje como un pastel."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PastelTallarin.jpg"
+    },
+    {
+      "id": 425,
+      "nombre": "Revuelto de Habas",
+      "tipo": "Desayuno",
+      "ingredientes": ["Habas peladas", "Cebolla", "Ají amarillo", "Huevos", "Huacatay"],
+      "preparacion": [
+        "Hacer un sofrito de cebolla y ají.",
+        "Cocinar las habas en el aderezo.",
+        "Cuajar con los huevos batidos y terminar con huacatay."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_RevueltoHabas.jpg"
+    }
+  ]
+}

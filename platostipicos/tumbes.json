@@ -1,0 +1,242 @@
+{
+  "id_region": "TUM",
+  "nombre_region": "Tumbes",
+  "dato_curioso": "Tumbes posee el Santuario Nacional los Manglares, un ecosistema único en el Perú donde el agua dulce del río se mezcla con el mar. De aquí provienen las famosas 'Conchas Negras' y el 'Cangrejo del Manglar', ingredientes que no se encuentran frescos en ninguna otra parte del país. Se dice que las conchas negras tienen propiedades afrodisíacas.",
+  "platos": [
+    {
+      "id": 2401,
+      "nombre": "Ceviche de Conchas Negras",
+      "tipo": "Entrada / Fondo",
+      "ingredientes": ["Conchas negras vivas", "Limón de Chulucanas", "Ají limo", "Cebolla roja", "Cancha", "Chifles"],
+      "preparacion": [
+        "Abrir las conchas negras al momento y recoger su jugo oscuro (sangre).",
+        "Mezclar inmediatamente con sal, ají limo picado y abundante limón.",
+        "Agregar la cebolla y servir acompañado de chifles y cancha."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ceviche_de_conchas_negras.jpg/800px-Ceviche_de_conchas_negras.jpg"
+    },
+    {
+      "id": 2402,
+      "nombre": "Majarisco",
+      "tipo": "Fondo",
+      "ingredientes": ["Plátano verde (bellaco)", "Langostinos", "Calamares", "Conchas", "Ají amarillo", "Culantro"],
+      "preparacion": [
+        "Freír los plátanos verdes y majarlos (chancarlos) rústicamente.",
+        "Preparar una salsa de mariscos (langostinos, conchas, pulpo) con aderezo de ají.",
+        "Mezclar el majado con la salsa para que absorba el jugo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Majarisco.jpg"
+    },
+    {
+      "id": 2403,
+      "nombre": "Chupe de Cangrejo",
+      "tipo": "Sopa",
+      "ingredientes": ["Cangrejos del manglar", "Leche", "Huevo", "Zapallo", "Fideos", "Orégano"],
+      "preparacion": [
+        "Limpiar los cangrejos y chancarlos ligeramente.",
+        "Hervir en un caldo base de verduras.",
+        "Agregar leche, queso y huevos batidos al final para dar consistencia."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ChupeCangrejo.jpg"
+    },
+    {
+      "id": 2404,
+      "nombre": "Caldo de Bolas",
+      "tipo": "Sopa",
+      "ingredientes": ["Plátano verde", "Carne de res molida", "Huevo duro", "Pasas", "Hueso de res"],
+      "preparacion": [
+        "Hervir los plátanos, majarlos y formar una masa.",
+        "Rellenar bolas de masa con un aderezo de carne, huevo y pasas.",
+        "Hervir las bolas en un caldo de res sustancioso."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CaldoBolas.jpg"
+    },
+    {
+      "id": 2405,
+      "nombre": "Arroz con Conchas Negras",
+      "tipo": "Fondo",
+      "ingredientes": ["Arroz", "Conchas negras", "Ají panca", "Pimiento", "Arvejas"],
+      "preparacion": [
+        "Hacer un aderezo oscuro con los jugos de la concha negra.",
+        "Cocinar el arroz en este caldo (queda de color negro/marrón).",
+        "Añadir las conchas al final para que no se pongan cauchosas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ArrozConchas.jpg"
+    },
+    {
+      "id": 2406,
+      "nombre": "Tortilla de Langostinos",
+      "tipo": "Desayuno / Fondo",
+      "ingredientes": ["Langostinos frescos", "Huevos", "Cebolla china", "Harina (opcional)"],
+      "preparacion": [
+        "Batir los huevos con sal y pimienta.",
+        "Mezclar con colitas de langostinos salteadas y cebolla china.",
+        "Freír en sartén hasta que dore."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_TortillaLangostinos.jpg"
+    },
+    {
+      "id": 2407,
+      "nombre": "Enrollado de Mero",
+      "tipo": "Fondo",
+      "ingredientes": ["Filete de mero", "Langostinos", "Salsa de mariscos", "Mantequilla"],
+      "preparacion": [
+        "Estirar el filete de mero y rellenarlo con langostinos y verduras.",
+        "Enrollar y cocinar al vapor o al horno.",
+        "Servir bañado en salsa de mariscos."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_EnrolladoMero.jpg"
+    },
+    {
+      "id": 2408,
+      "nombre": "Majado de Yuca con Chicharrón",
+      "tipo": "Desayuno / Fondo",
+      "ingredientes": ["Yuca", "Chicharrón de cerdo", "Cebolla", "Ají amarillo"],
+      "preparacion": [
+        "Sancochar la yuca y majarla.",
+        "Mezclar con un refrito de cebolla y ají.",
+        "Servir mezclado con trozos de chicharrón de cerdo crujiente."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_MajadoYuca.jpg"
+    },
+    {
+      "id": 2409,
+      "nombre": "Cocktail de Langostinos",
+      "tipo": "Entrada",
+      "ingredientes": ["Langostinos", "Salsa Golf (Mayonesa + Ketchup)", "Palta", "Lechuga"],
+      "preparacion": [
+        "Hervir los langostinos y pelarlos.",
+        "Servir en copa sobre cama de lechuga y palta.",
+        "Bañar con salsa golf y un toque de pisco."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CocktailLangostinos.jpg"
+    },
+    {
+      "id": 2410,
+      "nombre": "Sudado de Mero",
+      "tipo": "Fondo",
+      "ingredientes": ["Mero murique (pescado fino)", "Chicha de jora", "Tomate", "Cebolla", "Ají"],
+      "preparacion": [
+        "Usar la cabeza y filetes del mero.",
+        "Sudar en olla con tomate, cebolla y chicha fermentada.",
+        "Es un plato jugoso, se come con cuchara."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sudado_de_pescado.jpg/800px-Sudado_de_pescado.jpg"
+    },
+    {
+      "id": 2411,
+      "nombre": "Albóndigas de Pulpa de Cangrejo",
+      "tipo": "Fondo",
+      "ingredientes": ["Pulpa de cangrejo", "Pan rallado", "Huevo", "Salsa de tomate"],
+      "preparacion": [
+        "Mezclar la pulpa limpia con pan y huevo.",
+        "Formar bolitas y freír.",
+        "Servir con salsa criolla o salsa tártara."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_AlbondigasCangrejo.jpg"
+    },
+    {
+      "id": 2412,
+      "nombre": "Ensalada de Pata de Burro",
+      "tipo": "Entrada",
+      "ingredientes": ["Caracol 'Pata de Burro'", "Limón", "Cebolla", "Culantro"],
+      "preparacion": [
+        "Sancochar los caracoles marinos grandes.",
+        "Picar la carne y mezclar con cebolla y limón tipo sarza.",
+        "Se considera vigorizante."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PataBurro.jpg"
+    },
+    {
+      "id": 2413,
+      "nombre": "Dulce de Pechiche",
+      "tipo": "Postre",
+      "ingredientes": ["Pechiche (fruto local)", "Chancaca", "Clavo de olor"],
+      "preparacion": [
+        "Hervir el fruto del pechiche (parecido a una cereza negra) con chancaca.",
+        "Cocinar hasta lograr una miel espesa y el fruto esté suave."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Pechiche.jpg"
+    },
+    {
+      "id": 2414,
+      "nombre": "Antecoco",
+      "tipo": "Postre",
+      "ingredientes": ["Coco rallado", "Leche", "Azúcar", "Maicena"],
+      "preparacion": [
+        "Cocinar el coco con leche y azúcar.",
+        "Espesar ligeramente.",
+        "Postre tradicional de la costa norte."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Antecoco.jpg"
+    },
+    {
+      "id": 2415,
+      "nombre": "Chinguirito (Bebida)",
+      "tipo": "Bebida",
+      "ingredientes": ["Agua de coco (pipa)", "Aguardiente de caña"],
+      "preparacion": [
+        "Mezclar el agua de coco tierno directamente en el fruto con aguardiente.",
+        "Bebida refrescante y fuerte."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ChinguiritoBebida.jpg"
+    },
+    {
+      "id": 2416,
+      "nombre": "Langosta a la Parrilla",
+      "tipo": "Fondo (Lujo)",
+      "ingredientes": ["Langosta verde de Tumbes", "Mantequilla", "Ajo", "Perejil"],
+      "preparacion": [
+        "Abrir la langosta por la mitad.",
+        "Pincelar con mantequilla al ajo.",
+        "Asar a las brasas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Langosta.jpg"
+    },
+    {
+      "id": 2417,
+      "nombre": "Parihuela Tumbesina",
+      "tipo": "Sopa",
+      "ingredientes": ["Pescado", "Conchas negras", "Cangrejo", "Langostinos", "Chicha"],
+      "preparacion": [
+        "Sopa concentrada de mariscos.",
+        "La versión tumbesina se distingue por incluir conchas negras que oscurecen el caldo y le dan un sabor metálico intenso."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ParihuelaTumbes.jpg"
+    },
+    {
+      "id": 2418,
+      "nombre": "Ceviche Mixto",
+      "tipo": "Entrada",
+      "ingredientes": ["Pescado", "Pulpo", "Calamar", "Langostino", "Conchas negras"],
+      "preparacion": [
+        "Combinación de todos los mariscos frescos.",
+        "Marinados en limón sutil de la zona.",
+        "Servido con choclo y camote."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CevicheMixto.jpg"
+    },
+    {
+      "id": 2419,
+      "nombre": "Bienmesabe",
+      "tipo": "Postre",
+      "ingredientes": ["Zapallo loche", "Chancaca", "Leche", "Canela"],
+      "preparacion": [
+        "Dulce cremoso hecho a base de zapallo y leche endulzada.",
+        "Muy antiguo y tradicional."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Bienmesabe.jpg"
+    },
+    {
+      "id": 2420,
+      "nombre": "Clarito",
+      "tipo": "Bebida",
+      "ingredientes": ["Chicha de jora (parte superior)"],
+      "preparacion": [
+        "Es el líquido transparente que queda en la parte superior de los cántaros de chicha al decantar.",
+        "Menos espeso que la chicha, muy refrescante."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Clarito.jpg"
+    }
+  ]
+}

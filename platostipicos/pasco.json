@@ -1,0 +1,243 @@
+{
+  "id_region": "PAS",
+  "nombre_region": "Pasco",
+  "dato_curioso": "Pasco es una región de contrastes extremos. En la 'Meseta de Bombón' (Sierra) nace la Maca, el superalimento de los Incas. Sin embargo, a pocas horas, en la Selva Alta (Oxapampa y Pozuzo), la gastronomía es una fusión única en el mundo: descendientes de colonos austriacos y alemanes preparan 'Strudel de Plátano' y 'Goulash', mezclando técnicas europeas con ingredientes amazónicos.",
+  "platos": [
+    {
+      "id": 1901,
+      "nombre": "Charquicán",
+      "tipo": "Fondo",
+      "ingredientes": ["Charqui (carne seca de llama/ovino)", "Papas", "Ají panca", "Cebolla", "Ajos"],
+      "preparacion": [
+        "Remojar y machacar el charqui.",
+        "Hacer un aderezo rojo picante.",
+        "Guisar la carne con las papas picadas y servir con arroz.",
+        "Es el plato emblemático de los mineros de Cerro de Pasco."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Charquican.jpg"
+    },
+    {
+      "id": 1902,
+      "nombre": "Pachamanca Cerreña",
+      "tipo": "Festivo",
+      "ingredientes": ["Carnero", "Res", "Papas nativas", "Habas", "Chincho", "Piedras calientes"],
+      "preparacion": [
+        "Se diferencia por el uso predominante de carne de carnero.",
+        "Se cocina bajo tierra con piedras precalentadas que le dan un sabor ahumado a tierra.",
+        "Se acompaña con humitas saladas."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pachamanca.jpg/800px-Pachamanca.jpg"
+    },
+    {
+      "id": 1903,
+      "nombre": "Caldo de Cabeza",
+      "tipo": "Sopa",
+      "ingredientes": ["Cabeza de carnero", "Papas blancas", "Mote", "Hierbabuena", "Paico"],
+      "preparacion": [
+        "Hervir la cabeza limpia y trozada por largas horas.",
+        "Agregar papas peladas y mote.",
+        "Servir muy caliente (ideal para el frío de altura) con hierbabuena picada."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CaldoCabezaPasco.jpg"
+    },
+    {
+      "id": 1904,
+      "nombre": "Picante de Cuy",
+      "tipo": "Fondo",
+      "ingredientes": ["Cuy", "Ají panca", "Maní", "Papas", "Arroz"],
+      "preparacion": [
+        "Freír el cuy.",
+        "Preparar una salsa espesa de ají panca y maní molido.",
+        "Servir el cuy bañado en la salsa, acompañado de papas sancochadas."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Picante_de_cuy.jpg/800px-Picante_de_cuy.jpg"
+    },
+    {
+      "id": 1905,
+      "nombre": "Sopa de Pelotas (Knödelsuppe)",
+      "tipo": "Sopa (Oxapampa/Pozuzo)",
+      "ingredientes": ["Arroz", "Carne molida", "Huevo", "Caldo de gallina"],
+      "preparacion": [
+        "Hacer una masa con arroz cocido, carne y especias.",
+        "Formar bolas (pelotas) compactas.",
+        "Hervir dentro de un caldo de gallina sustancioso. Herencia austro-alemana."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_SopaPelotas.jpg"
+    },
+    {
+      "id": 1906,
+      "nombre": "Strudel de Plátano",
+      "tipo": "Postre (Pozuzo)",
+      "ingredientes": ["Harina", "Plátano de seda", "Azúcar", "Canela", "Mantequilla"],
+      "preparacion": [
+        "Estirar la masa muy fina (técnica alemana).",
+        "Rellenar con plátanos de la selva caramelizados.",
+        "Enrollar y hornear. Fusión perfecta Europa-Amazonas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_StrudelPlatano.jpg"
+    },
+    {
+      "id": 1907,
+      "nombre": "Goulash con Spätzle",
+      "tipo": "Fondo (Pozuzo)",
+      "ingredientes": ["Carne de res", "Paprika", "Tomate", "Harina (para el Spätzle)", "Huevo"],
+      "preparacion": [
+        "Guiso de carne con mucha paprika (Goulash).",
+        "Acompañado de 'Spätzle', una pasta casera irregular hecha de harina y huevo.",
+        "Plato típico de la colonia austro-alemana."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_GoulashPozuzo.jpg"
+    },
+    {
+      "id": 1908,
+      "nombre": "Ponche de Maca",
+      "tipo": "Bebida",
+      "ingredientes": ["Maca fresca (Meseta de Bombón)", "Leche", "Huevo", "Azúcar", "Vainilla"],
+      "preparacion": [
+        "Hervir la maca hasta que esté suave y licuar.",
+        "Mezclar con leche caliente, huevo batido y esencia de vainilla.",
+        "Bebida energizante para combatir el clima gélido."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Maca_roots.jpg/800px-Maca_roots.jpg"
+    },
+    {
+      "id": 1909,
+      "nombre": "Parrillada de Carne Ahumada",
+      "tipo": "Fondo (Oxapampa)",
+      "ingredientes": ["Carne de res ahumada", "Chorizo", "Yuca", "Plátano asado", "Ensalada"],
+      "preparacion": [
+        "En Oxapampa se ahúma la carne con maderas locales.",
+        "Se termina de cocer a la parrilla.",
+        "Se sirve con yucas y plátanos fritos."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CarneAhumada.jpg"
+    },
+    {
+      "id": 1910,
+      "nombre": "Arvejas con Carne",
+      "tipo": "Fondo",
+      "ingredientes": ["Arvejas secas partidas", "Carne de res", "Papas", "Ají panca"],
+      "preparacion": [
+        "Guiso espeso de arvejas secas.",
+        "Se cocina con carne de res trozada y papas.",
+        "Es el almuerzo cotidiano en Cerro de Pasco."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ArvejasCarne.jpg"
+    },
+    {
+      "id": 1911,
+      "nombre": "Patasca Cerreña",
+      "tipo": "Sopa",
+      "ingredientes": ["Mote pelado", "Mondongo", "Carne de carnero", "Hierbabuena"],
+      "preparacion": [
+        "Sopa de mote que se cocina toda la noche.",
+        "A diferencia de otras regiones, suele llevar más carne de ovino debido a la ganadería local."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Patasca.jpg/800px-Patasca.jpg"
+    },
+    {
+      "id": 1912,
+      "nombre": "Salchicha Pozucina",
+      "tipo": "Embutido / Fondo",
+      "ingredientes": ["Carne de cerdo", "Especias secretas", "Tripa"],
+      "preparacion": [
+        "Embutido artesanal hecho por las familias de Pozuzo.",
+        "Se hierve y se fríe.",
+        "Se sirve con arroz, plátano frito y ensalada."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_SalchichaPozuzo.jpg"
+    },
+    {
+      "id": 1913,
+      "nombre": "Trucha Frita",
+      "tipo": "Fondo",
+      "ingredientes": ["Trucha de río", "Harina", "Papas doradas", "Ensalada"],
+      "preparacion": [
+        "Pesca fresca de los ríos de la sierra y selva alta.",
+        "Frita crocante y servida simplemente con limón."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Trucha_frita.jpg/800px-Trucha_frita.jpg"
+    },
+    {
+      "id": 1914,
+      "nombre": "Mazamorra de Tocosh",
+      "tipo": "Postre / Medicinal",
+      "ingredientes": ["Tocosh (papa fermentada)", "Azúcar", "Canela", "Clavo", "Naranja"],
+      "preparacion": [
+        "Hervir la harina de tocosh con aromáticos para suavizar el olor fuerte.",
+        "Considerado la 'penicilina de los Andes', se consume caliente."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_TocoshPasco.jpg"
+    },
+    {
+      "id": 1915,
+      "nombre": "Café de Villa Rica",
+      "tipo": "Bebida",
+      "ingredientes": ["Granos de café selecto", "Agua"],
+      "preparacion": [
+        "Villa Rica produce uno de los cafés más finos del mundo.",
+        "Pasado gota a gota o en espresso.",
+        "Tiene notas frutales y chocolate."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CafeVillaRica.jpg"
+    },
+    {
+      "id": 1916,
+      "nombre": "Chicharrón de Oxapampa",
+      "tipo": "Fondo",
+      "ingredientes": ["Cerdo", "Yuca", "Salsa criolla", "Mote"],
+      "preparacion": [
+        "Cerdo criado en la zona (buena alimentación).",
+        "Frito en su propia manteca.",
+        "Se acompaña con yucas de la selva alta (más suaves)."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chicharr%C3%B3n_peruano.jpg/800px-Chicharr%C3%B3n_peruano.jpg"
+    },
+    {
+      "id": 1917,
+      "nombre": "Mermelada de Quito Quito",
+      "tipo": "Postre / Acompañamiento",
+      "ingredientes": ["Quito Quito (fruto local)", "Azúcar", "Canela"],
+      "preparacion": [
+        "El Quito Quito es un fruto ácido parecido al tumbo.",
+        "Se cocina con azúcar hasta lograr una mermelada anaranjada brillante.",
+        "Ideal para acompañar quesos o panes."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_QuitoQuito.jpg"
+    },
+    {
+      "id": 1918,
+      "nombre": "Caldo Verde",
+      "tipo": "Sopa",
+      "ingredientes": ["Papas", "Queso", "Hierbas (Ruda, Paico, Muña)", "Huevo"],
+      "preparacion": [
+        "Caldo de papas aromatizado con hierbas andinas.",
+        "Se sirve con queso fresco y huevo, ideal para la digestión."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CaldoVerdePasco.jpg"
+    },
+    {
+      "id": 1919,
+      "nombre": "Carbonara (Albóndigas de Yuca)",
+      "tipo": "Fondo (Pozuzo)",
+      "ingredientes": ["Yuca", "Queso", "Huevos", "Aceite"],
+      "preparacion": [
+        "No confundir con la pasta italiana.",
+        "Son albóndigas o tortitas fritas hechas de masa de yuca y queso.",
+        "Se sirven como guarnición o plato principal ligero."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CarbonaraPozuzo.jpg"
+    },
+    {
+      "id": 1920,
+      "nombre": "Pan de Maíz (Brot)",
+      "tipo": "Panadería",
+      "ingredientes": ["Harina de maíz", "Harina de trigo", "Manteca", "Huevos"],
+      "preparacion": [
+        "Pan denso y amarillo, receta de los colonos.",
+        "Se consume en el desayuno con mermeladas locales."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PanMaiz.jpg"
+    }
+  ]
+}

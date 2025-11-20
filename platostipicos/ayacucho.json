@@ -1,0 +1,247 @@
+{
+  "id_region": "AYA",
+  "nombre_region": "Ayacucho",
+  "dato_curioso": "Ayacucho es famosa por la 'Puca Picante' ('Puca' significa rojo en quechua), un plato que obtiene su color vibrante del uso de beterraga y ají panca. Además, es el hogar del 'Pan Chapla', un pan plano y dulzón indispensable en las mesas ayacuchanas.",
+  "platos": [
+    {
+      "id": 1001,
+      "nombre": "Puca Picante",
+      "tipo": "Fondo",
+      "ingredientes": ["Papas", "Maní tostado", "Beterraga (remolacha)", "Chicharrón de cerdo", "Ají panca"],
+      "preparacion": [
+        "Hacer un aderezo con ají panca, ajos y maní molido.",
+        "Agregar las papas picadas y el jugo de beterraga para teñir de rojo.",
+        "Cocinar hasta que espese y servir acompañado de chicharrón y arroz."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Puca_picante.jpg/800px-Puca_picante.jpg"
+    },
+    {
+      "id": 1002,
+      "nombre": "Mondongo Ayacuchano",
+      "tipo": "Sopa (Desayuno)",
+      "ingredientes": ["Mote pelado", "Carne de res", "Mondongo (panza)", "Tocino", "Hierbabuena"],
+      "preparacion": [
+        "Cocinar el mote, la carne y el mondongo durante toda la noche (fuego lento).",
+        "Al servir, agregar un aderezo de ají panca y hierbabuena picada.",
+        "Es el desayuno tradicional de los domingos."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Mondongo.jpg"
+    },
+    {
+      "id": 1003,
+      "nombre": "Qapchi",
+      "tipo": "Entrada",
+      "ingredientes": ["Queso fresco (cachipa)", "Rocoto", "Cebolla china", "Huacatay", "Papas"],
+      "preparacion": [
+        "Desmenuzar el queso fresco con las manos.",
+        "Mezclar con rocoto picado, cebolla china y huacatay.",
+        "Servir sobre papas sancochadas calientes."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Qapchi.jpg/800px-Qapchi.jpg"
+    },
+    {
+      "id": 1004,
+      "nombre": "Chorizo Ayacuchano",
+      "tipo": "Fondo",
+      "ingredientes": ["Carne de cerdo molida", "Ají panca", "Vinagre", "Ajos", "Tripas"],
+      "preparacion": [
+        "Macerar la carne molida con vinagre y ají panca por 24 horas.",
+        "Freír la carne (a veces sin tripa, servida como picadillo) o embutida.",
+        "Acompañar con papas doradas y ensalada."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Chorizo.jpg"
+    },
+    {
+      "id": 1005,
+      "nombre": "Adobo Ayacuchano",
+      "tipo": "Fondo",
+      "ingredientes": ["Carne de cerdo", "Chicha de jora", "Ají panca", "Cebolla", "Comino"],
+      "preparacion": [
+        "Macerar el cerdo con chicha y ají panca.",
+        "Cocinar a fuego lento hasta que la carne esté muy tierna y la salsa espesa.",
+        "Servir con camote y arroz."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_AdoboAyacucho.jpg"
+    },
+    {
+      "id": 1006,
+      "nombre": "Teqte",
+      "tipo": "Guiso",
+      "ingredientes": ["Arvejas", "Queso", "Leche", "Huevos", "Papas", "Hierbas"],
+      "preparacion": [
+        "Hacer un aderezo y cocinar las arvejas y papas.",
+        "Al final, agregar queso picado, leche y huevos batidos para espesar.",
+        "Servir caliente como un guiso cremoso."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Teqte.jpg"
+    },
+    {
+      "id": 1007,
+      "nombre": "Patachi",
+      "tipo": "Sopa",
+      "ingredientes": ["Trigo pelado", "Tocino", "Carne de cerdo", "Habas", "Arvejas"],
+      "preparacion": [
+        "Hervir el trigo y las carnes por varias horas en olla de barro.",
+        "Añadir habas y arvejas.",
+        "Es una sopa muy espesa y nutritiva de las zonas altas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Patachi.jpg"
+    },
+    {
+      "id": 1008,
+      "nombre": "Puchero Ayacuchano",
+      "tipo": "Fondo (Carnavales)",
+      "ingredientes": ["Carne de res", "Tocino", "Col", "Garbanzos", "Camote", "Yuca", "Durazno"],
+      "preparacion": [
+        "Hervir las carnes.",
+        "Agregar verduras, tubérculos y frutas (durazno/manzana) enteras.",
+        "Servir el caldo aparte y las carnes con verduras sazonadas con salsa de ají."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PucheroAyacucho.jpg"
+    },
+    {
+      "id": 1009,
+      "nombre": "Cuy Chactado",
+      "tipo": "Fondo",
+      "ingredientes": ["Cuy entero", "Maíz molido", "Aceite", "Ajos", "Sal"],
+      "preparacion": [
+        "Sazonar el cuy abierto con sal y ajos.",
+        "Pasar por maíz molido y freír en abundante aceite con una piedra encima.",
+        "Servir crocante con papas y salsa criolla."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cuy_chactado.jpg/800px-Cuy_chactado.jpg"
+    },
+    {
+      "id": 1010,
+      "nombre": "Humitas de Queso",
+      "tipo": "Entrada",
+      "ingredientes": ["Choclo tierno", "Manteca", "Queso fresco", "Panca de choclo"],
+      "preparacion": [
+        "Moler el choclo y mezclar con manteca y sal.",
+        "Rellenar con trozos de queso.",
+        "Envolver en panca y cocinar al vapor."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Humita.jpg/800px-Humita.jpg"
+    },
+    {
+      "id": 1011,
+      "nombre": "Pan Chapla",
+      "tipo": "Panadería",
+      "ingredientes": ["Harina de trigo", "Levadura", "Anís", "Azúcar"],
+      "preparacion": [
+        "Elaborar una masa dulce con anís.",
+        "Dar forma de discos planos pequeños.",
+        "Hornear a alta temperatura en horno de leña."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PanChapla.jpg"
+    },
+    {
+      "id": 1012,
+      "nombre": "Muyuchi",
+      "tipo": "Postre",
+      "ingredientes": ["Leche fresca", "Maní", "Ajonjolí", "Coco", "Canela"],
+      "preparacion": [
+        "Mezclar leche con maní y especias.",
+        "Congelar artesanalmente girando una olla sobre hielo ('muyuy' es girar en quechua).",
+        "Servir como helado cremoso con airampo (jarabe dulce)."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Muyuchi.jpg"
+    },
+    {
+      "id": 1013,
+      "nombre": "Mazamorra de Llipta",
+      "tipo": "Postre",
+      "ingredientes": ["Maíz morado (harina)", "Agua de ceniza (lipta)", "Hierbas aromáticas"],
+      "preparacion": [
+        "Preparar una mazamorra con harina de maíz.",
+        "Añadir agua de ceniza de plantas nativas (que aporta minerales y sabor único).",
+        "Servir caliente."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Llipta.jpg"
+    },
+    {
+      "id": 1014,
+      "nombre": "Ponche de Maní",
+      "tipo": "Bebida",
+      "ingredientes": ["Maní tostado", "Ajonjolí", "Leche", "Clavo de olor", "Canela"],
+      "preparacion": [
+        "Moler el maní y el ajonjolí.",
+        "Hervir con leche y especias hasta espesar.",
+        "Se toma caliente, típicamente en las noches o fiestas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PoncheMani.jpg"
+    },
+    {
+      "id": 1015,
+      "nombre": "Chicharrón Ayacuchano",
+      "tipo": "Fondo",
+      "ingredientes": ["Cerdo", "Papas", "Mote", "Ensalada de cebolla"],
+      "preparacion": [
+        "Hervir el cerdo hasta que se consuma el agua.",
+        "Dorar en su propia grasa.",
+        "Servir acompañado de papa, mote y ensalada."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chicharr%C3%B3n_peruano.jpg/800px-Chicharr%C3%B3n_peruano.jpg"
+    },
+    {
+      "id": 1016,
+      "nombre": "Uman Caldo (Caldo de Cabeza)",
+      "tipo": "Sopa",
+      "ingredientes": ["Cabeza de carnero", "Papas", "Chuño", "Hierbabuena"],
+      "preparacion": [
+        "Hervir la cabeza limpia y trozada por horas.",
+        "Añadir papas y chuño.",
+        "Servir con abundante hierbabuena y ají."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_UmanCaldoAya.jpg"
+    },
+    {
+      "id": 1017,
+      "nombre": "Mazamorra de Calabaza",
+      "tipo": "Postre",
+      "ingredientes": ["Calabaza madura", "Chancaca", "Harina", "Leche"],
+      "preparacion": [
+        "Cocinar la calabaza con chancaca.",
+        "Espesar con un poco de harina diluida.",
+        "Servir mezclado con leche."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_MazamorraCalabaza.jpg"
+    },
+    {
+      "id": 1018,
+      "nombre": "Yuyo Picante",
+      "tipo": "Guarnición",
+      "ingredientes": ["Hojas de mostaza silvestre (yuyo)", "Papas", "Ají panca"],
+      "preparacion": [
+        "Sancochar y escurrir bien el yuyo.",
+        "Hacer un aderezo picante con ají panca.",
+        "Mezclar el yuyo y papas picadas en el aderezo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_YuyoPicante.jpg"
+    },
+    {
+      "id": 1019,
+      "nombre": "Sopa de Morón",
+      "tipo": "Sopa",
+      "ingredientes": ["Trigo morón", "Carne de res", "Zapallo", "Apio"],
+      "preparacion": [
+        "Hervir la carne para hacer fondo.",
+        "Añadir el trigo morón lavado.",
+        "Cocinar hasta que el trigo reviente y espese el caldo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_MoronAya.jpg"
+    },
+    {
+      "id": 1020,
+      "nombre": "Pachamanca Ayacuchana",
+      "tipo": "Festivo",
+      "ingredientes": ["Cerdo", "Cordero", "Pollo", "Papas", "Habas", "Humitas", "Chincho"],
+      "preparacion": [
+        "Macerar carnes con chincho y ají.",
+        "Cocinar bajo tierra con piedras calientes.",
+        "Se diferencia por incluir humitas dulces dentro de la cocción."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pachamanca.jpg"
+    }
+  ]
+}

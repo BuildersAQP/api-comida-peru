@@ -1,0 +1,242 @@
+{
+  "id_region": "LAL",
+  "nombre_region": "La Libertad",
+  "dato_curioso": "En Trujillo, capital de La Libertad, es una 'ley' gastronómica comer el 'Shambar' (una sopa espesa de trigo, menestras y cerdo) exclusivamente los días lunes. Se dice que esta tradición nació para aprovechar las sobras de las fiestas del fin de semana y dar energía a los peones para iniciar la semana laboral.",
+  "platos": [
+    {
+      "id": 1601,
+      "nombre": "Shambar",
+      "tipo": "Sopa (Lunes)",
+      "ingredientes": ["Trigo shambar (resbalado)", "Pellejo de cerdo", "Costilla ahumada", "Habas", "Frijoles", "Hierbabuena"],
+      "preparacion": [
+        "Hervir el trigo y las menestras por separado.",
+        "Cocinar las carnes de cerdo ahumadas.",
+        "Mezclar todo en un caldo espeso y sazonar con aderezo de ají panca y hierbabuena."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Shambar.jpg/800px-Shambar.jpg"
+    },
+    {
+      "id": 1602,
+      "nombre": "Sopa Teóloga",
+      "tipo": "Festivo",
+      "ingredientes": ["Pava", "Gallina", "Pan", "Leche", "Azafrán/Cúrcuma", "Garbanzos"],
+      "preparacion": [
+        "Hervir las aves para obtener un caldo sustancioso.",
+        "Remojar pan en el caldo y aderezo de azafrán (pepián).",
+        "Servir la crema de pan adornada con las carnes deshilachadas, huevo, aceituna y perejil (plato típico de Moche).",
+        "Conocida como 'Boda de Moche'."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_SopaTeologa.jpg"
+    },
+    {
+      "id": 1603,
+      "nombre": "Seco de Cabrito a la Norteña",
+      "tipo": "Fondo",
+      "ingredientes": ["Cabrito de leche", "Chicha de jora", "Culantro", "Zapallo loche", "Frijoles"],
+      "preparacion": [
+        "Macerar el cabrito en chicha de jora.",
+        "Guisar con abundante culantro licuado y zapallo loche rallado.",
+        "Servir con frijoles y arroz."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Seco_de_cabrito.jpg/800px-Seco_de_cabrito.jpg"
+    },
+    {
+      "id": 1604,
+      "nombre": "Causa en Lapa (Causa Moche)",
+      "tipo": "Entrada / Fondo",
+      "ingredientes": ["Papa amarilla", "Ají amarillo", "Limón", "Pescado frito/guisado", "Yuca"],
+      "preparacion": [
+        "A diferencia de la limeña, no es un pastel en capas.",
+        "Es una masa de papa rústica servida en 'lapa' (mate) o plato, acompañada de pescado encebollado, yuca y camote.",
+        "Se sirve tibia."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CausaMoche.jpg"
+    },
+    {
+      "id": 1605,
+      "nombre": "Cangrejo Reventado",
+      "tipo": "Fondo",
+      "ingredientes": ["Cangrejos", "Huevos", "Algas (yuyo)", "Ají panca", "Ajos"],
+      "preparacion": [
+        "Golpear los cangrejos para romper el caparazón.",
+        "Guisar en un aderezo picante.",
+        "Agregar huevos batidos al final para que se mezclen con el jugo y 'revienten'."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CangrejoReventado.jpg"
+    },
+    {
+      "id": 1606,
+      "nombre": "Frito Trujillano",
+      "tipo": "Desayuno",
+      "ingredientes": ["Costillas de cerdo", "Vinagre", "Ají panca", "Ajos", "Yuca"],
+      "preparacion": [
+        "Macerar las costillas con vinagre y panca desde el día anterior.",
+        "Freír la carne hasta que esté dorada y jugosa.",
+        "Servir con yuca sancochada y salsa criolla."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_FritoTrujillano.jpg"
+    },
+    {
+      "id": 1607,
+      "nombre": "Pepián de Pava",
+      "tipo": "Fondo",
+      "ingredientes": ["Pava", "Maíz molido (o arroz molido)", "Culantro", "Ají amarillo"],
+      "preparacion": [
+        "Guisar la pava.",
+        "Con el caldo, cocinar el maíz molido y culantro hasta formar una crema espesa (pepián).",
+        "Servir la presa bañada en la salsa."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PepianPava.jpg"
+    },
+    {
+      "id": 1608,
+      "nombre": "Pescado a la Trujillana",
+      "tipo": "Fondo",
+      "ingredientes": ["Filete de pescado", "Salsa de huevos", "Cebolla", "Ají amarillo"],
+      "preparacion": [
+        "Pescado al vapor o frito cubierto con una salsa especial a base de huevo y cebolla (similar a una salsa holandesa criolla)."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PescadoTrujillana.jpg"
+    },
+    {
+      "id": 1609,
+      "nombre": "Arroz con Pato a la Chepenana",
+      "tipo": "Fondo",
+      "ingredientes": ["Pato", "Arroz", "Culantro", "Cerveza negra", "Chicha de jora"],
+      "preparacion": [
+        "Dorar las presas de pato.",
+        "Cocinar el arroz en el caldo del pato con culantro, cerveza y chicha.",
+        "Debe quedar graneado pero húmedo."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Arroz_con_pato_peruano.jpg/800px-Arroz_con_pato_peruano.jpg"
+    },
+    {
+      "id": 1610,
+      "nombre": "Ceviche de Conchas Negras",
+      "tipo": "Entrada",
+      "ingredientes": ["Conchas negras (Virú)", "Limón", "Ají limo", "Cebolla roja"],
+      "preparacion": [
+        "Abrir las conchas vivas y conservar su jugo oscuro.",
+        "Mezclar con limón, ají y cebolla picada.",
+        "Servir inmediatamente en su concha o copa."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ceviche_de_conchas_negras.jpg/800px-Ceviche_de_conchas_negras.jpg"
+    },
+    {
+      "id": 1611,
+      "nombre": "Tajadón",
+      "tipo": "Postre",
+      "ingredientes": ["Yemas de huevo", "Azúcar", "Pisco", "Pasas"],
+      "preparacion": [
+        "Bizcochuelo muy ligero hecho solo de yemas y pisco.",
+        "Se remoja en almíbar.",
+        "Postre conventual tradicional de Trujillo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Tajadon.jpg"
+    },
+    {
+      "id": 1612,
+      "nombre": "Jamón de Otuzco",
+      "tipo": "Entrada / Fiambre",
+      "ingredientes": ["Pierna de cerdo", "Sal", "Achiote", "Pimienta"],
+      "preparacion": [
+        "Salazón y curado de la pierna de cerdo por semanas.",
+        "Se sirve en láminas con yuca o pan.",
+        "Famoso de la provincia de Otuzco."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_JamonOtuzco.jpg"
+    },
+    {
+      "id": 1613,
+      "nombre": "Sándwich de Pavo",
+      "tipo": "Street Food",
+      "ingredientes": ["Pavo horneado", "Pan francés", "Jugo del asado", "Cebolla"],
+      "preparacion": [
+        "Pavo asado lentamente en horno de leña.",
+        "Se sirve en pan bañado con su propio jugo (ligeramente aguado y sabroso) y cebolla.",
+        "Clásico de las noches trujillanas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_SandwichPavo.jpg"
+    },
+    {
+      "id": 1614,
+      "nombre": "Mollejitas al Sillao",
+      "tipo": "Piqueo",
+      "ingredientes": ["Mollejas de pollo", "Sillao", "Vinagre", "Limón", "Yuca"],
+      "preparacion": [
+        "Cocinar las mollejas y luego saltearlas con sillao y vinagre.",
+        "Servir con yuca frita y salsa de limón (tipo cebiche)."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Mollejitas.jpg"
+    },
+    {
+      "id": 1615,
+      "nombre": "Machacado de Membrillo",
+      "tipo": "Postre",
+      "ingredientes": ["Membrillo", "Azúcar"],
+      "preparacion": [
+        "Cocinar la pulpa de membrillo con azúcar hasta formar una barra sólida rojiza.",
+        "Cortar en tajadas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_MachacadoMembrillo.jpg"
+    },
+    {
+      "id": 1616,
+      "nombre": "Cuy Guisado (Huamachuco)",
+      "tipo": "Fondo",
+      "ingredientes": ["Cuy", "Ají panca", "Papas", "Arroz de trigo"],
+      "preparacion": [
+        "A diferencia del frito costero, en la sierra liberteña se come guisado con abundante salsa roja.",
+        "Se acompaña con guiso de arroz de trigo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CuyGuisado.jpg"
+    },
+    {
+      "id": 1617,
+      "nombre": "Alfajores de Trujillo",
+      "tipo": "Postre",
+      "ingredientes": ["Harina", "Manteca", "Manjar blanco", "Azúcar impalpable"],
+      "preparacion": [
+        "Masa quebradiza y fina.",
+        "Relleno abundante de manjar blanco casero.",
+        "Espolvoreados con azúcar."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Alfajor_peruano.jpg/800px-Alfajor_peruano.jpg"
+    },
+    {
+      "id": 1618,
+      "nombre": "Sudado de Pescado a la Norteña",
+      "tipo": "Fondo",
+      "ingredientes": ["Pescado entero (ojo de uva / cabrilla)", "Chicha de jora", "Ají amarillo", "Tomate"],
+      "preparacion": [
+        "Sudar el pescado con verduras y abundante chicha de jora ácida.",
+        "No lleva agua, solo chicha.",
+        "Servir con yuca y arroz."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sudado_de_pescado.jpg/800px-Sudado_de_pescado.jpg"
+    },
+    {
+      "id": 1619,
+      "nombre": "Sangrecita Criolla",
+      "tipo": "Desayuno",
+      "ingredientes": ["Sangre de pollo", "Cebolla china", "Ají amarillo", "Yuca"],
+      "preparacion": [
+        "Cocinar la sangre y desmenuzarla.",
+        "Freír con cebolla china, especias y ají.",
+        "Acompañar con yuca frita."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Sangrecita.jpg"
+    },
+    {
+      "id": 1620,
+      "nombre": "Pato Guisado",
+      "tipo": "Fondo",
+      "ingredientes": ["Pato", "Ají panca", "Ají mirasol", "Chicha de jora"],
+      "preparacion": [
+        "Guiso lento de pato macerado en chicha.",
+        "Queda con una salsa oscura y espesa, servido con arroz blanco y frejoles."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PatoGuisado.jpg"
+    }
+  ]
+}

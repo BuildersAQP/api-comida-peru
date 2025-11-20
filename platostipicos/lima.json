@@ -1,0 +1,253 @@
+{
+  "id_region": "LIM",
+  "nombre_region": "Lima",
+  "dato_curioso": "Lima es la única capital de Sudamérica ubicada frente al mar, lo que define su amor por el pescado fresco. Además, es la cuna del 'Pollo a la Brasa' (el plato más consumido del país) y del 'Chifa' (fusión peruano-china), existiendo miles de restaurantes de estas especialidades en cada rincón de la ciudad.",
+  "platos": [
+    {
+      "id": 101,
+      "nombre": "Ceviche Clásico",
+      "tipo": "Fondo / Entrada",
+      "ingredientes": ["Pescado fresco (Lenguado/Corvina)", "Limón sutil", "Ají limo", "Cebolla roja", "Culantro", "Camote", "Choclo"],
+      "preparacion": [
+        "Cortar el pescado en cubos uniformes.",
+        "Sazonar con sal y ají limo picado.",
+        "Exprimir el limón al momento (sin apretar demasiado) y mezclar rápido.",
+        "Agregar la cebolla y servir inmediatamente con camote y choclo."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ceviche_de_pescado.jpg/800px-Ceviche_de_pescado.jpg"
+    },
+    {
+      "id": 102,
+      "nombre": "Lomo Saltado",
+      "tipo": "Fondo",
+      "ingredientes": ["Lomo fino de res", "Cebolla roja gruesa", "Tomate grueso", "Sillao (soya)", "Vinagre", "Ají amarillo", "Papas fritas"],
+      "preparacion": [
+        "Cortar la carne en tiras y saltear a fuego muy alto (wok) para que ahúme (flameado).",
+        "Añadir cebolla y tomate por pocos segundos para que queden crocantes.",
+        "Agregar sillao y vinagre.",
+        "Servir mezclado con papas fritas y arroz blanco."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Lomo_saltado.jpg/800px-Lomo_saltado.jpg"
+    },
+    {
+      "id": 103,
+      "nombre": "Ají de Gallina",
+      "tipo": "Fondo",
+      "ingredientes": ["Pechuga de gallina deshilachada", "Ají amarillo molido", "Pan de molde (o galletas)", "Leche evaporada", "Pecanas", "Queso parmesano"],
+      "preparacion": [
+        "Hacer un sofrito de ají amarillo.",
+        "Licuar el pan remojado en leche y agregarlo al sofrito hasta que espese.",
+        "Añadir la gallina, pecanas y queso.",
+        "Servir sobre papas amarillas con arroz."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Aj%C3%AD_de_gallina_-_Lima%2C_Peru.jpg/800px-Aj%C3%AD_de_gallina_-_Lima%2C_Peru.jpg"
+    },
+    {
+      "id": 104,
+      "nombre": "Causa Limeña",
+      "tipo": "Entrada",
+      "ingredientes": ["Papa amarilla prensada", "Ají amarillo", "Limón", "Aceite", "Pollo deshilachado", "Mayonesa", "Palta"],
+      "preparacion": [
+        "Amasar la papa prensada con ají, limón y aceite.",
+        "Mezclar el pollo con mayonesa.",
+        "Armar por capas: masa, palta, relleno de pollo, masa.",
+        "Decorar con huevo duro y aceituna."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Causa_lime%C3%B1a.jpg/800px-Causa_lime%C3%B1a.jpg"
+    },
+    {
+      "id": 105,
+      "nombre": "Anticuchos de Corazón",
+      "tipo": "Entrada / Street Food",
+      "ingredientes": ["Corazón de res", "Ají panca", "Vinagre", "Ajos", "Comino", "Orégano"],
+      "preparacion": [
+        "Limpiar y trozar el corazón.",
+        "Macerar en aderezo de ají panca y vinagre por varias horas.",
+        "Ensartar en palos de caña y asar a la parrilla pincelando con el aderezo.",
+        "Servir con papa sancochada y choclo."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Anticuchos_peruanos.jpg/800px-Anticuchos_peruanos.jpg"
+    },
+    {
+      "id": 106,
+      "nombre": "Pollo a la Brasa",
+      "tipo": "Fondo",
+      "ingredientes": ["Pollo entero", "Sillao", "Cerveza negra", "Romero", "Ajos", "Ají panca"],
+      "preparacion": [
+        "Macerar el pollo con una mezcla secreta de especias y líquidos oscuros.",
+        "Cocinar en un horno rotatorio al carbón o leña.",
+        "Servir con abundantes papas fritas y ensalada."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pollo_a_la_brasa_peruano.jpg/800px-Pollo_a_la_brasa_peruano.jpg"
+    },
+    {
+      "id": 107,
+      "nombre": "Papa Rellena",
+      "tipo": "Entrada",
+      "ingredientes": ["Papa blanca sancochada", "Carne molida", "Cebolla", "Huevo duro", "Pasas", "Aceituna", "Harina"],
+      "preparacion": [
+        "Amasar la papa.",
+        "Hacer un pino (relleno) de carne con cebolla, pasas, huevo y aceituna.",
+        "Rellenar la masa de papa dándole forma ovalada.",
+        "Pasar por harina y freír en abundante aceite."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Papa_rellena.jpg/800px-Papa_rellena.jpg"
+    },
+    {
+      "id": 108,
+      "nombre": "Arroz Chaufa",
+      "tipo": "Fondo",
+      "ingredientes": ["Arroz cocido (del día anterior)", "Pollo/Cerdo", "Huevos", "Cebolla china", "Sillao", "Kion"],
+      "preparacion": [
+        "Batir huevos y hacer una tortilla picada.",
+        "Saltear la carne en wok con kion.",
+        "Agregar el arroz y el sillao, saltear a fuego alto.",
+        "Terminar con cebolla china y aceite de ajonjolí."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Arroz_chaufa.jpg/800px-Arroz_chaufa.jpg"
+    },
+    {
+      "id": 109,
+      "nombre": "Cau Cau",
+      "tipo": "Fondo",
+      "ingredientes": ["Mondongo (panza) precocido", "Papas en cubos", "Palillo (cúrcuma)", "Hierbabuena", "Ají amarillo"],
+      "preparacion": [
+        "Hacer un aderezo de cebolla, ají amarillo y palillo.",
+        "Agregar el mondongo y las papas en cuadraditos.",
+        "Cocinar hasta que la papa esté lista y espolvorear hierbabuena."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cau_cau.jpg/800px-Cau_cau.jpg"
+    },
+    {
+      "id": 110,
+      "nombre": "Tacu Tacu",
+      "tipo": "Fondo",
+      "ingredientes": ["Frijoles canarios (sobras)", "Arroz cocido", "Cebolla", "Ají amarillo", "Aceite de oliva"],
+      "preparacion": [
+        "Mezclar el arroz con los frijoles hasta formar una masa.",
+        "Dorar en sartén con aceite de oliva formando una especie de tortilla grande y dorada.",
+        "Se suele servir 'a lo pobre' (con huevo y plátano) o con mariscos."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tacu-tacu.jpg/800px-Tacu-tacu.jpg"
+    },
+    {
+      "id": 111,
+      "nombre": "Sancochado",
+      "tipo": "Sopa / Fondo",
+      "ingredientes": ["Carne de res (pecho)", "Papas", "Camote", "Yuca", "Choclo", "Col", "Zanahoria"],
+      "preparacion": [
+        "Hervir la carne por horas.",
+        "Agregar todas las verduras y tubérculos enteros.",
+        "Servir el caldo (consomé) aparte y las carnes con verduras en una fuente con salsas criollas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Sancochado.jpg"
+    },
+    {
+      "id": 112,
+      "nombre": "Tallarines Verdes",
+      "tipo": "Fondo",
+      "ingredientes": ["Fideos espagueti", "Albahaca", "Espinaca", "Queso fresco", "Leche", "Pecanas"],
+      "preparacion": [
+        "Licuar las hojas de albahaca y espinaca salteadas con queso, leche y pecanas.",
+        "Mezclar la salsa con los fideos calientes.",
+        "Servir tradicionalmente con un bistec apanado."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_TallarinesVerdes.jpg"
+    },
+    {
+      "id": 113,
+      "nombre": "Mazamorra Morada",
+      "tipo": "Postre",
+      "ingredientes": ["Maíz morado", "Piña", "Membrillo", "Harina de camote", "Canela", "Clavo"],
+      "preparacion": [
+        "Hervir el maíz morado con cáscaras de piña y especias para obtener la chicha.",
+        "Colar y agregar trozos de fruta.",
+        "Espesar con harina de camote diluida."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Mazamorra_morada.jpg/800px-Mazamorra_morada.jpg"
+    },
+    {
+      "id": 114,
+      "nombre": "Suspiro a la Limeña",
+      "tipo": "Postre",
+      "ingredientes": ["Leche condensada", "Leche evaporada", "Yemas", "Oporto", "Claras de huevo"],
+      "preparacion": [
+        "Cocinar las leches hasta obtener un manjar blanco y agregar yemas (Manjar Real).",
+        "Hacer un almíbar con oporto y batir con claras para el merengue.",
+        "Servir el manjar en copa y decorar con el merengue y canela."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Suspiro_de_Lime%C3%B1a.jpg/800px-Suspiro_de_Lime%C3%B1a.jpg"
+    },
+    {
+      "id": 115,
+      "nombre": "Picarones",
+      "tipo": "Postre",
+      "ingredientes": ["Zapallo macre", "Camote", "Harina", "Levadura", "Miel de chancaca"],
+      "preparacion": [
+        "Hacer un puré de zapallo y camote.",
+        "Mezclar con harina y levadura, batir y dejar leudar.",
+        "Freír la masa en forma de aros en aceite caliente.",
+        "Bañar con miel de chancaca aromatizada con hoja de higo."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Picarones_Lima.jpg/800px-Picarones_Lima.jpg"
+    },
+    {
+      "id": 116,
+      "nombre": "Turrón de Doña Pepa",
+      "tipo": "Postre (Octubre)",
+      "ingredientes": ["Harina", "Manteca", "Ajonjolí", "Anís", "Miel de frutas", "Grageas"],
+      "preparacion": [
+        "Hornear varillas de masa con anís y ajonjolí.",
+        "Armar capas cruzadas de varillas pegándolas con miel de frutas espesa.",
+        "Decorar con grageas de colores."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Turron_de_Do%C3%B1a_Pepa.jpg/800px-Turron_de_Do%C3%B1a_Pepa.jpg"
+    },
+    {
+      "id": 117,
+      "nombre": "Butifarra",
+      "tipo": "Sándwich",
+      "ingredientes": ["Jamón del País (cerdo)", "Pan francés crocante", "Salsa criolla (cebolla)", "Lechuga", "Mostaza"],
+      "preparacion": [
+        "Cortar el jamón del país (cerdo prensado y condimentado) en láminas.",
+        "Armar el sándwich con lechuga, jamón y abundante salsa criolla."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Butifarra.jpg"
+    },
+    {
+      "id": 118,
+      "nombre": "Chicha Morada",
+      "tipo": "Bebida",
+      "ingredientes": ["Maíz morado", "Piña", "Manzana", "Canela", "Clavo", "Limón"],
+      "preparacion": [
+        "Hervir el maíz morado con especias y cáscaras de fruta.",
+        "Colar, enfriar y endulzar.",
+        "Agregar jugo de limón y fruta picada al momento de servir."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Chicha_morada.jpg/800px-Chicha_morada.jpg"
+    },
+    {
+      "id": 119,
+      "nombre": "Arroz Zambito",
+      "tipo": "Postre",
+      "ingredientes": ["Arroz", "Chancaca (panela)", "Leche", "Coco rallado", "Pasas", "Pecanas"],
+      "preparacion": [
+        "Similar al arroz con leche pero endulzado con chancaca, lo que le da color marrón.",
+        "Lleva coco, pasas y nueces."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ArrozZambito.jpg"
+    },
+    {
+      "id": 120,
+      "nombre": "Escabeche de Pescado",
+      "tipo": "Fondo / Entrada",
+      "ingredientes": ["Filete de pescado frito", "Cebolla roja", "Ají amarillo", "Vinagre tinto", "Ají panca"],
+      "preparacion": [
+        "Freír el pescado.",
+        "Hacer un encebollado con vinagre, ají panca y ají amarillo en tiras.",
+        "Cubrir el pescado con esta salsa y dejar reposar (se come frío o tibio)."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Escabeche_de_pescado.jpg/800px-Escabeche_de_pescado.jpg"
+    }
+  ]
+}

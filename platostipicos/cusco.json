@@ -1,0 +1,245 @@
+{
+  "id_region": "CUS",
+  "nombre_region": "Cusco",
+  "dato_curioso": "El plato bandera de Cusco es el 'Chiriuchu' (ají frío en quechua), que se consume tradicionalmente en la fiesta del Corpus Christi. Es un plato frío que combina ingredientes de la costa, sierra y selva (cuy, gallina, algas, huevera, cecina), representando la dualidad y la integración del Tahuantinsuyo.",
+  "platos": [
+    {
+      "id": 301,
+      "nombre": "Chiriuchu",
+      "tipo": "Festivo (Plato Frío)",
+      "ingredientes": ["Cuy al horno", "Gallina sancochada", "Cecina", "Torreja de maíz", "Cochayuyo (algas)", "Queso", "Rocoto"],
+      "preparacion": [
+        "Cocinar las carnes por separado (cuy al horno, gallina hervida).",
+        "Preparar una torreja de harina de maíz con cebolla.",
+        "Servir todos los ingredientes fríos en un solo plato para comer con las manos."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chiriuchu.jpg/800px-Chiriuchu.jpg"
+    },
+    {
+      "id": 302,
+      "nombre": "Chicharrón Cusqueño",
+      "tipo": "Desayuno / Fondo",
+      "ingredientes": ["Carne de cerdo con piel", "Hierbabuena", "Mote", "Papas", "Cebolla"],
+      "preparacion": [
+        "Hervir trozos de cerdo con agua y hierbabuena hasta que el agua se evapore.",
+        "Dejar que la carne se fría en su propia manteca hasta dorar.",
+        "Servir con mote, papas doradas y ensalada de cebolla (sarza)."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chicharr%C3%B3n_peruano.jpg/800px-Chicharr%C3%B3n_peruano.jpg"
+    },
+    {
+      "id": 303,
+      "nombre": "Cuy al Horno",
+      "tipo": "Fondo",
+      "ingredientes": ["Cuy entero", "Huacatay", "Comino", "Ajos", "Papas"],
+      "preparacion": [
+        "Macerar el cuy con huacatay, comino y sal.",
+        "Hornear entero (tradicionalmente en horno de leña) hasta que la piel esté crocante.",
+        "Servir acompañado de papas al horno y rocoto."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cuy_al_horno.jpg/800px-Cuy_al_horno.jpg"
+    },
+    {
+      "id": 304,
+      "nombre": "Kapchi de Setas",
+      "tipo": "Fondo",
+      "ingredientes": ["Setas silvestres", "Habas verdes", "Papas", "Leche", "Queso", "Huacatay"],
+      "preparacion": [
+        "Hacer un aderezo de cebolla y ajos.",
+        "Cocinar las papas y habas con un poco de agua.",
+        "Agregar las setas y finalizar con leche, queso y huacatay (guiso cremoso)."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kapchi_de_habas.jpg/800px-Kapchi_de_habas.jpg"
+    },
+    {
+      "id": 305,
+      "nombre": "Timpu (Puchero Cusqueño)",
+      "tipo": "Fondo (Carnavales)",
+      "ingredientes": ["Pecho de res", "Cabeza de cordero", "Tocino", "Col", "Garbanzos", "Camote", "Yuca", "Durazno", "Pera"],
+      "preparacion": [
+        "Hervir las carnes.",
+        "Cocinar las verduras y frutas enteras en el caldo.",
+        "Servir el caldo aparte y las carnes con las guarniciones en una fuente (el 'seco')."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Timpu.jpg"
+    },
+    {
+      "id": 306,
+      "nombre": "Lawa de Choclo",
+      "tipo": "Sopa",
+      "ingredientes": ["Choclo maduro molido", "Caldo de carne", "Papas", "Huacatay", "Huevo"],
+      "preparacion": [
+        "Hervir un caldo de carne con papas.",
+        "Agregar el choclo molido disuelto en agua fría para espesar.",
+        "Cocinar hasta que tome consistencia de crema y añadir huevo batido."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Lawa.jpg"
+    },
+    {
+      "id": 307,
+      "nombre": "Adobo Cusqueño",
+      "tipo": "Fondo",
+      "ingredientes": ["Carne de cerdo", "Chicha de jora", "Ají panca", "Rocoto", "Cebolla"],
+      "preparacion": [
+        "A diferencia del arequipeño, este es más 'caldoso' y rojo.",
+        "Macerar y cocinar el cerdo en chicha y ají panca.",
+        "Servir con pan de Oropesa."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_AdoboCusco.jpg"
+    },
+    {
+      "id": 308,
+      "nombre": "Olluquito con Charqui",
+      "tipo": "Fondo",
+      "ingredientes": ["Ollucos picados", "Charqui (carne seca de alpaca/res)", "Ají panca", "Perejil"],
+      "preparacion": [
+        "Lavar y picar el olluco en tiras finas.",
+        "Tostar y deshilachar el charqui.",
+        "Guisar ambos con ají panca hasta que estén tiernos."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Olluquito_con_charqui.jpg/800px-Olluquito_con_charqui.jpg"
+    },
+    {
+      "id": 309,
+      "nombre": "Pesque de Quinua",
+      "tipo": "Fondo",
+      "ingredientes": ["Quinua lavada", "Leche", "Queso", "Mantequilla"],
+      "preparacion": [
+        "Hervir la quinua hasta que reviente bien (sin sal al inicio).",
+        "Batir con cuchara de palo agregando leche y mantequilla hasta lograr un puré.",
+        "Mezclar con queso fresco."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Pesque.jpg"
+    },
+    {
+      "id": 310,
+      "nombre": "Solterito de Cucho",
+      "tipo": "Ensalada",
+      "ingredientes": ["Cochayuyo (algas)", "Zanahoria", "Cebolla", "Tomate", "Limón"],
+      "preparacion": [
+        "Lavar bien el cochayuyo.",
+        "Mezclar con zanahoria cocida en tiras, cebolla y tomate.",
+        "Aliñar con limón y sal."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_SolteritoCucho.jpg"
+    },
+    {
+      "id": 311,
+      "nombre": "Tamales Cusqueños",
+      "tipo": "Entrada",
+      "ingredientes": ["Maíz blanco gigante", "Manteca", "Anís", "Pasas (dulces) o Carne (salados)"],
+      "preparacion": [
+        "Moler el maíz blanco.",
+        "Batir con manteca hasta que esté muy suave.",
+        "Son típicamente más pequeños y dulces que los limeños."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_TamalCusco.jpg"
+    },
+    {
+      "id": 312,
+      "nombre": "Chuño Cola",
+      "tipo": "Sopa",
+      "ingredientes": ["Harina de chuño negro", "Carne de res", "Salchicha serrana", "Garbanzos", "Papas"],
+      "preparacion": [
+        "Hervir carnes y garbanzos.",
+        "Diluir la harina de chuño en agua fría.",
+        "Agregar al caldo hirviendo para espesar (textura gelatinosa) y servir con papas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ChunoCola.jpg"
+    },
+    {
+      "id": 313,
+      "nombre": "Rocoto Relleno Cusqueño",
+      "tipo": "Fondo",
+      "ingredientes": ["Rocoto", "Carne molida", "Maní", "Pasas", "Huevo", "Harina"],
+      "preparacion": [
+        "Rellenar el rocoto cocido con guiso de carne.",
+        "Pasar por harina y huevo batido (rebozar).",
+        "Freír en aceite caliente (a diferencia del arequipeño que es al horno)."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_RocotoCusco.jpg"
+    },
+    {
+      "id": 314,
+      "nombre": "Choclo con Queso",
+      "tipo": "Entrada / Street Food",
+      "ingredientes": ["Choclo gigante (Urubamba)", "Queso paria o fresco", "Anís"],
+      "preparacion": [
+        "Hervir el choclo con anís y un poco de azúcar.",
+        "Servir la mazorca entera caliente con una tajada gruesa de queso."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Choclo_con_queso.jpg"
+    },
+    {
+      "id": 315,
+      "nombre": "Lechón al Horno",
+      "tipo": "Fondo",
+      "ingredientes": ["Cerdo entero o trozado", "Ají panca", "Ajos", "Sal", "Pimienta"],
+      "preparacion": [
+        "Sazonar el lechón y dejar macerar.",
+        "Hornear lentamente para que la piel quede galleta (crocante) y la carne suave.",
+        "Típico del pueblo de Huarocondo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_LechonCusco.jpg"
+    },
+    {
+      "id": 316,
+      "nombre": "Pan Chuta",
+      "tipo": "Panadería",
+      "ingredientes": ["Harina de trigo", "Afrecho", "Azúcar", "Anís", "Chicha"],
+      "preparacion": [
+        "Amasar ingredientes con agua de chicha.",
+        "Formar panes grandes y planos con decoraciones.",
+        "Hornear en Oropesa (Capital Nacional del Pan)."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pan_Chuta.jpg/800px-Pan_Chuta.jpg"
+    },
+    {
+      "id": 317,
+      "nombre": "Costillar Frito",
+      "tipo": "Fondo",
+      "ingredientes": ["Costillar de cordero", "Ajos", "Sal", "Aceite"],
+      "preparacion": [
+        "Hervir el costillar en agua con sal hasta que evapore.",
+        "Freír en su grasa hasta dorar.",
+        "Servir con moraya y salsa de cebolla."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CostillarCusco.jpg"
+    },
+    {
+      "id": 318,
+      "nombre": "Tarwi (Guiso)",
+      "tipo": "Fondo",
+      "ingredientes": ["Tarwi (chocho) pelado", "Papas", "Queso", "Leche"],
+      "preparacion": [
+        "Licuar o moler el tarwi.",
+        "Guisar con un aderezo de cebolla y ajo, agregando papa.",
+        "No lleva ají, es un guiso blanco."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Tarwi.jpg"
+    },
+    {
+      "id": 319,
+      "nombre": "Frutillada",
+      "tipo": "Bebida",
+      "ingredientes": ["Chicha de jora", "Frutillas (fresas)", "Harina de maíz (para espesar)"],
+      "preparacion": [
+        "Mezclar la chicha de jora fermentada con frutillas licuadas.",
+        "Servir en vasos grandes (caporal) en las chicherías."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Frutillada.jpg"
+    },
+    {
+      "id": 320,
+      "nombre": "Zarza de Patitas",
+      "tipo": "Entrada",
+      "ingredientes": ["Patitas de cerdo", "Cebolla", "Perejil", "Tomate", "Vinagre"],
+      "preparacion": [
+        "Hervir las patitas hasta que estén muy suaves, deshuesar y picar.",
+        "Mezclar con cebolla, tomate y perejil.",
+        "Aliñar con vinagre y aceite."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ZarzaPatitasCusco.jpg"
+    }
+  ]
+}

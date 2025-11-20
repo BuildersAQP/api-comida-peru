@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>API de Platos Típicos del Perú</title>
+    <meta name="description" content="API gratuita estilo PokeAPI para platos típicos del Perú" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="container">
+        <h1>Platos Típicos del Perú API</h1>
+        <p>Consulta platos por región con filtros. Rápida, gratuita y en español.</p>
+        <a class="cta" href="#comenzar">Comenzar</a>
+      </div>
+    </header>
+    <main class="container">
+      <section id="comenzar" class="card">
+        <h2>Uso básico</h2>
+        <p>La API expone rutas públicas:</p>
+        <ul>
+          <li><code>/api</code> lista las regiones</li>
+          <li><code>/api/&lt;region&gt;</code> platos de la región</li>
+          <li><code>/api/&lt;region&gt;/&lt;id&gt;</code> detalle de un plato</li>
+        </ul>
+        <p>Ejemplos:</p>
+        <pre><code>GET /api
+GET /api/lima?limit=5
+GET /api/cusco?tipo=Fondo&ingrediente=ají
+GET /api/la-libertad/12</code></pre>
+      </section>
+      <section class="card">
+        <h2>Parámetros</h2>
+        <ul>
+          <li><strong>limit</strong>: número de resultados (por defecto 20, máx 100)</li>
+          <li><strong>offset</strong>: paginado</li>
+          <li><strong>tipo</strong>: categoría del plato</li>
+          <li><strong>ingrediente</strong>: texto presente en ingredientes</li>
+          <li><strong>q</strong>: búsqueda libre por nombre y preparación</li>
+          <li><strong>sort</strong>: <code>id</code>, <code>nombre</code> o <code>tipo</code></li>
+        </ul>
+      </section>
+      <section class="card">
+        <h2>Regiones</h2>
+        <div id="regions" class="grid"></div>
+      </section>
+      <section class="card">
+        <h2>Recomendaciones</h2>
+        <ul>
+          <li>Usa los slugs ASCII de región: p. ej., <code>apurimac</code>, <code>la-libertad</code>, <code>madre-de-dios</code>.</li>
+          <li>Aplica filtros moderados para mejorar rendimiento y evitar límites de tasa.</li>
+          <li>Cachea respuestas en tu cliente cuando sea posible.</li>
+        </ul>
+      </section>
+      <section class="card">
+        <h2>Ejemplos</h2>
+        <p>JavaScript:</p>
+        <pre><code>fetch('https://&lt;tu-worker&gt;/api/lima?limit=5')
+  .then(r => r.json())
+  .then(d => console.log(d))</code></pre>
+        <p>curl:</p>
+        <pre><code>curl 'https://&lt;tu-worker&gt;/api/cusco?tipo=Fondo&ingrediente=ají'</code></pre>
+        <p>Python:</p>
+        <pre><code>import requests
+r = requests.get('https://&lt;tu-worker&gt;/api/arequipa?q=rocoto&sort=nombre&limit=10')
+print(r.json())</code></pre>
+      </section>
+      <section class="card">
+        <h2>Licencia</h2>
+        <p>Código bajo MIT. Datos JSON bajo CC BY 4.0.</p>
+      </section>
+    </main>
+    <footer class="container foot">
+      <small>© API Platos del Perú</small>
+    </footer>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

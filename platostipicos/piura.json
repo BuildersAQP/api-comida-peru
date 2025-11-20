@@ -1,0 +1,245 @@
+{
+  "id_region": "PIU",
+  "nombre_region": "Piura",
+  "dato_curioso": "Piura es la tierra del 'Limón Sutil' (indispensable para el ceviche peruano) y del algarrobo. Su gastronomía tiene un plato sagrado para los viernes de Cuaresma: la 'Malarrabia', que combina el dulce del plátano maduro con lo salado del queso y el pescado. Además, aquí se bebe la chicha en 'poto' (vasija de calabaza) y se come con la mano.",
+  "platos": [
+    {
+      "id": 2001,
+      "nombre": "Seco de Chavelo",
+      "tipo": "Fondo",
+      "ingredientes": ["Plátano verde (bellaco)", "Carne aliñada (cecina)", "Chicha de jora", "Cebolla", "Tomate", "Ají panca"],
+      "preparacion": [
+        "Freír los plátanos verdes y chancarlos (majarlos) en mortero.",
+        "Freír la carne seca aliñada.",
+        "Mezclar ambos con un aderezo húmedo de cebolla, tomate, ají y un chorro de chicha de jora."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Seco_de_Chavelo.jpg/800px-Seco_de_Chavelo.jpg"
+    },
+    {
+      "id": 2002,
+      "nombre": "Malarrabia",
+      "tipo": "Fondo (Viernes)",
+      "ingredientes": ["Plátano maduro", "Queso fresco de cabra", "Achiote", "Pescado salpreso", "Arroz", "Menestra"],
+      "preparacion": [
+        "Sancochar los plátanos maduros con cáscara, pelar y majar.",
+        "Mezclar el puré con queso desmenuzado y un sofrito de achiote y cebolla.",
+        "Servir acompañado de arroz, frijoles y un sudado de pescado."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Malarrabia.jpg"
+    },
+    {
+      "id": 2003,
+      "nombre": "Seco de Cabrito a la Norteña",
+      "tipo": "Fondo",
+      "ingredientes": ["Cabrito de leche", "Zapallo loche", "Culantro", "Chicha de jora", "Frijoles"],
+      "preparacion": [
+        "Macerar el cabrito en chicha de jora.",
+        "Guisar con abundante culantro licuado y zapallo loche rallado (ingrediente clave).",
+        "Servir con arroz, frijoles y tamalito verde."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Seco_de_cabrito.jpg/800px-Seco_de_cabrito.jpg"
+    },
+    {
+      "id": 2004,
+      "nombre": "Sudado de Cachema",
+      "tipo": "Fondo",
+      "ingredientes": ["Pescado Cachema entero", "Chicha de jora", "Tomate", "Cebolla", "Ají amarillo"],
+      "preparacion": [
+        "Hacer una cama de cebolla y tomate en la olla.",
+        "Colocar el pescado y cocinar al vapor con chicha de jora y chilcano.",
+        "Se sirve con yuca sancochada. La cachema es apreciada por su carne blanca y suave."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sudado_de_pescado.jpg/800px-Sudado_de_pescado.jpg"
+    },
+    {
+      "id": 2005,
+      "nombre": "Ceviche de Mero",
+      "tipo": "Entrada / Fondo",
+      "ingredientes": ["Mero murique", "Limón de Tambogrande", "Ají limo", "Cebolla roja", "Zarandaja (frijol)"],
+      "preparacion": [
+        "Cortar el mero en cubos grandes.",
+        "Marinar brevemente en limón y sal.",
+        "Acompañar con zarandaja (frijol típico del norte), camote y choclo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CevicheMero.jpg"
+    },
+    {
+      "id": 2006,
+      "nombre": "Majado de Yuca",
+      "tipo": "Desayuno / Entrada",
+      "ingredientes": ["Yuca", "Chicharrón de cerdo", "Cebolla", "Ají amarillo", "Canchita"],
+      "preparacion": [
+        "Sancochar la yuca y majarla rústicamente.",
+        "Mezclar con un aderezo de cebolla, ají y trozos de cerdo frito.",
+        "Se come caliente, a veces con cancha tostada encima."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_MajadoYuca.jpg"
+    },
+    {
+      "id": 2007,
+      "nombre": "Tamalitos Verdes",
+      "tipo": "Entrada",
+      "ingredientes": ["Choclo tierno", "Culantro", "Cebolla", "Aceite"],
+      "preparacion": [
+        "Moler el choclo con el culantro (que le da el color verde).",
+        "No suelen llevar relleno de carne, son pequeños y suaves.",
+        "Se sirven como guarnición del seco de cabrito o solos con salsa criolla."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_TamalitosVerdes.jpg"
+    },
+    {
+      "id": 2008,
+      "nombre": "Pepián de Pavo",
+      "tipo": "Fondo",
+      "ingredientes": ["Pavo", "Choclo maduro molido", "Culantro", "Ají panca"],
+      "preparacion": [
+        "Guisar el pavo.",
+        "Con el caldo, cocinar el maíz molido hasta formar una crema espesa.",
+        "Plato típico de fiestas y matrimonios."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PepianPavoPiura.jpg"
+    },
+    {
+      "id": 2009,
+      "nombre": "Carne Aliñada",
+      "tipo": "Fondo",
+      "ingredientes": ["Carne de cerdo", "Vinagre", "Achiote", "Comino", "Chifles"],
+      "preparacion": [
+        "Cortar la carne en láminas finas y secar al sol con condimentos.",
+        "Freír en aceite caliente.",
+        "Servir con chifles (plátano frito) y salsa criolla."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CarneAlinada.jpg"
+    },
+    {
+      "id": 2010,
+      "nombre": "Relleno Piurano",
+      "tipo": "Embutido / Desayuno",
+      "ingredientes": ["Tripas de cerdo", "Sangre", "Camote", "Hierbabuena", "Aji"],
+      "preparacion": [
+        "Rellenar la tripa con sangre condimentada y trozos de camote.",
+        "Hervir y luego freír en rodajas.",
+        "Se come en el desayuno dominical."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_RellenoPiurano.jpg"
+    },
+    {
+      "id": 2011,
+      "nombre": "Caldo de Siete Carnes",
+      "tipo": "Sopa",
+      "ingredientes": ["Res", "Cerdo", "Carnero", "Gallina", "Charqui", "Cabrito", "Pato"],
+      "preparacion": [
+        "Hervir las siete carnes juntas por horas.",
+        "Se dice que es un 'levantamuertos' potente.",
+        "Se sirve con mote y hierbabuena."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_SieteCarnes.jpg"
+    },
+    {
+      "id": 2012,
+      "nombre": "Copús",
+      "tipo": "Festivo",
+      "ingredientes": ["Cabeza de cerdo", "Carnero", "Plátanos maduros", "Camotes"],
+      "preparacion": [
+        "Versión piurana de la pachamanca.",
+        "Se cocina en una olla de barro enterrada bajo tierra con brasas.",
+        "La carne queda deshaciéndose y los plátanos caramelizados."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Copus.jpg"
+    },
+    {
+      "id": 2013,
+      "nombre": "Chifles",
+      "tipo": "Snack / Guarnición",
+      "ingredientes": ["Plátano verde", "Aceite", "Sal", "Cancha (opcional)", "Cecina (opcional)"],
+      "preparacion": [
+        "Cortar el plátano en rodajas muy finas o tiras largas.",
+        "Freír en leña hasta que estén crujientes.",
+        "El snack bandera de Piura."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Chifles.jpg/800px-Chifles.jpg"
+    },
+    {
+      "id": 2014,
+      "nombre": "Natilla Piurana",
+      "tipo": "Postre",
+      "ingredientes": ["Leche de cabra", "Chancaca", "Harina de arroz"],
+      "preparacion": [
+        "Cocinar la leche con chancaca a fuego lento moviendo por horas.",
+        "Tiene una consistencia chiclosa y dulce, color marrón oscuro.",
+        "Se suele servir con hojarascas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Natilla.jpg"
+    },
+    {
+      "id": 2015,
+      "nombre": "Chumbeque",
+      "tipo": "Postre",
+      "ingredientes": ["Harina", "Yemas", "Manteca", "Miel de frutas", "Achiote"],
+      "preparacion": [
+        "Masa amarilla (por el achiote) horneada en capas.",
+        "Relleno de miel pegajosa de limón o naranja.",
+        "Es un turrón de larga duración."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Chumbeque.jpg"
+    },
+    {
+      "id": 2016,
+      "nombre": "Clarito",
+      "tipo": "Bebida",
+      "ingredientes": ["Chicha de jora decantada"],
+      "preparacion": [
+        "Es la parte superior, transparente y menos fermentada de la chicha de jora.",
+        "Se sirve muy helado como aperitivo en los 'picanterías'."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ClaritoPiura.jpg"
+    },
+    {
+      "id": 2017,
+      "nombre": "Cachema Encebollada",
+      "tipo": "Fondo",
+      "ingredientes": ["Pescado Cachema (seco o fresco)", "Cebolla", "Tomate", "Vinagre", "Ají"],
+      "preparacion": [
+        "Freír el pescado entero.",
+        "Cubrir con un encebollado cocido con vinagre y ají (tipo escabeche caliente).",
+        "Servir con camote y arroz."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CachemaEncebollada.jpg"
+    },
+    {
+      "id": 2018,
+      "nombre": "Coctel de Algarrobina",
+      "tipo": "Bebida",
+      "ingredientes": ["Algarrobina (jarabe de algarrobo)", "Pisco", "Leche", "Yema de huevo", "Hielo"],
+      "preparacion": [
+        "Licuar todos los ingredientes.",
+        "Resulta en un trago dulce, cremoso y energético.",
+        "Piura es el principal productor de algarrobina."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cocktail_de_Algarrobina.jpg/800px-Cocktail_de_Algarrobina.jpg"
+    },
+    {
+      "id": 2019,
+      "nombre": "Atamalado",
+      "tipo": "Fondo",
+      "ingredientes": ["Frijol negro (o zarandaja)", "Arroz", "Pescado frito", "Chancaca (opcional)"],
+      "preparacion": [
+        "Guiso de arroz con frijoles que queda con consistencia de masa (como tamal).",
+        "Se sirve con pescado frito y salsa criolla."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Atamalado.jpg"
+    },
+    {
+      "id": 2020,
+      "nombre": "Pavo con Tallarines",
+      "tipo": "Fondo",
+      "ingredientes": ["Pavo", "Tallarines", "Sillao", "Achiote", "Menudencia"],
+      "preparacion": [
+        "Plato típico de fiestas populares.",
+        "Pavo horneado jugoso servido con tallarines rojos/oscuros cocidos en el jugo del pavo.",
+        "Acompañado de chifles."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PavoTallarines.jpg"
+    }
+  ]
+}

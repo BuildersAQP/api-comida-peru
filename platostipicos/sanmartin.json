@@ -1,0 +1,242 @@
+{
+  "id_region": "SAM",
+  "nombre_region": "San Martín",
+  "dato_curioso": "San Martín es la cuna del 'Avispa Juane', una variante del Juane tradicional que lleva carne de cerdo molida mezclada con el arroz y huevo, dándole un sabor más intenso. Además, esta región es famosa por su producción de cacao y por el 'Poroto Shirumbi', una sopa espesa de frijoles que es un clásico en las mesas familiares.",
+  "platos": [
+    {
+      "id": 2201,
+      "nombre": "Avispa Juane",
+      "tipo": "Fondo",
+      "ingredientes": ["Arroz", "Carne de cerdo molida", "Gallina", "Huevos", "Hojas de bijao"],
+      "preparacion": [
+        "A diferencia del juane tradicional, el arroz se mezcla con carne de cerdo molida y huevos batidos.",
+        "Se coloca una presa de gallina en el centro.",
+        "Se envuelve en hoja de bijao dejando una 'colita' amarrada que asemeja a una avispa."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_AvispaJuane.jpg"
+    },
+    {
+      "id": 2202,
+      "nombre": "Tacacho con Cecina",
+      "tipo": "Fondo",
+      "ingredientes": ["Plátano verde (bellaco)", "Manteca de cerdo", "Cecina ahumada", "Chicharrón"],
+      "preparacion": [
+        "Asar los plátanos verdes al carbón o freírlos.",
+        "Machacar con manteca y trozos de chicharrón.",
+        "Servir con la lámina de cecina de cerdo ahumada frita."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Tacacho_con_Cecina.jpg"
+    },
+    {
+      "id": 2203,
+      "nombre": "Inchicapi de Gallina",
+      "tipo": "Sopa",
+      "ingredientes": ["Gallina", "Maní pelado", "Harina de maíz", "Sacha culantro", "Yuca"],
+      "preparacion": [
+        "Hervir la gallina de chacra.",
+        "Licuar maní, maíz y sacha culantro.",
+        "Cocinar la mezcla hasta que espese y tenga un color verdoso o amarillo pálido."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Inchicapi.jpg"
+    },
+    {
+      "id": 2204,
+      "nombre": "Poroto Shirumbi",
+      "tipo": "Sopa",
+      "ingredientes": ["Frijol huasca (poroto)", "Patas de cerdo", "Yuca", "Arroz", "Sacha culantro"],
+      "preparacion": [
+        "Cocinar los frijoles con las patas de cerdo y orejas (shirumbe) para dar sabor.",
+        "Agregar arroz y yuca picada para espesar.",
+        "Finalizar con sacha culantro."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PorotoShirumbi.jpg"
+    },
+    {
+      "id": 2205,
+      "nombre": "Chorizo Regional",
+      "tipo": "Embutido / Fondo",
+      "ingredientes": ["Carne de cerdo", "Achiote", "Ajos", "Tripa fina"],
+      "preparacion": [
+        "El chorizo de San Martín es rojo intenso por el uso de achiote (guisador).",
+        "Se seca al sol o se ahúma.",
+        "Se fríe y sirve con tacacho o plátano maduro."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ChorizoSanMartin.jpg"
+    },
+    {
+      "id": 2206,
+      "nombre": "Nina Juane",
+      "tipo": "Fondo",
+      "ingredientes": ["Pollo o pescado", "Huevos batidos", "Sacha culantro", "Hojas de bijao"],
+      "preparacion": [
+        "Juane sin arroz.",
+        "Es una mezcla de huevo batido con carne y especias.",
+        "Se asa a la parrilla envuelto en la hoja ('Nina' significa fuego)."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_NinaJuane.jpg"
+    },
+    {
+      "id": 2207,
+      "nombre": "Patarashca",
+      "tipo": "Fondo",
+      "ingredientes": ["Pescado entero", "Hojas de bijao", "Tomate", "Cebolla", "Sacha culantro"],
+      "preparacion": [
+        "Sazonar el pescado y rellenarlo con verduras picadas.",
+        "Envolver en hoja de bijao y cocinar a las brasas.",
+        "El pescado se cuece en su propio jugo."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Patarashca.jpg/800px-Patarashca.jpg"
+    },
+    {
+      "id": 2208,
+      "nombre": "Timbuche",
+      "tipo": "Sopa",
+      "ingredientes": ["Pescado boquichico", "Sacha culantro", "Agua", "Sal"],
+      "preparacion": [
+        "Caldo claro de pescado fresco.",
+        "Se cocina rápido y se sirve caliente.",
+        "Conocido como 'Levantamuertos' de la selva."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Timbuche.jpg"
+    },
+    {
+      "id": 2209,
+      "nombre": "Cutacho",
+      "tipo": "Guarnición / Fondo",
+      "ingredientes": ["Plátano verde", "Maní", "Culantro", "Cebolla"],
+      "preparacion": [
+        "Hervir el plátano verde y machacarlo.",
+        "Mezclar con maní molido y un sofrito de cebolla y culantro.",
+        "Es una versión más suave y húmeda que el tacacho."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Cutacho.jpg"
+    },
+    {
+      "id": 2210,
+      "nombre": "Tilapia Frita",
+      "tipo": "Fondo",
+      "ingredientes": ["Tilapia (piscigranja)", "Harina", "Patacones", "Ensalada"],
+      "preparacion": [
+        "La acuicultura es fuerte en San Martín.",
+        "Tilapia fresca frita crocante.",
+        "Servida con patacones (plátano doble frito) y salsa de cocona."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Tilapia.jpg"
+    },
+    {
+      "id": 2211,
+      "nombre": "Ensalada de Chonta",
+      "tipo": "Entrada",
+      "ingredientes": ["Chonta (palmito)", "Limón", "Sal", "Aceite"],
+      "preparacion": [
+        "Deshilachar el corazón de la palmera fresca.",
+        "Aliñar simple con limón y sal.",
+        "Acompañamiento clásico de fiestas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_EnsaladaChonta.jpg"
+    },
+    {
+      "id": 2212,
+      "nombre": "Rumo Juane",
+      "tipo": "Fondo",
+      "ingredientes": ["Yuca rallada", "Paiche (pescado)", "Huevo", "Bijao"],
+      "preparacion": [
+        "Variante del juane hecha con masa de yuca en lugar de arroz.",
+        "Generalmente relleno de pescado (paiche) y huevo duro."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_RumoJuane.jpg"
+    },
+    {
+      "id": 2213,
+      "nombre": "Maduro Relleno",
+      "tipo": "Entrada / Postre",
+      "ingredientes": ["Plátano maduro (amarillo)", "Carne molida o Queso", "Maní"],
+      "preparacion": [
+        "Asar el plátano maduro entero.",
+        "Abrir por la mitad y rellenar con carne salada picadillo o queso.",
+        "Gratinar al horno."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_MaduroRelleno.jpg"
+    },
+    {
+      "id": 2214,
+      "nombre": "Masato",
+      "tipo": "Bebida",
+      "ingredientes": ["Yuca", "Azúcar", "Agua"],
+      "preparacion": [
+        "Bebida fermentada de yuca.",
+        "En las ciudades se prepara licuando la yuca cocida y dejando fermentar con azúcar."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Masato.jpg"
+    },
+    {
+      "id": 2215,
+      "nombre": "Uvachado",
+      "tipo": "Bebida (Licor)",
+      "ingredientes": ["Uva borgoña (isabella)", "Aguardiente de caña", "Miel"],
+      "preparacion": [
+        "Macerar las uvas negras en aguardiente por meses.",
+        "Queda un licor dulce y morado muy popular en Tarapoto."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Uvachado.jpg"
+    },
+    {
+      "id": 2216,
+      "nombre": "Majás Asado",
+      "tipo": "Fondo",
+      "ingredientes": ["Majás (picuro)", "Sacha culantro", "Yuca"],
+      "preparacion": [
+        "Carne de monte asada al horno de barro.",
+        "Tiene una piel gruesa y crocante similar al cerdo.",
+        "Servido con yuca sancochada."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Majas.jpg"
+    },
+    {
+      "id": 2217,
+      "nombre": "Chicha de Higo",
+      "tipo": "Bebida",
+      "ingredientes": ["Higos maduros", "Agua", "Chancaca"],
+      "preparacion": [
+        "Cocinar higos y dejarlos fermentar ligeramente.",
+        "Bebida refrescante típica de Moyobamba."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ChichaHigo.jpg"
+    },
+    {
+      "id": 2218,
+      "nombre": "Salsa de Cocona",
+      "tipo": "Salsa",
+      "ingredientes": ["Cocona", "Ají charapita", "Cebolla", "Culantro"],
+      "preparacion": [
+        "El 'ketchup' de la selva.",
+        "Cocona picada, cebolla, limón y el picante ají charapita.",
+        "Acompaña patacones y pescados."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_SalsaCocona.jpg"
+    },
+    {
+      "id": 2219,
+      "nombre": "Pan de Arroz",
+      "tipo": "Panadería",
+      "ingredientes": ["Harina de arroz", "Almidón de yuca", "Manteca", "Agua"],
+      "preparacion": [
+        "Panecillos redondos hechos con harina de arroz y yuca.",
+        "Tienen una textura gomosa por dentro y crocante por fuera.",
+        "Típicos para el desayuno."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PanArroz.jpg"
+    },
+    {
+      "id": 2220,
+      "nombre": "Rosquitas de Almidón",
+      "tipo": "Snack",
+      "ingredientes": ["Almidón de yuca", "Huevo", "Manteca"],
+      "preparacion": [
+        "Rosquillas blancas y crujientes.",
+        "Se deshacen en la boca, ideales para acompañar el café."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_RosquitasYuca.jpg"
+    }
+  ]
+}

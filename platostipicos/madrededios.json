@@ -1,0 +1,244 @@
+{
+  "id_region": "MAD",
+  "nombre_region": "Madre de Dios",
+  "dato_curioso": "Madre de Dios es el principal productor mundial de Castaña Amazónica (Brazil Nut). Por ello, su gastronomía ha desarrollado platos únicos donde esta nuez reemplaza al maní o se usa para empanizar pescados. Además, se consume carne de monte de manera tradicional y sostenible, y platos exóticos como el 'Chicharrón de Lagarto' (de zoocriadero).",
+  "platos": [
+    {
+      "id": 2601,
+      "nombre": "Patarashca",
+      "tipo": "Fondo",
+      "ingredientes": ["Pescado de río", "Hojas de bijao", "Sacha culantro", "Ají dulce", "Cebolla"],
+      "preparacion": [
+        "Sazonar el pescado entero o en filete con hierbas de la selva.",
+        "Envolver en hojas de bijao como un paquete.",
+        "Cocinar a las brasas (parrilla) para que se cocine en su jugo con sabor ahumado."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Patarashca.jpg/800px-Patarashca.jpg"
+    },
+    {
+      "id": 2602,
+      "nombre": "Tacacho con Cecina",
+      "tipo": "Fondo",
+      "ingredientes": ["Plátano bellaco verde", "Manteca de cerdo", "Chicharrón", "Cecina ahumada"],
+      "preparacion": [
+        "Asar o freír los plátanos y machacarlos caliente con manteca.",
+        "Formar bolas mezcladas con trocitos de chicharrón.",
+        "Servir con un filete de cecina (cerdo ahumado) frito."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Tacacho_con_Cecina.jpg"
+    },
+    {
+      "id": 2603,
+      "nombre": "Pescado en Salsa de Castaña",
+      "tipo": "Fondo",
+      "ingredientes": ["Pescado (Doncella o Paco)", "Castañas amazónicas", "Leche", "Cebolla", "Ajos"],
+      "preparacion": [
+        "Freír el pescado.",
+        "Licuar las castañas peladas con leche o agua para hacer una salsa blanca espesa.",
+        "Cocinar la salsa con un aderezo y bañar el pescado. Plato distintivo de la región."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PescadoCastana.jpg"
+    },
+    {
+      "id": 2604,
+      "nombre": "Caldo de Carachama",
+      "tipo": "Sopa",
+      "ingredientes": ["Carachama (pez)", "Sacha culantro", "Ajos", "Yuca"],
+      "preparacion": [
+        "Hervir la carachama (pez de aspecto prehistórico y piel dura) por largo tiempo.",
+        "Se considera un caldo muy nutritivo y restaurador para la anemia.",
+        "Se sirve con yuca sancochada."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Carachama.jpg"
+    },
+    {
+      "id": 2605,
+      "nombre": "Asado de Picuro",
+      "tipo": "Fondo",
+      "ingredientes": ["Picuro (Majaz)", "Sacha culantro", "Ajos", "Sillao", "Vinagre"],
+      "preparacion": [
+        "Macerar la carne de picuro (roedor grande de carne muy fina).",
+        "Asar al horno o a la leña lentamente para suavizar la carne.",
+        "Servir con plátano asado."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PicuroAsado.jpg"
+    },
+    {
+      "id": 2606,
+      "nombre": "Juane de Gallina",
+      "tipo": "Fondo",
+      "ingredientes": ["Arroz", "Gallina", "Huevo", "Aceituna", "Bijao", "Palillo"],
+      "preparacion": [
+        "Arroz sazonado con palillo y grasa de gallina.",
+        "Envuelto en hojas de bijao de forma esférica y hervido.",
+        "Plato principal de la Fiesta de San Juan."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Juane_peruano.jpg/800px-Juane_peruano.jpg"
+    },
+    {
+      "id": 2607,
+      "nombre": "Timbuche",
+      "tipo": "Sopa",
+      "ingredientes": ["Pescado menudo (Bocachico)", "Sacha culantro", "Agua", "Sal"],
+      "preparacion": [
+        "Sopa clara y ligera de pescado fresco.",
+        "Se prepara rápido y se consume caliente para 'sudar' y recuperarse (Levantamuertos)."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Timbuche.jpg"
+    },
+    {
+      "id": 2608,
+      "nombre": "Chicharrón de Lagarto",
+      "tipo": "Fondo",
+      "ingredientes": ["Cola de lagarto (Yacaré)", "Harina", "Aceite", "Yuca"],
+      "preparacion": [
+        "La carne proviene de zoocriaderos sostenibles.",
+        "Se corta la cola en trozos, se enharina y fríe.",
+        "Tiene sabor y textura entre pollo y pescado."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Lagarto.jpg"
+    },
+    {
+      "id": 2609,
+      "nombre": "Ensalada de Chonta",
+      "tipo": "Entrada",
+      "ingredientes": ["Chonta (palmito)", "Limón", "Aceite", "Sal"],
+      "preparacion": [
+        "Extraer el corazón de la palmera (chonta).",
+        "Cortar en tiras finas tipo fideos.",
+        "Aliñar con limón y sal. Muy fresca y crujiente."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Chonta.jpg"
+    },
+    {
+      "id": 2610,
+      "nombre": "Refresco de Copoazú",
+      "tipo": "Bebida",
+      "ingredientes": ["Pulpa de Copoazú", "Agua", "Azúcar"],
+      "preparacion": [
+        "El Copoazú es el 'cacao blanco' amazónico.",
+        "Se licúa la pulpa ácida y aromática con agua y azúcar.",
+        "Bebida muy refrescante y típica de Madre de Dios."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Copoazu.jpg"
+    },
+    {
+      "id": 2611,
+      "nombre": "Pacamuto",
+      "tipo": "Fondo",
+      "ingredientes": ["Carne de res", "Cebolla", "Pimiento", "Palos de brocheta"],
+      "preparacion": [
+        "Influencia de la frontera (Bolivia).",
+        "Brochetas grandes de trozos de carne marinada con vegetales.",
+        "Asadas a la parrilla."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Pacamuto.jpg"
+    },
+    {
+      "id": 2612,
+      "nombre": "Sudado de Doncella",
+      "tipo": "Fondo",
+      "ingredientes": ["Pescado Doncella", "Tomate", "Cebolla", "Ají dulce", "Sacha culantro"],
+      "preparacion": [
+        "La doncella es un pescado de carne blanca y fina.",
+        "Se suda con verduras y hierbas aromáticas.",
+        "Se sirve con yuca o arroz."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_SudadoDoncella.jpg"
+    },
+    {
+      "id": 2613,
+      "nombre": "Masato",
+      "tipo": "Bebida",
+      "ingredientes": ["Yuca", "Azúcar", "Agua"],
+      "preparacion": [
+        "Yuca cocida y machacada, fermentada por varios días.",
+        "Es la bebida social y ceremonial por excelencia."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Masato.jpg"
+    },
+    {
+      "id": 2614,
+      "nombre": "Chapo",
+      "tipo": "Bebida",
+      "ingredientes": ["Plátano maduro", "Agua", "Leche (opcional)"],
+      "preparacion": [
+        "Hervir plátanos maduros y licuarlos.",
+        "Queda una bebida espesa y dulce natural.",
+        "Se toma en el desayuno."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Chapo.jpg"
+    },
+    {
+      "id": 2615,
+      "nombre": "Zarapatera (Sopa de Motelo)",
+      "tipo": "Sopa (Tradicional)",
+      "ingredientes": ["Motelo (tortuga)", "Plátano rallado", "Culantro"],
+      "preparacion": [
+        "Plato ancestral (consumo regulado actualmente).",
+        "Se cocina la carne de tortuga dentro de su propio caparazón a las brasas o en olla.",
+        "Se espesa con plátano rallado."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Zarapatera.jpg"
+    },
+    {
+      "id": 2616,
+      "nombre": "Dulce de Castaña",
+      "tipo": "Postre",
+      "ingredientes": ["Castañas amazónicas", "Leche condensada", "Azúcar"],
+      "preparacion": [
+        "Cocer las castañas molidas o picadas con leche y azúcar.",
+        "Similar a una cocada o manjar, pero con el sabor aceitoso y rico de la castaña."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_DulceCastana.jpg"
+    },
+    {
+      "id": 2617,
+      "nombre": "Picadillo de Paiche",
+      "tipo": "Fondo",
+      "ingredientes": ["Paiche seco salado", "Cebolla", "Tomate", "Ají dulce"],
+      "preparacion": [
+        "Remojar el paiche para quitar la sal.",
+        "Deshilachar y sofreír con verduras.",
+        "Es un plato seco y sabroso, se acompaña con plátano."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PicadilloPaiche.jpg"
+    },
+    {
+      "id": 2618,
+      "nombre": "Salsa de Cocona",
+      "tipo": "Acompañamiento",
+      "ingredientes": ["Cocona", "Ají charapita", "Cebolla", "Sal", "Sacha culantro"],
+      "preparacion": [
+        "Picar la cocona en cubitos pequeños.",
+        "Mezclar con cebolla picada, ají charapita estrujado y hierbas.",
+        "Imprescindible para acompañar cualquier pescado o tacacho."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_SalsaCocona.jpg"
+    },
+    {
+      "id": 2619,
+      "nombre": "Bisteck de Venado",
+      "tipo": "Fondo",
+      "ingredientes": ["Carne de venado", "Vinagre", "Ajos", "Cebolla"],
+      "preparacion": [
+        "Carne de monte magra (roja).",
+        "Se macera para suavizar y se fríe a la plancha.",
+        "Se sirve encebollado con yucas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Venado.jpg"
+    },
+    {
+      "id": 2620,
+      "nombre": "Aguajina",
+      "tipo": "Bebida",
+      "ingredientes": ["Aguaje", "Agua", "Azúcar"],
+      "preparacion": [
+        "Refresco hecho de la pulpa del aguaje.",
+        "Color anaranjado intenso, rico en vitaminas y hormonas naturales.",
+        "Se sirve con mucho hielo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Aguajina.jpg"
+    }
+  ]
+}

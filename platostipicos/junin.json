@@ -1,0 +1,243 @@
+{
+  "id_region": "JUN",
+  "nombre_region": "Junín",
+  "dato_curioso": "Junín es la cuna de la 'Papa a la Huancaína', nacida según la tradición durante la construcción del Ferrocarril Central. Su Pachamanca es única por el uso del 'chincho' (hierba aromática) y porque se cocina con el calor de piedras de río precalentadas, enterrando los ingredientes como tributo a la Madre Tierra.",
+  "platos": [
+    {
+      "id": 601,
+      "nombre": "Papa a la Huancaína",
+      "tipo": "Entrada",
+      "ingredientes": ["Papa blanca", "Ají amarillo", "Queso fresco", "Leche", "Aceite", "Galletas de soda"],
+      "preparacion": [
+        "Sofreír ligeramente el ají amarillo sin venas.",
+        "Licuar con queso, leche, aceite y galletas hasta obtener una crema sedosa.",
+        "Servir sobre rodajas de papa sancochada, decorando con huevo duro y aceituna."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Papa_a_la_Huancaina.jpg/800px-Papa_a_la_Huancaina.jpg"
+    },
+    {
+      "id": 602,
+      "nombre": "Pachamanca a la Olla (Estilo Huanca)",
+      "tipo": "Festivo",
+      "ingredientes": ["Carne de cerdo", "Carnero", "Papas", "Habas", "Camote", "Chincho", "Huacatay"],
+      "preparacion": [
+        "Macerar las carnes con chincho molido (sabor clave) y ají panca.",
+        "Cocinar en olla con hierbas tapando todo herméticamente (versión casera) o bajo tierra con piedras calientes (versión campo).",
+        "Servir con humitas y japchi (salsa de ají con queso)."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pachamanca.jpg/800px-Pachamanca.jpg"
+    },
+    {
+      "id": 603,
+      "nombre": "Trucha Frita",
+      "tipo": "Fondo",
+      "ingredientes": ["Trucha asalmonada", "Harina", "Papas doradas", "Ensalada"],
+      "preparacion": [
+        "Limpiar la trucha fresca (criadero de Ingenio).",
+        "Pasar por harina sazonada y freír hasta que quede crocante.",
+        "Servir con papas y ensalada fresca."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Trucha_frita.jpg/800px-Trucha_frita.jpg"
+    },
+    {
+      "id": 604,
+      "nombre": "Patasca (Mondongo)",
+      "tipo": "Sopa",
+      "ingredientes": ["Mote pelado", "Mondongo (panza)", "Carne de res", "Hierbabuena", "Pecho de carnero"],
+      "preparacion": [
+        "Hervir el mote con las carnes y menudencias durante toda la noche hasta que el grano reviente (florezca).",
+        "Servir muy caliente con hierbabuena picada y ají rocoto."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Patasca.jpg/800px-Patasca.jpg"
+    },
+    {
+      "id": 605,
+      "nombre": "Picante de Cuy (Cuy Colorado)",
+      "tipo": "Fondo",
+      "ingredientes": ["Cuy", "Ají panca (colorado)", "Maní molido", "Ajos", "Papas"],
+      "preparacion": [
+        "Freír las presas de cuy.",
+        "Preparar una salsa roja espesa con ají panca y maní.",
+        "Bañar el cuy en la salsa y servir con papas amarillas sancochadas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CuyColoradoJunin.jpg"
+    },
+    {
+      "id": 606,
+      "nombre": "Chupe Verde (Yacu Chupe)",
+      "tipo": "Sopa",
+      "ingredientes": ["Papas", "Queso fresco", "Huevos", "Muña", "Paico", "Ruda"],
+      "preparacion": [
+        "Hacer un caldo de papa ligero.",
+        "Agregar una mezcla molida de hierbas andinas (muña, paico) que le da el color verde.",
+        "Añadir queso picado y huevo al final."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ChupeVerde.jpg"
+    },
+    {
+      "id": 607,
+      "nombre": "Lechón al Horno (Orcotuna)",
+      "tipo": "Fondo",
+      "ingredientes": ["Cerdo tierno", "Ají panca", "Ajos", "Comino", "Sal"],
+      "preparacion": [
+        "Macerar el lechón con ají panca y condimentos.",
+        "Hornear lentamente hasta que la piel esté galleta (crocante) y la carne jugosa.",
+        "Típico del pueblo de Orcotuna."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_LechonOrcotuna.jpg"
+    },
+    {
+      "id": 608,
+      "nombre": "Cordero al Palo",
+      "tipo": "Fondo",
+      "ingredientes": ["Cordero entero", "Sal", "Ajos", "Cerveza", "Limón"],
+      "preparacion": [
+        "Estirar el cordero en una estaca o reja metálica.",
+        "Cocinar a la brasa de leña por horas, hidratando con cerveza y salmuera.",
+        "Plato emblema de Tarma y Junín."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CorderoPalo.jpg"
+    },
+    {
+      "id": 609,
+      "nombre": "Chicharrón Colorado",
+      "tipo": "Fondo",
+      "ingredientes": ["Carne de cerdo", "Ají panca", "Achiote"],
+      "preparacion": [
+        "Freír trozos de cerdo.",
+        "Terminar la cocción en una salsa de ají panca y achiote que impregna la carne de color rojo intenso.",
+        "Servir con papas y mote."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ChicharronColorado.jpg"
+    },
+    {
+      "id": 610,
+      "nombre": "Human Caldo (Caldo de Cabeza)",
+      "tipo": "Sopa",
+      "ingredientes": ["Cabeza de carnero", "Papas", "Mote", "Paico"],
+      "preparacion": [
+        "Hervir la cabeza limpia y trozada.",
+        "Es un caldo blanco y lechoso, muy concentrado, servido comúnmente en las mañanas para reponer fuerzas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_HumanCaldo.jpg"
+    },
+    {
+      "id": 611,
+      "nombre": "Mazamorra de Calabaza",
+      "tipo": "Postre",
+      "ingredientes": ["Calabaza madura", "Chancaca", "Canela", "Leche", "Harina"],
+      "preparacion": [
+        "Cocinar la calabaza con cáscara, retirar la pulpa.",
+        "Mezclar con chancaca y especias, espesar con un poco de harina.",
+        "Servir caliente con un chorro de leche."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_MazamorraCalabaza.jpg"
+    },
+    {
+      "id": 612,
+      "nombre": "Gelatina de Patita",
+      "tipo": "Postre",
+      "ingredientes": ["Pata de res", "Azúcar", "Canela", "Clavo", "Limón"],
+      "preparacion": [
+        "Hervir la pata de res por muchas horas hasta extraer el colágeno.",
+        "Mezclar el caldo colado con azúcar, especias y limón.",
+        "Dejar cuajar naturalmente (no usa gelatina comercial)."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_GelatinaPatita.jpg"
+    },
+    {
+      "id": 613,
+      "nombre": "Habas Tostadas (Puspu)",
+      "tipo": "Snack",
+      "ingredientes": ["Habas secas", "Sal", "Grasa de cerdo (opcional)"],
+      "preparacion": [
+        "Tostar las habas en una olla de barro o sartén de hierro.",
+        "Añadir salmuera al final para que queden blancas y saladas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_HabasTostadas.jpg"
+    },
+    {
+      "id": 614,
+      "nombre": "Pan de Anís (Concepción)",
+      "tipo": "Panadería",
+      "ingredientes": ["Harina", "Anís en grano", "Manteca", "Agua"],
+      "preparacion": [
+        "Amasar y formar bollos redondos.",
+        "Hornear en horno de leña tradicional.",
+        "Típico acompañante del desayuno huancaíno."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PanAnis.jpg"
+    },
+    {
+      "id": 615,
+      "nombre": "Jugo de Maca",
+      "tipo": "Bebida",
+      "ingredientes": ["Raíz de maca fresca o seca", "Agua", "Azúcar", "Leche (opcional)"],
+      "preparacion": [
+        "Hervir la maca (tubérculo energizante) por largo tiempo.",
+        "Licuar con el agua de cocción y endulzar.",
+        "Se toma caliente en los desayunos callejeros."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Maca_roots.jpg/800px-Maca_roots.jpg"
+    },
+    {
+      "id": 616,
+      "nombre": "Trucha a la Parrilla",
+      "tipo": "Fondo",
+      "ingredientes": ["Trucha entera deshuesada", "Mantequilla", "Ajos", "Orégano"],
+      "preparacion": [
+        "Abrir la trucha tipo mariposa.",
+        "Untar con mantequilla de ajo y hierbas.",
+        "Cocinar a la parrilla hasta dorar."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_TruchaParrilla.jpg"
+    },
+    {
+      "id": 617,
+      "nombre": "Humitas",
+      "tipo": "Entrada",
+      "ingredientes": ["Choclo molido", "Manteca", "Queso", "Panca"],
+      "preparacion": [
+        "Mezcla de choclo con manteca.",
+        "Las saladas llevan queso y las dulces llevan pasas y canela.",
+        "Hervidas envueltas en su panca."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Humita.jpg/800px-Humita.jpg"
+    },
+    {
+      "id": 618,
+      "nombre": "Kamchi (Cancha)",
+      "tipo": "Guarnición",
+      "ingredientes": ["Maíz seco para tostar", "Aceite", "Sal"],
+      "preparacion": [
+        "Tostar el maíz en olla de barro removiendo constantemente.",
+        "Acompañante universal de la mesa andina."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Cancha.jpg"
+    },
+    {
+      "id": 619,
+      "nombre": "Dulce de Caya (Oca)",
+      "tipo": "Postre",
+      "ingredientes": ["Oca (tubérculo)", "Azúcar", "Canela"],
+      "preparacion": [
+        "Solear la oca por días para que concentre su dulzor.",
+        "Sancochar y servir con miel o azúcar.",
+        "Tiene textura arenosa y dulce."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_DulceOca.jpg"
+    },
+    {
+      "id": 620,
+      "nombre": "Alwish Luli (Guiso de Arvejas)",
+      "tipo": "Fondo",
+      "ingredientes": ["Arvejas secas", "Carne de cerdo", "Papas", "Hierbabuena"],
+      "preparacion": [
+        "Remojar y sancochar las arvejas.",
+        "Guisar con carne de cerdo y papas.",
+        "Plato muy tradicional y casero."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_AlwishLuli.jpg"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "id_region": "MOQ",
+  "nombre_region": "Moquegua",
+  "dato_curioso": "Moquegua es famosa por tener la 'Ruta del Pisco' y por su repostería de convento. Su plato más emblemático y curioso es la 'Cacharrada', que se prepara solo en fiestas y consta de 7 tipos de carnes y vísceras de res fritas, que deben comerse en un orden específico para demostrar resistencia.",
+  "platos": [
+    {
+      "id": 1801,
+      "nombre": "Cacharrada",
+      "tipo": "Festivo",
+      "ingredientes": ["7 carnes (anchura, chinchulines, criadilla, venas, molleja, hígado, corazón)", "Papas", "Ají panca"],
+      "preparacion": [
+        "Limpiar y trozar las 7 partes de la res.",
+        "Freír cada una por tiempos distintos y sazonar con ají panca y vinagre.",
+        "Servir todo junto con papas cocidas y ají molido."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Cacharrada.jpg"
+    },
+    {
+      "id": 1802,
+      "nombre": "Moqueguano de Camarones",
+      "tipo": "Fondo",
+      "ingredientes": ["Camarones de río", "Maíz molido", "Leche", "Rocoto", "Huacatay"],
+      "preparacion": [
+        "A diferencia del chupe, es un guiso espeso.",
+        "Se cocinan los camarones y se espesa el caldo con maíz molido.",
+        "Se sirve acompañado de arroz blanco."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_MoqueguanoCamaron.jpg"
+    },
+    {
+      "id": 1803,
+      "nombre": "Cuy Frito Moqueguano",
+      "tipo": "Fondo",
+      "ingredientes": ["Cuy entero", "Maíz molido (chuchoca)", "Papas", "Ensalada", "Aceite"],
+      "preparacion": [
+        "Pasar el cuy por maíz molido (chuchoca) antes de freír.",
+        "Lograr un apanado crocante y dorado.",
+        "Servir con papas sancochadas, choclo y ensalada fresca."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cuy_chactado.jpg/800px-Cuy_chactado.jpg"
+    },
+    {
+      "id": 1804,
+      "nombre": "Patasca Moqueguana",
+      "tipo": "Sopa",
+      "ingredientes": ["Mote", "Mondongo", "Carne de cerdo", "Carne de res", "Hierbabuena", "Ají"],
+      "preparacion": [
+        "Cocción larga del mote con las carnes y menudencias.",
+        "Se sirve con un aderezo picante de ají colorado encima.",
+        "Ideal para desayunos o recuperar energías."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Patasca.jpg/800px-Patasca.jpg"
+    },
+    {
+      "id": 1805,
+      "nombre": "Alfajor de Penco",
+      "tipo": "Postre",
+      "ingredientes": ["Harina", "Yemas", "Anís", "Manjar blanco", "Coco rallado"],
+      "preparacion": [
+        "Alfajor de tres capas (tres discos de masa fina).",
+        "La masa lleva anís y pisco.",
+        "Relleno generoso de manjar blanco casero."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_AlfajorPenco.jpg"
+    },
+    {
+      "id": 1806,
+      "nombre": "Chicharrón de Cerdo",
+      "tipo": "Fondo",
+      "ingredientes": ["Cerdo", "Sal", "Maíz tostado", "Papas"],
+      "preparacion": [
+        "Moquegua tiene gran tradición de crianza de cerdos.",
+        "Se fríe en perol de cobre con su propia manteca.",
+        "Acompañado de mote y papas doradas."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chicharr%C3%B3n_peruano.jpg/800px-Chicharr%C3%B3n_peruano.jpg"
+    },
+    {
+      "id": 1807,
+      "nombre": "Picante de Cuy",
+      "tipo": "Fondo",
+      "ingredientes": ["Cuy", "Ají panca", "Maní", "Papas", "Cochayuyo"],
+      "preparacion": [
+        "Guiso de cuy en salsa roja con maní.",
+        "A menudo se agrega cochayuyo (algas) para dar textura y sabor marino-andino.",
+        "Se sirve con arroz."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Picante_de_cuy.jpg/800px-Picante_de_cuy.jpg"
+    },
+    {
+      "id": 1808,
+      "nombre": "Sudado de Machas",
+      "tipo": "Fondo (Ilo)",
+      "ingredientes": ["Machas (marisco)", "Cebolla", "Tomate", "Vino blanco", "Vinagre"],
+      "preparacion": [
+        "Hacer un sofrito de cebolla y tomate.",
+        "Cocinar las machas brevemente (para no endurecerlas) con vino y vinagre.",
+        "Clásico del puerto de Ilo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_SudadoMachas.jpg"
+    },
+    {
+      "id": 1809,
+      "nombre": "Guargüeros",
+      "tipo": "Postre",
+      "ingredientes": ["Harina", "Yemas", "Pisco", "Manjar blanco"],
+      "preparacion": [
+        "Masa frita en forma de cartucho.",
+        "Relleno de manjar blanco.",
+        "Dulce de convento tradicional."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Guargueros.jpg"
+    },
+    {
+      "id": 1810,
+      "nombre": "Parrillada de Pancita",
+      "tipo": "Street Food",
+      "ingredientes": ["Panza de res (librillo)", "Ají panca", "Vinagre", "Ajos", "Papas"],
+      "preparacion": [
+        "Macerar la panza limpia con ají panca.",
+        "Asar a la parrilla hasta que esté crocante.",
+        "Se sirve con papa cocida y ají."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Pancita.jpg"
+    },
+    {
+      "id": 1811,
+      "nombre": "Nogada de Camarones",
+      "tipo": "Fondo",
+      "ingredientes": ["Camarones", "Nueces (nogal)", "Leche", "Pan", "Cebolla"],
+      "preparacion": [
+        "Guiso de camarones con una salsa hecha de nueces molidas, pan y leche.",
+        "Sabor suave y textura cremosa.",
+        "Herencia de la cocina virreinal."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Nogada.jpg"
+    },
+    {
+      "id": 1812,
+      "nombre": "Pan de Torata",
+      "tipo": "Panadería",
+      "ingredientes": ["Trigo", "Manteca", "Levadura", "Agua"],
+      "preparacion": [
+        "Pan artesanal del distrito de Torata.",
+        "Hecho en horno de leña, famoso por su textura y sabor a trigo natural."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PanTorata.jpg"
+    },
+    {
+      "id": 1813,
+      "nombre": "Macerado de Damasco",
+      "tipo": "Bebida",
+      "ingredientes": ["Damascos", "Pisco", "Azúcar"],
+      "preparacion": [
+        "Moquegua es productor de damascos y pisco.",
+        "Se maceran la fruta entera en pisco puro por tiempo prolongado.",
+        "Bebida dulce y aromática."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_MaceradoDamasco.jpg"
+    },
+    {
+      "id": 1814,
+      "nombre": "Palta Rellena",
+      "tipo": "Entrada",
+      "ingredientes": ["Palta fuerte de Moquegua", "Pollo deshilachado", "Mayonesa", "Verduras"],
+      "preparacion": [
+        "La palta de Moquegua es cremosa y de excelente calidad.",
+        "Se rellena con ensalada de pollo, verduras y mayonesa casera."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Palta_rellena.jpg/800px-Palta_rellena.jpg"
+    },
+    {
+      "id": 1815,
+      "nombre": "Voladores",
+      "tipo": "Postre",
+      "ingredientes": ["Harina", "Yemas", "Pisco", "Manjar", "Mermelada de piña"],
+      "preparacion": [
+        "Torre de capas de masa crocante delgada.",
+        "Intercalado con manjar blanco y dulce de piña.",
+        "Cubierto con azúcar impalpable."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Voladores.jpg"
+    },
+    {
+      "id": 1816,
+      "nombre": "Chimbango de Tres Higos",
+      "tipo": "Bebida",
+      "ingredientes": ["Higos negros, blancos y rojos", "Agua", "Pisco"],
+      "preparacion": [
+        "Licor artesanal hecho de la fermentación o maceración de tres variedades de higos locales."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Chimbango.jpg"
+    },
+    {
+      "id": 1817,
+      "nombre": "Ceviche de Jurel",
+      "tipo": "Entrada",
+      "ingredientes": ["Jurel", "Limón", "Cebolla", "Ají", "Cochayuyo"],
+      "preparacion": [
+        "Ceviche clásico del puerto de Ilo.",
+        "El jurel es un pescado azul muy consumido en la zona.",
+        "Se acompaña con cochayuyo fresco."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CevicheJurel.jpg"
+    },
+    {
+      "id": 1818,
+      "nombre": "Aguadito de Mariscos",
+      "tipo": "Sopa",
+      "ingredientes": ["Arroz", "Culantro", "Mix de mariscos", "Chicha de jora"],
+      "preparacion": [
+        "Sopa verde y espesa (por el arroz) llena de mariscos.",
+        "Muy popular en la costa (Ilo) para reponerse tras una fiesta."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Aguadito.jpg"
+    },
+    {
+      "id": 1819,
+      "nombre": "Leche de Monja",
+      "tipo": "Bebida / Licor",
+      "ingredientes": ["Huevos", "Pisco", "Limón", "Azúcar"],
+      "preparacion": [
+        "Licor cremoso tradicional parecido al ponche.",
+        "Preparado antiguamente en los conventos de la región."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_LecheMonja.jpg"
+    },
+    {
+      "id": 1820,
+      "nombre": "Hojaldrilla",
+      "tipo": "Postre",
+      "ingredientes": ["Harina", "Manteca", "Miel"],
+      "preparacion": [
+        "Masa hojaldrada frita.",
+        "Se sirve bañada en miel o almíbar.",
+        "Textura muy crujiente."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Hojaldrilla.jpg"
+    }
+  ]
+}

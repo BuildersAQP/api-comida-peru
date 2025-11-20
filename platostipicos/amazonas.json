@@ -1,0 +1,241 @@
+{
+  "id_region": "AMA",
+  "nombre_region": "Amazonas",
+  "dato_curioso": "La gastronomía de Amazonas es una fusión única entre los Andes y la Selva. Su capital, Chachapoyas, es famosa por su panadería tradicional y por el 'Purtumute', un plato que mezcla frijoles y maíz.",
+  "platos": [
+    {
+      "id": 701,
+      "nombre": "Purtumute",
+      "tipo": "Guarnición / Fondo",
+      "ingredientes": ["Frijoles", "Mote (maíz)", "Culantro", "Ajos"],
+      "preparacion": [
+        "Sancochar los frijoles y el mote por separado.",
+        "Hacer un aderezo con ajos, cebolla y culantro.",
+        "Mezclar los granos con el aderezo y cocinar unos minutos para integrar sabores."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Purtumute.jpg/800px-Purtumute.jpg"
+    },
+    {
+      "id": 702,
+      "nombre": "Cuy Frito con Papas",
+      "tipo": "Fondo",
+      "ingredientes": ["Cuy entero", "Papas", "Ají panca", "Ajos"],
+      "preparacion": [
+        "Sazonar el cuy con sal, ajo y ají.",
+        "Freír en abundante aceite hasta que esté crocante.",
+        "Servir acompañado de papas guisadas o fritas y sarza."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Cuy_chactado.jpg"
+    },
+    {
+      "id": 703,
+      "nombre": "Juane de Yuca",
+      "tipo": "Fondo",
+      "ingredientes": ["Yuca rallada", "Gallina", "Huevo", "Hojas de bijao", "Manteca"],
+      "preparacion": [
+        "Rallar la yuca cruda y exprimir el líquido.",
+        "Mezclar la masa de yuca con manteca y huevos.",
+        "Rellenar con presas de gallina guisada, envolver en bijao y hervir."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_JuaneYuca.jpg"
+    },
+    {
+      "id": 704,
+      "nombre": "Carne Arrollada",
+      "tipo": "Fondo / Entrada",
+      "ingredientes": ["Carne de res (sábana)", "Carne molida", "Huevo duro", "Pasas", "Aceitunas"],
+      "preparacion": [
+        "Extender la carne de res y rellenar con la carne molida, huevos y pasas.",
+        "Enrollar y amarrar con pabilo.",
+        "Dorar y luego estofar con salsa de tomate y vino."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CarneArrollada.jpg"
+    },
+    {
+      "id": 705,
+      "nombre": "Cazuela de Gallina",
+      "tipo": "Sopa",
+      "ingredientes": ["Gallina", "Fideos cabello de ángel", "Leche", "Papas", "Zapallo"],
+      "preparacion": [
+        "Hervir la gallina para hacer un caldo concentrado.",
+        "Agregar las verduras y al final los fideos.",
+        "Añadir un chorro de leche antes de servir."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Cazuela.jpg"
+    },
+    {
+      "id": 706,
+      "nombre": "Shipasmute",
+      "tipo": "Sopa / Guarnición",
+      "ingredientes": ["Choclo tierno", "Frijol verde", "Culantro", "Maní"],
+      "preparacion": [
+        "Cocer el choclo y frijoles verdes.",
+        "Preparar un aderezo con culantro y maní molido.",
+        "Mezclar todo hasta obtener una consistencia espesa."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Shipasmute.jpg"
+    },
+    {
+      "id": 707,
+      "nombre": "Tacacho con Cecina",
+      "tipo": "Fondo",
+      "ingredientes": ["Plátano bellaco", "Manteca de cerdo", "Cecina (cerdo ahumado)"],
+      "preparacion": [
+        "Asar o freír los plátanos verdes.",
+        "Machacarlos calientes con manteca y chicharrón.",
+        "Servir las bolas de tacacho con la cecina frita."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Tacacho_con_Cecina.jpg"
+    },
+    {
+      "id": 708,
+      "nombre": "Tamales a la Amazonense",
+      "tipo": "Entrada",
+      "ingredientes": ["Maíz", "Carne de cerdo o pollo", "Ají panca", "Hojas de achira"],
+      "preparacion": [
+        "Moler el maíz y hacer una masa sazonada.",
+        "Rellenar con el guiso de carne.",
+        "Envolver en hojas de achira (diferente al plátano) y cocinar al vapor."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Tamal.jpg"
+    },
+    {
+      "id": 709,
+      "nombre": "Humitas Dulces",
+      "tipo": "Entrada / Postre",
+      "ingredientes": ["Choclo tierno", "Azúcar", "Pasas", "Canela"],
+      "preparacion": [
+        "Moler el choclo tierno.",
+        "Mezclar con azúcar y pasas.",
+        "Envolver en la propia panca del choclo y hervir."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Humita.jpg/800px-Humita.jpg"
+    },
+    {
+      "id": 710,
+      "nombre": "Pan de Yema (Chachapoyas)",
+      "tipo": "Panadería",
+      "ingredientes": ["Harina de trigo", "Yemas de huevo", "Manteca", "Azúcar"],
+      "preparacion": [
+        "Amasar los ingredientes logrando una masa fina.",
+        "Dar forma de bollos brillantes.",
+        "Hornear en horno de leña tradicional."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PanYema.jpg"
+    },
+    {
+      "id": 711,
+      "nombre": "Miel con Quesillo",
+      "tipo": "Postre",
+      "ingredientes": ["Quesillo (queso fresco sin sal)", "Chancaca (miel de caña)"],
+      "preparacion": [
+        "Cortar tajadas de quesillo fresco.",
+        "Bañar abundantemente con miel de chancaca caliente o fría."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_MielQuesillo.jpg"
+    },
+    {
+      "id": 712,
+      "nombre": "Rosquitas de Almidón",
+      "tipo": "Snack / Panadería",
+      "ingredientes": ["Almidón de yuca", "Huevo", "Manteca"],
+      "preparacion": [
+        "Hacer una masa con el almidón y huevos.",
+        "Formar rosquitas pequeñas.",
+        "Hornear hasta que estén secas y crujientes."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Rosquitas.jpg"
+    },
+    {
+      "id": 713,
+      "nombre": "Inchicapi",
+      "tipo": "Sopa",
+      "ingredientes": ["Gallina", "Maní tostado", "Maíz", "Sacha culantro", "Yuca"],
+      "preparacion": [
+        "Licuar el maní y el maíz con el sacha culantro.",
+        "Agregar al caldo de gallina hirviendo.",
+        "Cocinar hasta que espese y la yuca esté suave."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Inchicapi.jpg"
+    },
+    {
+      "id": 714,
+      "nombre": "Guarapo",
+      "tipo": "Bebida",
+      "ingredientes": ["Caña de azúcar"],
+      "preparacion": [
+        "Extraer el jugo de la caña de azúcar en trapiche.",
+        "Fermentar ligeramente para obtener la bebida tradicional."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Guarapo.jpg"
+    },
+    {
+      "id": 715,
+      "nombre": "Licor de Mora",
+      "tipo": "Bebida / Licor",
+      "ingredientes": ["Moras silvestres", "Aguardiente", "Azúcar"],
+      "preparacion": [
+        "Macerar las moras en aguardiente.",
+        "Añadir jarabe de azúcar y dejar reposar por semanas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_LicorMora.jpg"
+    },
+    {
+      "id": 716,
+      "nombre": "Trucha Frita",
+      "tipo": "Fondo",
+      "ingredientes": ["Trucha de río", "Harina", "Papas", "Ensalada"],
+      "preparacion": [
+        "Limpiar y sazonar la trucha.",
+        "Pasar por harina y freír.",
+        "Servir con papas doradas y ensalada fresca."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Trucha_frita.jpg/800px-Trucha_frita.jpg"
+    },
+    {
+      "id": 717,
+      "nombre": "Plátano Relleno",
+      "tipo": "Entrada",
+      "ingredientes": ["Plátano palillo (maduro)", "Carne molida", "Cebolla", "Huevo"],
+      "preparacion": [
+        "Abrir el plátano y rellenar con sofrito de carne.",
+        "Pasar por huevo batido y freír u hornear."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PlatanoRelleno.jpg"
+    },
+    {
+      "id": 718,
+      "nombre": "Dulce de Grosella",
+      "tipo": "Postre",
+      "ingredientes": ["Grosellas", "Azúcar", "Canela"],
+      "preparacion": [
+        "Hervir las grosellas con azúcar y canela.",
+        "Cocinar hasta obtener consistencia de almíbar o mermelada."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_DulceGrosella.jpg"
+    },
+    {
+      "id": 719,
+      "nombre": "Bisteck de Hígado",
+      "tipo": "Desayuno / Fondo",
+      "ingredientes": ["Hígado de res", "Vinagre", "Cebolla", "Yuca"],
+      "preparacion": [
+        "Macerar el hígado en vinagre y ajos.",
+        "Freír rápidamente para que no se endurezca.",
+        "Servir con yucas sancochadas y cebolla."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Higado.jpg"
+    },
+    {
+      "id": 720,
+      "nombre": "Caldo de Carachama",
+      "tipo": "Sopa",
+      "ingredientes": ["Pescado carachama", "Sacha culantro", "Yuca"],
+      "preparacion": [
+        "Hervir el pescado carachama (de piel dura) por tiempo prolongado.",
+        "Añadir yuca y sacha culantro al final."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Carachama.jpg"
+    }
+  ]
+}

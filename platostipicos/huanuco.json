@@ -1,0 +1,240 @@
+{
+  "id_region": "HUC",
+  "nombre_region": "Huánuco",
+  "dato_curioso": "La 'Pachamanca Huanuqueña' es considerada por muchos como la más auténtica del Perú debido al uso intensivo del 'Chincho', una hierba aromática local que le da un sabor inconfundible. Además, Huánuco es la cuna del 'Tocosh' (penicilina natural de los Andes), una papa fermentada con propiedades medicinales.",
+  "platos": [
+    {
+      "id": 1401,
+      "nombre": "Pachamanca Huanuqueña",
+      "tipo": "Festivo",
+      "ingredientes": ["Carne de cerdo (preferida)", "Chincho (hierba)", "Papas", "Camotes", "Humitas"],
+      "preparacion": [
+        "Macerar el cerdo exclusivamente con chincho molido, sal y ají.",
+        "Calentar piedras de río y enterrar los ingredientes.",
+        "Se diferencia de otras por usar más cerdo y el sabor predominante del chincho."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pachamanca.jpg/800px-Pachamanca.jpg"
+    },
+    {
+      "id": 1402,
+      "nombre": "Locro de Gallina",
+      "tipo": "Fondo",
+      "ingredientes": ["Gallina de chacra", "Papas amarillas", "Ají mirasol", "Cebolla"],
+      "preparacion": [
+        "A diferencia del locro limeño (zapallo), este es un guiso de papas.",
+        "Hervir la gallina y hacer un aderezo de ají amarillo.",
+        "Cocinar las papas hasta que algunas se deshagan y espesen el caldo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_LocroGallina.jpg"
+    },
+    {
+      "id": 1403,
+      "nombre": "Picante de Cuy",
+      "tipo": "Fondo",
+      "ingredientes": ["Cuy frito", "Ají panca", "Maní", "Cebolla", "Ajos"],
+      "preparacion": [
+        "Freír el cuy entero o trozado.",
+        "Hacer una salsa roja espesa con ají panca y maní tostado.",
+        "Servir el cuy bañado en la salsa acompañado de arroz y papas."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Picante_de_cuy.jpg/800px-Picante_de_cuy.jpg"
+    },
+    {
+      "id": 1404,
+      "nombre": "Mazamorra de Tocosh",
+      "tipo": "Postre / Medicinal",
+      "ingredientes": ["Tocosh (papa fermentada)", "Azúcar", "Canela", "Clavo de olor", "Cáscara de naranja"],
+      "preparacion": [
+        "Hervir el tocosh (que tiene un olor fuerte) con canela y cáscaras de cítricos para aromatizar.",
+        "Endulzar y servir caliente. Es un poderoso probiótico natural."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Tocosh.jpg"
+    },
+    {
+      "id": 1405,
+      "nombre": "Prestiños",
+      "tipo": "Postre",
+      "ingredientes": ["Harina de trigo", "Yemas de huevo", "Manteca", "Chancaca"],
+      "preparacion": [
+        "Hacer una masa con harina y yemas.",
+        "Formar figuras (roscas o lazos) y freír.",
+        "Bañar en miel de chancaca caliente."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Prestinos.jpg"
+    },
+    {
+      "id": 1406,
+      "nombre": "Picante de Queso (Mishkina)",
+      "tipo": "Fondo",
+      "ingredientes": ["Queso mantecoso", "Ají mirasol", "Papas", "Leche", "Huevo"],
+      "preparacion": [
+        "Hacer un aderezo de ají mirasol.",
+        "Agregar papas sancochadas y queso en cubos.",
+        "Añadir leche y huevo batido para espesar la salsa."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PicanteQueso.jpg"
+    },
+    {
+      "id": 1407,
+      "nombre": "Tacacho con Cecina",
+      "tipo": "Fondo (Tingo María)",
+      "ingredientes": ["Plátano bellaco", "Manteca de cerdo", "Cecina (cerdo ahumado)"],
+      "preparacion": [
+        "Freír los plátanos verdes y machacarlos con manteca y trozos de chicharrón.",
+        "Formar bolas y servir con el filete de cecina frita."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Tacacho_con_Cecina.jpg"
+    },
+    {
+      "id": 1408,
+      "nombre": "Juane de Gallina",
+      "tipo": "Fondo (Selva Alta)",
+      "ingredientes": ["Arroz", "Gallina", "Huevo", "Aceitunas", "Hojas de bijao"],
+      "preparacion": [
+        "Cocinar arroz condimentado con palillo (cúrcuma).",
+        "Mezclar con huevo crudo, colocar la presa de gallina en el centro.",
+        "Envolver en hojas de bijao y hervir."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Juane_peruano.jpg/800px-Juane_peruano.jpg"
+    },
+    {
+      "id": 1409,
+      "nombre": "Chicharrón con Mote",
+      "tipo": "Desayuno",
+      "ingredientes": ["Cerdo", "Mote pelado", "Salsa criolla"],
+      "preparacion": [
+        "Cocinar el cerdo en agua hasta que evapore y freír en su grasa.",
+        "Servir simplemente con mote caliente y cebolla."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chicharr%C3%B3n_peruano.jpg/800px-Chicharr%C3%B3n_peruano.jpg"
+    },
+    {
+      "id": 1410,
+      "nombre": "Humitas de Maíz",
+      "tipo": "Entrada / Postre",
+      "ingredientes": ["Choclo tierno", "Manteca", "Sal (o azúcar)", "Queso"],
+      "preparacion": [
+        "Moler el choclo y mezclar con manteca.",
+        "Rellenar con queso (saladas) o pasas (dulces).",
+        "Cocinar al vapor envueltas en panca."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Humita.jpg/800px-Humita.jpg"
+    },
+    {
+      "id": 1411,
+      "nombre": "Inchicapi de Gallina",
+      "tipo": "Sopa (Selva Alta)",
+      "ingredientes": ["Gallina", "Maní molido", "Maíz", "Sacha culantro", "Yuca"],
+      "preparacion": [
+        "Hervir caldo de gallina.",
+        "Licuar maní y maíz con sacha culantro y agregar a la sopa para espesar.",
+        "Servir con yuca sancochada."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Inchicapi.jpg"
+    },
+    {
+      "id": 1412,
+      "nombre": "Caldo de Gallina de Chacra",
+      "tipo": "Sopa",
+      "ingredientes": ["Gallina negra", "Kion", "Papas amarillas", "Huevos", "Fideos"],
+      "preparacion": [
+        "Hervir la gallina por horas para obtener un caldo dorado.",
+        "Agregar fideos tallarín y papa amarilla entera.",
+        "Servir con huevo duro y cebolla china."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Caldo_de_gallina_peruano.jpg/800px-Caldo_de_gallina_peruano.jpg"
+    },
+    {
+      "id": 1413,
+      "nombre": "Asado de Picuro",
+      "tipo": "Fondo (Selva)",
+      "ingredientes": ["Picuro (roedor de monte)", "Sacha culantro", "Ajos", "Yuca"],
+      "preparacion": [
+        "Sazonar la carne de picuro (muy apreciada en la selva).",
+        "Asar al horno o a la parrilla.",
+        "Servir con yucas y plátano."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Picuro.jpg"
+    },
+    {
+      "id": 1414,
+      "nombre": "Patachi",
+      "tipo": "Sopa",
+      "ingredientes": ["Trigo pelado", "Carne de cerdo", "Tocino", "Habas", "Arvejas"],
+      "preparacion": [
+        "Cocinar el trigo y las carnes en olla de barro durante horas.",
+        "Es una sopa espesa típica de la zona andina de Huánuco."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PatachiHuanuco.jpg"
+    },
+    {
+      "id": 1415,
+      "nombre": "Dulce de Papaya",
+      "tipo": "Postre",
+      "ingredientes": ["Papaya verde", "Azúcar", "Clavo de olor", "Canela"],
+      "preparacion": [
+        "Cortar la papaya verde en láminas o figuras.",
+        "Cocinar en almíbar especiado hasta que estén traslúcidas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_DulcePapaya.jpg"
+    },
+    {
+      "id": 1416,
+      "nombre": "Guarapo",
+      "tipo": "Bebida",
+      "ingredientes": ["Caña de azúcar"],
+      "preparacion": [
+        "Extraer el jugo de la caña fresca (trapiche).",
+        "Servir fresco con hielo y limón, o fermentado."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Guarapo.jpg"
+    },
+    {
+      "id": 1417,
+      "nombre": "Masato",
+      "tipo": "Bebida",
+      "ingredientes": ["Yuca", "Agua", "Azúcar"],
+      "preparacion": [
+        "Hervir y machacar la yuca.",
+        "Dejar fermentar (tradicionalmente se masticaba, ahora se usa levadura o camote).",
+        "Bebida ceremonial de la selva."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Masato.jpg"
+    },
+    {
+      "id": 1418,
+      "nombre": "Chifles",
+      "tipo": "Snack",
+      "ingredientes": ["Plátano verde", "Aceite", "Sal"],
+      "preparacion": [
+        "Cortar el plátano en láminas muy finas.",
+        "Freír en abundante aceite hasta que estén crocantes.",
+        "Acompañamiento de muchos platos selváticos."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Chifles.jpg/800px-Chifles.jpg"
+    },
+    {
+      "id": 1419,
+      "nombre": "Mazamorra de Calabaza",
+      "tipo": "Postre",
+      "ingredientes": ["Calabaza", "Chancaca", "Harina", "Leche"],
+      "preparacion": [
+        "Cocinar la calabaza con dulce.",
+        "Mezclar con un poco de harina y leche al final."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CalabazaHuanuco.jpg"
+    },
+    {
+      "id": 1420,
+      "nombre": "Empanadas de Queso",
+      "tipo": "Panadería",
+      "ingredientes": ["Harina", "Manteca", "Queso", "Azúcar impalpable"],
+      "preparacion": [
+        "Rellenar masa de harina con queso local.",
+        "Freír u hornear.",
+        "Espolvorear con azúcar impalpable al servir."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_EmpanadaQueso.jpg"
+    }
+  ]
+}

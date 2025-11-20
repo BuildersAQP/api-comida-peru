@@ -1,0 +1,240 @@
+{
+  "id_region": "LAM",
+  "nombre_region": "Lambayeque",
+  "dato_curioso": "El ingrediente secreto de la cocina lambayecana es el 'Zapallo Loche', un tipo de calabaza verrugosa precolombina que solo crece en esta zona. Es tan importante que se dice que sin loche no hay 'Arroz con Pato' ni 'Seco de Cabrito'. Además, Lambayeque es el hogar del famoso dulce gigante 'King Kong'.",
+  "platos": [
+    {
+      "id": 1601,
+      "nombre": "Arroz con Pato a la Chiclayana",
+      "tipo": "Fondo",
+      "ingredientes": ["Pato tierno", "Arroz", "Zapallo loche", "Culantro", "Cerveza negra", "Chicha de jora"],
+      "preparacion": [
+        "Dorar las presas de pato.",
+        "Hacer un aderezo oscuro con zapallo loche rallado y culantro.",
+        "Cocinar el arroz en el caldo del pato con cerveza negra para que quede graneado y verde."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Arroz_con_pato_peruano.jpg/800px-Arroz_con_pato_peruano.jpg"
+    },
+    {
+      "id": 1602,
+      "nombre": "Seco de Cabrito con Frijoles",
+      "tipo": "Fondo",
+      "ingredientes": ["Cabrito de leche", "Zapallo loche", "Chicha de jora", "Culantro", "Frijol canario"],
+      "preparacion": [
+        "Macerar el cabrito con chicha de jora.",
+        "Guisar con abundante culantro y loche.",
+        "Servir acompañado de frijoles batidos y arroz."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Seco_de_cabrito.jpg/800px-Seco_de_cabrito.jpg"
+    },
+    {
+      "id": 1603,
+      "nombre": "Chinguirito",
+      "tipo": "Entrada",
+      "ingredientes": ["Pez guitarra seco (deshilachado)", "Limón", "Ají limo", "Cebolla roja", "Zarandaja"],
+      "preparacion": [
+        "Lavar el pescado seco para suavizarlo.",
+        "Sazonar con limón y ají como un ceviche.",
+        "Servir con yuca y zarandaja (frijol local)."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Chinguirito.jpg/800px-Chinguirito.jpg"
+    },
+    {
+      "id": 1604,
+      "nombre": "Espesado",
+      "tipo": "Sopa / Fondo (Lunes)",
+      "ingredientes": ["Choclo molido", "Carne de pecho de res", "Zapallo loche", "Culantro", "Caigua"],
+      "preparacion": [
+        "Hervir la carne con verduras.",
+        "Agregar el choclo molido con culantro (dando color verde y espesor).",
+        "Servir con arroz colorado (teñido con achiote) y pescado frito."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Espesado.jpg"
+    },
+    {
+      "id": 1605,
+      "nombre": "Tortilla de Raya",
+      "tipo": "Fondo",
+      "ingredientes": ["Raya seca salada", "Huevos", "Cebolla china", "Ají panca", "Ajos"],
+      "preparacion": [
+        "Remojar y deshilachar la raya seca.",
+        "Mezclar con huevos batidos, cebolla china y ají.",
+        "Freír en sartén formando una tortilla gruesa y dorada."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_TortillaRaya.jpg"
+    },
+    {
+      "id": 1606,
+      "nombre": "Causa Ferreñafana",
+      "tipo": "Entrada / Fondo",
+      "ingredientes": ["Papa batida", "Pescado salado (frito o sancochado)", "Cebolla", "Ají amarillo", "Camote", "Plátano sancochado"],
+      "preparacion": [
+        "Masa de papa sazonada con ají y limón.",
+        "Se sirve acompañada de pescado salado encebollado (escabeche), camote, choclo, yuca y plátano.",
+        "Es un plato contundente, no un pastelito."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CausaFerrenafe.jpg"
+    },
+    {
+      "id": 1607,
+      "nombre": "Chirimpico",
+      "tipo": "Fondo",
+      "ingredientes": ["Menudencia de cabrito (hígado, sangre, tripas)", "Zapallo loche", "Culantro", "Ají verde"],
+      "preparacion": [
+        "Picar las menudencias en cubitos pequeños.",
+        "Guisar con loche y culantro.",
+        "Servir jugoso con yuca y limón."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Chirimpico.jpg"
+    },
+    {
+      "id": 1608,
+      "nombre": "King Kong",
+      "tipo": "Postre",
+      "ingredientes": ["Harina", "Yemas", "Manjar blanco", "Dulce de piña", "Dulce de maní"],
+      "preparacion": [
+        "Alfajor gigante rectangular de varias capas.",
+        "Intercala rellenos de manjar, dulce de piña y maní.",
+        "Dulce icónico de la ciudad de Lambayeque."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/King_Kong_San_Roque.jpg/800px-King_Kong_San_Roque.jpg"
+    },
+    {
+      "id": 1609,
+      "nombre": "Panquitas de Life",
+      "tipo": "Fondo / Entrada",
+      "ingredientes": ["Life (pez de río)", "Saronja", "Ají", "Panca de maíz"],
+      "preparacion": [
+        "El Life es un pez pequeño de acequias.",
+        "Se sazona y envuelve en panca de maíz.",
+        "Se asa a las brasas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Panquitas.jpg"
+    },
+    {
+      "id": 1610,
+      "nombre": "Pepián de Pava",
+      "tipo": "Fondo",
+      "ingredientes": ["Pava", "Arroz molido (o maíz)", "Culantro", "Ají amarillo"],
+      "preparacion": [
+        "Guiso espeso hecho con pava.",
+        "La salsa se espesa con arroz molido y culantro.",
+        "Se acompaña con garbanzos."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PepianPava.jpg"
+    },
+    {
+      "id": 1611,
+      "nombre": "Ceviche de Pato",
+      "tipo": "Fondo",
+      "ingredientes": ["Pato", "Limón", "Ají mirasol", "Cebolla", "Ajos"],
+      "preparacion": [
+        "No es un ceviche crudo. El pato se macera en limón y ají.",
+        "Luego se suda (cocina) en olla hasta que esté tierno.",
+        "Se sirve caliente y jugoso."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ceviche_de_pato.jpg/800px-Ceviche_de_pato.jpg"
+    },
+    {
+      "id": 1612,
+      "nombre": "Frito Chiclayano",
+      "tipo": "Desayuno",
+      "ingredientes": ["Costillas de cerdo", "Vinagre", "Ají panca", "Yuca"],
+      "preparacion": [
+        "Cerdo macerado y frito.",
+        "Se sirve solo los domingos en el desayuno con yuca, camote y salsa criolla."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_FritoChiclayano.jpg"
+    },
+    {
+      "id": 1613,
+      "nombre": "Migadito",
+      "tipo": "Sopa / Guiso",
+      "ingredientes": ["Pan remojado", "Menudencia de cerdo o ave", "Papas", "Achiote"],
+      "preparacion": [
+        "Guiso hecho a base de pan desmenuzado.",
+        "Se cocina con papas y menudencias condimentadas con achiote."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Migadito.jpg"
+    },
+    {
+      "id": 1614,
+      "nombre": "Manías",
+      "tipo": "Guarnición / Entrada",
+      "ingredientes": ["Arroz", "Pata de cerdo", "Pimentón", "Cebolla"],
+      "preparacion": [
+        "Guiso de arroz cocido con trozos de pata de cerdo y aderezo.",
+        "Plato antiguo y tradicional."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Manias.jpg"
+    },
+    {
+      "id": 1615,
+      "nombre": "Sudado de Pescado a la Norteña",
+      "tipo": "Fondo",
+      "ingredientes": ["Pescado (Mero/Ojo de Uva)", "Chicha de jora", "Tomate", "Ají amarillo"],
+      "preparacion": [
+        "Cocción rápida del pescado al vapor de la chicha y verduras.",
+        "Se sirve con yuca y arroz."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sudado_de_pescado.jpg/800px-Sudado_de_pescado.jpg"
+    },
+    {
+      "id": 1616,
+      "nombre": "Champús",
+      "tipo": "Postre / Bebida",
+      "ingredientes": ["Mote pelado", "Piña", "Naranja", "Chancaca", "Hojas de guanábana"],
+      "preparacion": [
+        "Bebida caliente y espesa, dulce y frutal.",
+        "Se consume típicamente en las noches o desayunos."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Champus.jpg"
+    },
+    {
+      "id": 1617,
+      "nombre": "Dátiles Rellenos",
+      "tipo": "Postre",
+      "ingredientes": ["Dátiles", "Nueces", "Manjar blanco", "Azúcar"],
+      "preparacion": [
+        "Dátiles secos deshuesados.",
+        "Rellenos de nuez y manjar.",
+        "Típicos de las dulcerías de Lambayeque."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Datiles.jpg"
+    },
+    {
+      "id": 1618,
+      "nombre": "Arroz a la Chiclayana",
+      "tipo": "Fondo",
+      "ingredientes": ["Arroz", "Pollo", "Arvejas", "Pimiento", "Zapallo loche"],
+      "preparacion": [
+        "Similar al arroz con pollo pero con el toque distintivo del loche rallado en el aderezo.",
+        "Muy jugoso y verde."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ArrozChiclayana.jpg"
+    },
+    {
+      "id": 1619,
+      "nombre": "Conejo al Horno",
+      "tipo": "Fondo",
+      "ingredientes": ["Conejo", "Ají panca", "Vinagre", "Ajos"],
+      "preparacion": [
+        "Macerar el conejo.",
+        "Hornear hasta dorar.",
+        "Se sirve con yucas y sarsa criolla."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Conejo.jpg"
+    },
+    {
+      "id": 1620,
+      "nombre": "Chicha de Jora",
+      "tipo": "Bebida",
+      "ingredientes": ["Maíz de jora", "Chancaca", "Agua"],
+      "preparacion": [
+        "Bebida ancestral fermentada.",
+        "En el norte se sirve en 'poto' (vasija de calabaza) y es el acompañante obligatorio del almuerzo."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Chicha_de_jora_cusque%C3%B1a.jpg"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id_region": "TAC",
+  "nombre_region": "Tacna",
+  "dato_curioso": "El plato símbolo es el 'Picante a la Tacneña'. La historia cuenta que nació durante la ocupación chilena, cuando los peruanos, al tener escasez de cortes finos de carne, utilizaban las vísceras (mondongo, pata) y el charqui, cocinándolos largamente con ají panca y papas machacadas con la mano. Se acompaña obligatoriamente con el crujiente 'Pan Marraqueta'.",
+  "platos": [
+    {
+      "id": 2301,
+      "nombre": "Picante a la Tacneña",
+      "tipo": "Fondo",
+      "ingredientes": ["Mondongo (panza)", "Pata de res", "Charqui", "Ají panca", "Papas", "Orégano"],
+      "preparacion": [
+        "Cocer las vísceras y el charqui por separado hasta que estén muy suaves.",
+        "Preparar un aderezo con abundante ají panca que debe cocinarse por horas.",
+        "Mezclar las carnes con papas 'aplastadas' con la mano (no picadas) en el aderezo."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Picante_a_la_tacne%C3%B1a.jpg/800px-Picante_a_la_tacne%C3%B1a.jpg"
+    },
+    {
+      "id": 2302,
+      "nombre": "Adobo Tacneño",
+      "tipo": "Fondo",
+      "ingredientes": ["Chancho (cerdo)", "Vinagre", "Ají panca", "Palillo", "Zapallo de carga"],
+      "preparacion": [
+        "A diferencia del arequipeño, el cerdo se fríe primero en su propia grasa.",
+        "Luego se termina de cocinar en un caldo condimentado con vinagre, ají y palillo.",
+        "Se sirve con papas y zapallo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_AdoboTacna.jpg"
+    },
+    {
+      "id": 2303,
+      "nombre": "Choclo con Queso (Pachía)",
+      "tipo": "Entrada",
+      "ingredientes": ["Choclo de Pachía", "Queso fresco", "Anís"],
+      "preparacion": [
+        "Hervir los choclos del valle de Pachía (famosos por ser grandes y dulces) con anís.",
+        "Servir con láminas de queso local."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Choclo_con_queso.jpg"
+    },
+    {
+      "id": 2304,
+      "nombre": "Pastel de Choclo Tacneño",
+      "tipo": "Fondo / Postre",
+      "ingredientes": ["Choclo molido", "Maní", "Pasas", "Carne molida (opcional)", "Azúcar"],
+      "preparacion": [
+        "Masa de choclo dulce con maní y pasas.",
+        "A veces lleva relleno salado de carne (tipo pastel de papa pero con masa de maíz).",
+        "Se hornea hasta dorar."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PastelChocloTacna.jpg"
+    },
+    {
+      "id": 2305,
+      "nombre": "Cordero de Candarave",
+      "tipo": "Fondo",
+      "ingredientes": ["Cordero de Candarave", "Sal", "Carbón / Leña"],
+      "preparacion": [
+        "El cordero de esta zona es famoso por pastar en bofedales salinos y volcánicos.",
+        "Se prepara simplemente a la parrilla o al palo para apreciar su sabor natural.",
+        "Acompañado de papas nativas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CorderoCandarave.jpg"
+    },
+    {
+      "id": 2306,
+      "nombre": "Pan Marraqueta",
+      "tipo": "Panadería",
+      "ingredientes": ["Harina", "Agua", "Sal", "Levadura"],
+      "preparacion": [
+        "Pan francés crujiente y aireado, típico del sur.",
+        "Se hornea con vapor para lograr la costra crocante.",
+        "Indispensable para acompañar el Picante a la Tacneña."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Marraqueta.jpg/800px-Marraqueta.jpg"
+    },
+    {
+      "id": 2307,
+      "nombre": "Cazuela de Gallina",
+      "tipo": "Sopa",
+      "ingredientes": ["Gallina", "Zapallo", "Arroz", "Papa", "Apio", "Choclo"],
+      "preparacion": [
+        "Sopa reconfortante con trozos de gallina.",
+        "Lleva zapallo que le da color y dulzor, además de verduras y arroz.",
+        "Se sirve caliente, ideal para las mañanas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CazuelaTacna.jpg"
+    },
+    {
+      "id": 2308,
+      "nombre": "Patasca Tacneña",
+      "tipo": "Sopa",
+      "ingredientes": ["Mote", "Cabeza de chancho", "Mondongo", "Carne de res", "Hierbabuena"],
+      "preparacion": [
+        "Cocción larga de carnes y maíz mote hasta que reviente.",
+        "Se sirve con un aderezo de ají colorado encima y hierbabuena."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Patasca.jpg/800px-Patasca.jpg"
+    },
+    {
+      "id": 2309,
+      "nombre": "Charquicán",
+      "tipo": "Fondo",
+      "ingredientes": ["Charqui (carne seca)", "Papas", "Ají panca", "Cebolla"],
+      "preparacion": [
+        "Tostar y deshilachar el charqui.",
+        "Hacer un guiso con papas cortadas en dados y aderezo rojo.",
+        "Plato de arrieros, muy energético."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Charquican.jpg"
+    },
+    {
+      "id": 2310,
+      "nombre": "Licor de Damasco",
+      "tipo": "Bebida",
+      "ingredientes": ["Damascos", "Pisco", "Azúcar"],
+      "preparacion": [
+        "Macerar damascos maduros en pisco durante meses.",
+        "Endulzar con almíbar.",
+        "Tacna es gran productor de damascos."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_LicorDamasco.jpg"
+    },
+    {
+      "id": 2311,
+      "nombre": "Humitas de Tacna",
+      "tipo": "Entrada / Postre",
+      "ingredientes": ["Maíz tierno", "Manteca", "Pasas", "Canela"],
+      "preparacion": [
+        "Masa de maíz dulce.",
+        "Son famosas por ser muy suaves y dulces.",
+        "Se cocinan al vapor."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Humita.jpg/800px-Humita.jpg"
+    },
+    {
+      "id": 2312,
+      "nombre": "Picante de Camarones",
+      "tipo": "Fondo",
+      "ingredientes": ["Camarones de río (Sama)", "Ají panca", "Papa", "Cochayuyo"],
+      "preparacion": [
+        "Similar al picante tacneño pero con camarones de los valles costeros.",
+        "Salsa roja espesa y picante."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PicanteCamarones.jpg"
+    },
+    {
+      "id": 2313,
+      "nombre": "Zapallo Relleno",
+      "tipo": "Fondo",
+      "ingredientes": ["Zapallo redondo", "Carne picada", "Queso", "Papas", "Arvejas"],
+      "preparacion": [
+        "Ahuecar el zapallo y rellenarlo con un guiso de carne y verduras (locro).",
+        "Hornear el zapallo entero hasta que la pulpa esté tierna.",
+        "Servir escarbando el propio zapallo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ZapalloRelleno.jpg"
+    },
+    {
+      "id": 2314,
+      "nombre": "Aceitunas Tacneñas",
+      "tipo": "Acompañamiento",
+      "ingredientes": ["Aceituna negra", "Salmuera"],
+      "preparacion": [
+        "Tacna es el mayor productor de aceitunas del Perú.",
+        "Se consumen en salmuera, prensadas o secas como acompañamiento de casi todo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Aceitunas.jpg"
+    },
+    {
+      "id": 2315,
+      "nombre": "Arroz con Pato a la Tacneña",
+      "tipo": "Fondo",
+      "ingredientes": ["Pato", "Arroz", "Ají panca", "Cerveza negra"],
+      "preparacion": [
+        "Variación del norteño, pero el arroz suele ser menos verde (menos culantro) y más rojizo por el ají panca.",
+        "Muy condimentado y sabroso."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_ArrozPatoTacna.jpg"
+    },
+    {
+      "id": 2316,
+      "nombre": "Chairito Tacneño",
+      "tipo": "Sopa",
+      "ingredientes": ["Chuño molido", "Carne de res", "Zapallo", "Habas"],
+      "preparacion": [
+        "Sopa de influencia andina (zona de Tarata/Candarave).",
+        "Lleva chuño, carne y verduras picadas muy finas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Chairito.jpg"
+    },
+    {
+      "id": 2317,
+      "nombre": "Chicharrón de Cerdo con Maíz Tostado",
+      "tipo": "Fondo",
+      "ingredientes": ["Cerdo", "Maíz tostado (cancha)", "Papas"],
+      "preparacion": [
+        "Freír el cerdo en perol de cobre.",
+        "Servir con maíz tostado local (maíz de Tacna) que es suave y harinoso."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chicharr%C3%B3n_peruano.jpg/800px-Chicharr%C3%B3n_peruano.jpg"
+    },
+    {
+      "id": 2318,
+      "nombre": "Vino de Chacra",
+      "tipo": "Bebida",
+      "ingredientes": ["Uva negra criolla", "Uva italia"],
+      "preparacion": [
+        "Vino artesanal semi-seco o dulce producido en los valles de Pocollay y Calana.",
+        "Acompañante tradicional de las comidas campestres."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_VinoChacra.jpg"
+    },
+    {
+      "id": 2319,
+      "nombre": "Mercado Viejo (Jugo)",
+      "tipo": "Bebida",
+      "ingredientes": ["Frutillas (fresas)", "Leche", "Huevo (opcional)", "Azúcar"],
+      "preparacion": [
+        "Licuado tradicional del mercado central.",
+        "Hecho con frutillas locales, leche y a veces un toque de cerveza negra o huevo."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_JugoMercado.jpg"
+    },
+    {
+      "id": 2320,
+      "nombre": "Cuy Frito",
+      "tipo": "Fondo",
+      "ingredientes": ["Cuy", "Harina de maíz", "Aceite", "Papas", "Salsa criolla"],
+      "preparacion": [
+        "Cuy empanizado en harina de maíz y frito crocante.",
+        "Se diferencia del 'chactado' arequipeño en el tipo de empanizado y acompañamientos."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cuy_chactado.jpg/800px-Cuy_chactado.jpg"
+    }
+  ]
+}

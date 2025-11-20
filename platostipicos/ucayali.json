@@ -1,0 +1,244 @@
+{
+  "id_region": "UCA",
+  "nombre_region": "Ucayali",
+  "dato_curioso": "Ucayali es la tierra del 'Paiche', el pez de agua dulce más grande de la Amazonía (puede medir hasta 3 metros). Su carne es tan versátil que se le conoce como el 'Bacalao Amazónico' y se usa fresco o seco-salado. Además, aquí se disfruta el 'Suri', un gusano que se come vivo o asado.",
+  "platos": [
+    {
+      "id": 2501,
+      "nombre": "Patarashca",
+      "tipo": "Fondo",
+      "ingredientes": ["Pescado entero (Boquichico/Palometa)", "Hojas de bijao", "Sacha culantro", "Ají dulce", "Cebolla"],
+      "preparacion": [
+        "Limpiar el pescado y hacerle cortes transversales.",
+        "Rellenar y cubrir con una mezcla de sacha culantro, ají y cebolla.",
+        "Envolver en hojas de bijao y asar a la parrilla (carbón)."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Patarashca.jpg/800px-Patarashca.jpg"
+    },
+    {
+      "id": 2502,
+      "nombre": "Tacacho con Cecina",
+      "tipo": "Fondo",
+      "ingredientes": ["Plátano verde (bellaco)", "Manteca de cerdo", "Chicharrón picado", "Cecina (cerdo ahumado)"],
+      "preparacion": [
+        "Asar o freír los plátanos verdes.",
+        "Machacarlos en un mortero con manteca y chicharrón hasta formar bolas.",
+        "Servir acompañado de un filete de cecina frita."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Tacacho_con_Cecina.jpg"
+    },
+    {
+      "id": 2503,
+      "nombre": "Juane de Gallina",
+      "tipo": "Fondo (Fiesta de San Juan)",
+      "ingredientes": ["Arroz", "Gallina", "Huevo", "Aceitunas", "Palillo (cúrcuma)", "Hojas de bijao"],
+      "preparacion": [
+        "Cocinar el arroz con palillo y grasa de gallina.",
+        "Mezclar con huevos crudos para compactar.",
+        "Colocar la presa de gallina, envolver en forma redonda con bijao y hervir."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Juane_peruano.jpg/800px-Juane_peruano.jpg"
+    },
+    {
+      "id": 2504,
+      "nombre": "Picadillo de Paiche",
+      "tipo": "Fondo",
+      "ingredientes": ["Paiche seco-salado", "Cebolla", "Tomate", "Ají dulce", "Pimienta"],
+      "preparacion": [
+        "Desalar el paiche y sancocharlo.",
+        "Desmenuzar la carne y freírla con un sofrito de cebolla, tomate y ají dulce.",
+        "Servir con plátano sancochado o arroz."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PicadilloPaiche.jpg"
+    },
+    {
+      "id": 2505,
+      "nombre": "Inchicapi",
+      "tipo": "Sopa",
+      "ingredientes": ["Gallina", "Maní tostado molido", "Harina de maíz", "Sacha culantro", "Yuca"],
+      "preparacion": [
+        "Hervir la gallina.",
+        "Licuar el maní, el maíz y el sacha culantro y agregar al caldo.",
+        "Cocinar moviendo hasta que espese y la yuca esté suave."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_InchicapiUca.jpg"
+    },
+    {
+      "id": 2506,
+      "nombre": "Ensalada de Chonta",
+      "tipo": "Entrada",
+      "ingredientes": ["Chonta (palmito fresco)", "Limón", "Aceite", "Tomate"],
+      "preparacion": [
+        "Extraer el corazón de la palmera (chonta).",
+        "Cortar en tiras finas (como tallarines).",
+        "Aliñar con limón, sal y aceite. Es fresco y crujiente."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Chonta.jpg"
+    },
+    {
+      "id": 2507,
+      "nombre": "Chilcano de Carachama",
+      "tipo": "Sopa",
+      "ingredientes": ["Carachama (pez prehistórico)", "Sacha culantro", "Ajos", "Yuca"],
+      "preparacion": [
+        "Hervir la carachama entera (con su caparazón) por largo tiempo.",
+        "Agregar sacha culantro y yuca.",
+        "Es una sopa energizante y restauradora."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Carachama.jpg"
+    },
+    {
+      "id": 2508,
+      "nombre": "Pango de Pescado",
+      "tipo": "Fondo",
+      "ingredientes": ["Pescado seco (paiche o bagre)", "Plátano verde", "Sacha culantro"],
+      "preparacion": [
+        "Plato muy sencillo: hervir el pescado seco junto con el plátano pelado.",
+        "No lleva aderezo, solo el sabor ahumado/salado del pescado.",
+        "Se acompaña con salsa de cocona."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Pango.jpg"
+    },
+    {
+      "id": 2509,
+      "nombre": "Majaz Asado",
+      "tipo": "Fondo",
+      "ingredientes": ["Majaz (Picuro)", "Sacha culantro", "Ajos", "Yuca"],
+      "preparacion": [
+        "Macerar la carne de majaz (roedor de monte de carne muy apreciada).",
+        "Asar lentamente al carbón o al horno.",
+        "Servir con yucas doradas."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Majaz.jpg"
+    },
+    {
+      "id": 2510,
+      "nombre": "Suri a la Parrilla",
+      "tipo": "Entrada / Snack",
+      "ingredientes": ["Suri (gusano de palma)", "Sal", "Ajos"],
+      "preparacion": [
+        "Limpiar los suris.",
+        "Ensartar en palos de brocheta (anticucho).",
+        "Asar al carbón hasta que estén dorados y crocantes por fuera."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Suri_food.jpg/800px-Suri_food.jpg"
+    },
+    {
+      "id": 2511,
+      "nombre": "Timbuche (Caldo de Levantamuertos)",
+      "tipo": "Sopa",
+      "ingredientes": ["Pescado fresco (menudo)", "Sacha culantro", "Huevos", "Agua"],
+      "preparacion": [
+        "Hervir el pescado rápidamente.",
+        "Agregar huevos batidos al final y sacha culantro.",
+        "Es un caldo ligero y claro, sin grasa."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Timbuche.jpg"
+    },
+    {
+      "id": 2512,
+      "nombre": "Nina Juane",
+      "tipo": "Fondo",
+      "ingredientes": ["Pescado fresco", "Huevo batido", "Sacha culantro", "Hojas de bijao"],
+      "preparacion": [
+        "A diferencia del juane normal, este NO lleva arroz (o muy poco).",
+        "Es pescado envuelto en una mezcla de huevo batido y hierbas, cocido en la hoja."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_NinaJuane.jpg"
+    },
+    {
+      "id": 2513,
+      "nombre": "Salsa de Cocona",
+      "tipo": "Guarnición / Salsa",
+      "ingredientes": ["Cocona", "Ají charapita", "Cebolla", "Sal", "Limón"],
+      "preparacion": [
+        "Picar la cocona (fruta ácida) en cubitos.",
+        "Mezclar con cebolla picada y el potente ají charapita estrujado.",
+        "Acompañante obligatorio de casi todos los platos de la selva."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Cocona.jpg"
+    },
+    {
+      "id": 2514,
+      "nombre": "Masato",
+      "tipo": "Bebida",
+      "ingredientes": ["Yuca", "Agua", "Azúcar (opcional)"],
+      "preparacion": [
+        "Cocinar y majar la yuca.",
+        "Dejar fermentar (el grado de alcohol depende de los días de fermentación).",
+        "Bebida ancestral de bienvenida en las comunidades."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Masato.jpg"
+    },
+    {
+      "id": 2515,
+      "nombre": "Aguajina",
+      "tipo": "Bebida",
+      "ingredientes": ["Aguaje (fruto)", "Agua", "Azúcar"],
+      "preparacion": [
+        "Remojar los aguajes en agua tibia para pelarlos.",
+        "Estrujar la pulpa con agua y colar.",
+        "Servir con hielo. Es rica en fitoestrógenos."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Aguajina.jpg"
+    },
+    {
+      "id": 2516,
+      "nombre": "Chapo",
+      "tipo": "Bebida",
+      "ingredientes": ["Plátano maduro (bellaco)", "Agua", "Leche (opcional)"],
+      "preparacion": [
+        "Hervir los plátanos maduros.",
+        "Licuar o machacar hasta obtener una bebida espesa y dulce.",
+        "Se toma caliente o frío en el desayuno."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Chapo.jpg"
+    },
+    {
+      "id": 2517,
+      "nombre": "Paiche Frito",
+      "tipo": "Fondo",
+      "ingredientes": ["Filete de paiche fresco", "Sal", "Aceite", "Yuca"],
+      "preparacion": [
+        "Sazonar los filetes de paiche.",
+        "Freír en aceite bien caliente.",
+        "Servir con yuca sancochada y ensalada."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PaicheFrito.jpg"
+    },
+    {
+      "id": 2518,
+      "nombre": "Ahumeado de Pescado",
+      "tipo": "Fondo",
+      "ingredientes": ["Pescado (Gamitana o Paco)", "Sal", "Hojas de plátano"],
+      "preparacion": [
+        "Salar el pescado.",
+        "Colocar sobre una parrilla alta (moqueador) con leña verde para generar humo.",
+        "Cocinar lentamente con el humo por horas para preservar y dar sabor."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Ahumado.jpg"
+    },
+    {
+      "id": 2519,
+      "nombre": "Zarapatera",
+      "tipo": "Fondo",
+      "ingredientes": ["Tortuga (motelo)", "Plátano verde rallado", "Mishquina (guisador)", "Sacha culantro"],
+      "preparacion": [
+        "Plato tradicional (hoy restringido por conservación).",
+        "Guiso espeso hecho dentro del caparazón de la tortuga con plátano rallado y especias."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Zarapatera.jpg"
+    },
+    {
+      "id": 2520,
+      "nombre": "Refresco de Camu Camu",
+      "tipo": "Bebida",
+      "ingredientes": ["Camu Camu (fruta)", "Agua", "Azúcar"],
+      "preparacion": [
+        "Licuar la pulpa del camu camu (fruta con más vitamina C del mundo).",
+        "Colar y endulzar. Sabor ácido y refrescante."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_CamuCamu.jpg"
+    }
+  ]
+}

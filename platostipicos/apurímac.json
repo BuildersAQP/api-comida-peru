@@ -1,0 +1,269 @@
+{
+  "id_region": "APU",
+  "nombre_region": "Apurímac",
+  "dato_curioso": "Apurímac es famosa por su 'Tallarín Hecho en Casa', una pasta artesanal que se deja secar al sol y se sirve tradicionalmente en fiestas patronales acompañada de estofado de gallina y kapchi de chuño. También son expertos en el 'Cuy Relleno'.",
+  "platos": [
+    {
+      "id": 901,
+      "nombre": "Tallarín Hecho en Casa",
+      "tipo": "Fondo",
+      "ingredientes": ["Harina", "Huevos", "Gallina (estofado)", "Achiote"],
+      "preparacion": [
+        "Amasar harina con huevos y sal, extender y cortar en tiras.",
+        "Secar la pasta al sol.",
+        "Cocinar y servir acompañada de un estofado de gallina jugoso con achiote."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_TallarinCasa.jpg"
+    },
+    {
+      "id": 902,
+      "nombre": "Cuy Relleno",
+      "tipo": "Fondo",
+      "ingredientes": ["Cuy entero", "Vísceras del cuy", "Huacatay", "Cebolla", "Maní", "Menta"],
+      "preparacion": [
+        "Limpiar el cuy.",
+        "Preparar un relleno con las vísceras picadas, cebolla, maní y muchas hierbas aromáticas.",
+        "Rellenar el cuy, coserlo y freírlo o hornearlo hasta que esté dorado."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cuy_Relleno.jpg/800px-Cuy_Relleno.jpg"
+    },
+    {
+      "id": 903,
+      "nombre": "Kapchi de Chuño",
+      "tipo": "Guarnición / Fondo",
+      "ingredientes": ["Chuño remojado", "Queso fresco", "Leche", "Huevos", "Palillo"],
+      "preparacion": [
+        "Sancochar el chuño pellizcado.",
+        "Hacer un aderezo con cebolla y palillo.",
+        "Agregar el chuño, la leche, huevos batidos y queso picado hasta que espese."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Kapchi.jpg"
+    },
+    {
+      "id": 904,
+      "nombre": "Chicharrón de Cerdo",
+      "tipo": "Fondo",
+      "ingredientes": ["Cerdo con piel", "Sal", "Hierbabuena", "Mote", "Papas"],
+      "preparacion": [
+        "Hervir la carne con agua y hierbabuena hasta que se evapore.",
+        "Dejar que la carne se fría en su propia manteca.",
+        "Servir con mote, papas doradas y ensalada de cebolla."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chicharr%C3%B3n_peruano.jpg/800px-Chicharr%C3%B3n_peruano.jpg"
+    },
+    {
+      "id": 905,
+      "nombre": "Pepián de Cuy",
+      "tipo": "Fondo",
+      "ingredientes": ["Cuy frito", "Maíz molido (choclo maduro)", "Ají panca", "Maní"],
+      "preparacion": [
+        "Freír las presas de cuy.",
+        "Hacer una salsa espesa (pepián) con maíz molido, maní y aderezo de ají.",
+        "Servir el cuy bañado en esta salsa."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PepianCuy.jpg"
+    },
+    {
+      "id": 906,
+      "nombre": "Huatia",
+      "tipo": "Festivo",
+      "ingredientes": ["Papas nativas", "Ocas", "Habas"],
+      "preparacion": [
+        "Construir un horno de terrones de tierra (curpas) en el campo.",
+        "Calentar el horno con leña hasta que esté al rojo vivo.",
+        "Derrumbar el horno sobre las papas y dejar cocinar con el calor de la tierra."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Huatia.jpg"
+    },
+    {
+      "id": 907,
+      "nombre": "Chairo",
+      "tipo": "Sopa",
+      "ingredientes": ["Chuño chancado", "Carne de res", "Tripas de cordero", "Zanahoria", "Mote"],
+      "preparacion": [
+        "Hervir las carnes hasta hacer un caldo.",
+        "Agregar el chuño, mote y verduras picadas finamente.",
+        "Cocinar hasta que tome consistencia espesa."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Chairo_soup.jpg"
+    },
+    {
+      "id": 908,
+      "nombre": "Ponche de Habas",
+      "tipo": "Bebida / Desayuno",
+      "ingredientes": ["Harina de habas tostadas", "Leche", "Azúcar", "Canela", "Clavo"],
+      "preparacion": [
+        "Disolver la harina de habas en agua fría.",
+        "Hervir con canela y clavo.",
+        "Agregar leche y azúcar al gusto. Se toma caliente."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PoncheHabas.jpg"
+    },
+    {
+      "id": 909,
+      "nombre": "Relleno de Tripas (Kachi)",
+      "tipo": "Entrada / Fondo",
+      "ingredientes": ["Tripas de cerdo o carnero", "Sangre", "Papa picada", "Hierbabuena", "Ají"],
+      "preparacion": [
+        "Lavar muy bien las tripas.",
+        "Hacer un relleno con sangre sazonada, papa picada y hierbas.",
+        "Embutir, hervir y luego freír."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_RellenoTripa.jpg"
+    },
+    {
+      "id": 910,
+      "nombre": "Sopa de Chochoca",
+      "tipo": "Sopa",
+      "ingredientes": ["Harina de maíz fermentado (chochoca)", "Carne de res", "Papa", "Apio"],
+      "preparacion": [
+        "Hacer un caldo de carne.",
+        "Espolvorear la harina de chochoca mientras se mueve para evitar grumos.",
+        "Cocinar hasta espesar."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Chochoca.jpg"
+    },
+    {
+      "id": 911,
+      "nombre": "Picante de Tarwi",
+      "tipo": "Fondo",
+      "ingredientes": ["Tarwi (chocho) molido", "Papas", "Ají amarillo", "Queso"],
+      "preparacion": [
+        "Sancochar el tarwi pelado y molido.",
+        "Guisar con aderezo de ají amarillo y papas.",
+        "Terminar con queso fresco."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_PicanteTarwi.jpg"
+    },
+    {
+      "id": 912,
+      "nombre": "Kankacho",
+      "tipo": "Fondo",
+      "ingredientes": ["Cordero", "Ají panca", "Cerveza negra", "Comino"],
+      "preparacion": [
+        "Macerar el cordero con ají panca, cerveza y condimentos.",
+        "Hornear a fuego lento hasta que la piel esté crocante y la carne suave.",
+        "Servir con papas y moraya."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Kankacho.jpg"
+    },
+    {
+      "id": 913,
+      "nombre": "Mazamorra de Calabaza",
+      "tipo": "Postre",
+      "ingredientes": ["Calabaza", "Chancaca", "Canela", "Leche"],
+      "preparacion": [
+        "Cocinar la calabaza con cáscara y todo.",
+        "Retirar la pulpa y mezclar con chancaca y especias.",
+        "Servir con un chorro de leche."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Calabaza.jpg"
+    },
+    {
+      "id": 914,
+      "nombre": "Dulce de Níspero",
+      "tipo": "Postre",
+      "ingredientes": ["Nísperos de palo", "Azúcar", "Canela"],
+      "preparacion": [
+        "Pelar los nísperos.",
+        "Hervir en almíbar de azúcar con canela hasta que estén tiernos."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Nispero.jpg"
+    },
+    {
+      "id": 915,
+      "nombre": "Uman Caldo",
+      "tipo": "Sopa",
+      "ingredientes": ["Cabeza de carnero", "Moraya", "Arroz", "Paico"],
+      "preparacion": [
+        "Hervir la cabeza de carnero limpia por varias horas.",
+        "Añadir moraya entera y arroz.",
+        "Servir con ají molido al gusto."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_UmanCaldo.jpg"
+    },
+    {
+      "id": 916,
+      "nombre": "Qapchi de Queso",
+      "tipo": "Entrada",
+      "ingredientes": ["Queso fresco", "Rocoto", "Huacatay", "Leche", "Papa sancochada"],
+      "preparacion": [
+        "Desmenuzar el queso con tenedor (no licuado).",
+        "Mezclar con rocoto picado, huacatay y un poco de leche.",
+        "Servir sobre papas calientes."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Qapchi.jpg"
+    },
+    {
+      "id": 917,
+      "nombre": "Trucha Frita con Papas",
+      "tipo": "Fondo",
+      "ingredientes": ["Trucha de río", "Harina", "Papas", "Ensalada"],
+      "preparacion": [
+        "Pasar la trucha por harina.",
+        "Freír en abundante aceite.",
+        "Acompañar de papas y ensalada fresca."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Trucha_frita.jpg/800px-Trucha_frita.jpg"
+    },
+    {
+      "id": 918,
+      "nombre": "Sopa de Morón",
+      "tipo": "Sopa",
+      "ingredientes": ["Trigo morón (partido)", "Carne de res", "Zapallo", "Habas"],
+      "preparacion": [
+        "Hervir el caldo de carne.",
+        "Añadir el trigo morón lavado.",
+        "Agregar verduras al final y cocinar hasta espesar."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Moron.jpg"
+    },
+    {
+      "id": 919,
+      "nombre": "Papas con Uchullachua",
+      "tipo": "Entrada",
+      "ingredientes": ["Papas nativas", "Ají", "Huacatay", "Queso"],
+      "preparacion": [
+        "Sancochar variedad de papas nativas.",
+        "Preparar la Uchullachua: salsa picante molida en batán con ají, hierbas y queso.",
+        "Mojar la papa en la salsa."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Uchullachua.jpg"
+    },
+    {
+      "id": 920,
+      "nombre": "Yuyo Picante",
+      "tipo": "Guarnición",
+      "ingredientes": ["Hojas de nabo silvestre (yuyo)", "Papas", "Ají amarillo"],
+      "preparacion": [
+        "Hervir las hojas de yuyo y escurrir.",
+        "Guisar con papas picadas y aderezo de ají."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_Yuyo.jpg"
+    },
+    {
+      "id": 921,
+      "nombre": "Sarza de Patitas",
+      "tipo": "Entrada",
+      "ingredientes": ["Patitas de cerdo", "Cebolla", "Tomate", "Perejil", "Vinagre"],
+      "preparacion": [
+        "Sancochar las patitas hasta que estén suaves y picarlas.",
+        "Mezclar con cebolla en corte pluma, tomate y perejil.",
+        "Aliñar con vinagre, aceite y sal."
+      ],
+      "imagen_url": "https://i.ytimg.com/vi/Example_SarzaPatitas.jpg"
+    },
+    {
+      "id": 922,
+      "nombre": "Chicha de Jora",
+      "tipo": "Bebida",
+      "ingredientes": ["Maíz jora", "Agua", "Chancaca"],
+      "preparacion": [
+        "Hervir la jora por largo tiempo.",
+        "Fermentar en cántaros (chombas).",
+        "Servir espumosa (con 'caporale')."
+      ],
+      "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Chicha_de_jora_cusque%C3%B1a.jpg"
+    }
+  ]
+}
