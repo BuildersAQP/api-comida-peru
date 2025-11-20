@@ -1,7 +1,14 @@
-name = "platos-api"
+name = "api-comida-peru"
 main = "src/index.ts"
 compatibility_date = "2025-01-01"
 account_id = "019ebe00b806287830ae606ba963d847"
 
 [vars]
 DATA_BASE_URL = "https://raw.githubusercontent.com/BuildersAQP/api-comida-peru/main/platostipicos"
+
+# Custom Domain Route
+# Asegúrate de configurar primero el DNS CNAME en Cloudflare:
+# api-comida-peru.luisgagocasas.com → buildersaqp.github.io (proxied)
+[[routes]]
+pattern = "api-comida-peru.luisgagocasas.com/api*"
+zone_name = "luisgagocasas.com"

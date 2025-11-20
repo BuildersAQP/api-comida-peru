@@ -3,7 +3,7 @@ name: Deploy
 on:
   workflow_dispatch: {}
 
-run-name: 'Build #${{ github.run_number }} - ${{ github.ref_name }}'
+run-name: 'Build #${{ github.run_number }}'
 
 jobs:
   site-and-api:

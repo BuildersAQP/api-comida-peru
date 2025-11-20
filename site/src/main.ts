@@ -26,7 +26,7 @@ const regions = [
   { slug: 'ucayali', nombre: 'Ucayali' }
 ]
 
-const API_BASE = 'https://buildersaqp.github.io/api-comida-peru/api'
+const API_BASE = import.meta.env.VITE_API_BASE_URL || 'https://api-comida-peru.luisgagocasas.com/api'
 
 const el = document.getElementById('regions')
 if (el) {

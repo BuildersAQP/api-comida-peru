@@ -17,7 +17,7 @@ Una API RESTful moderna y gratuita para consultar platos típicos del Perú orga
 ## 🚀 URL Base
 
 ```
-https://buildersaqp.github.io/api-comida-peru/api
+https://api-comida-peru.luisgagocasas.com/api
 ```
 
 ## 📖 Documentación
@@ -35,8 +35,8 @@ GET /api
 ```json
 {
   "regiones": [
+    { "slug": "arequipa", "nombre": "Arequipa" },
     { "slug": "lima", "nombre": "Lima" },
-    { "slug": "cusco", "nombre": "Cusco" },
     ...
   ]
 }
@@ -57,7 +57,7 @@ GET /api/{region}?limit=20&offset=0
 
 **Ejemplo:**
 ```bash
-curl "https://buildersaqp.github.io/api-comida-peru/api/cusco?tipo=Fondo&limit=5"
+curl "https://api-comida-peru.luisgagocasas.com/api/arequipa?tipo=Fondo&limit=5"
 ```
 
 ### Obtener un plato específico
@@ -67,14 +67,14 @@ GET /api/{region}/{id}
 
 **Ejemplo:**
 ```bash
-curl "https://buildersaqp.github.io/api-comida-peru/api/lima/101"
+curl "https://api-comida-peru.luisgagocasas.com/api/lima/101"
 ```
 
 ## 💻 Ejemplos de Uso
 
 ### JavaScript / TypeScript
 ```javascript
-fetch('https://buildersaqp.github.io/api-comida-peru/api/arequipa?ingrediente=rocoto')
+fetch('https://api-comida-peru.luisgagocasas.com/api/arequipa?ingrediente=rocoto')
   .then(response => response.json())
   .then(data => {
     console.log(`Platos encontrados: ${data.total}`);
@@ -89,7 +89,7 @@ fetch('https://buildersaqp.github.io/api-comida-peru/api/arequipa?ingrediente=ro
 import requests
 
 response = requests.get(
-    'https://buildersaqp.github.io/api-comida-peru/api/lima',
+    'https://api-comida-peru.luisgagocasas.com/api/lima',
     params={'q': 'ceviche', 'limit': 5}
 )
 platos = response.json()['platos']
@@ -128,7 +128,7 @@ api-comida-peru/
 │       └── wrangler.toml       # Configuración de Cloudflare
 ├── platostipicos/              # Datos JSON por región
 │   ├── lima.json
-│   ├── cusco.json
+│   ├── arequipa.json
 │   └── ...
 ├── site/                       # Sitio web de documentación
 │   ├── src/
@@ -251,7 +251,7 @@ Comunidad de desarrolladores de Arequipa, Perú, dedicada a crear proyectos de c
 
 - **Documentación**: https://buildersaqp.github.io/api-comida-peru/
 - **Repositorio**: https://github.com/BuildersAQP/api-comida-peru
-- **API Base URL**: https://buildersaqp.github.io/api-comida-peru/api
+- **API Base URL**: https://api-comida-peru.luisgagocasas.com/api
 
 ## 📧 Contacto
 
