@@ -381,6 +381,7 @@ pre code {
   transition: all 0.3s ease;
   position: relative;
   overflow: hidden;
+  z-index: 1;
 }
 
 .region-pill::before {
@@ -392,7 +393,12 @@ pre code {
   height: 100%;
   background: var(--gradient-peru);
   transition: left 0.3s ease;
-  z-index: 0;
+  z-index: -1;
+}
+
+.region-pill span {
+  position: relative;
+  z-index: 1;
 }
 
 .region-pill:hover {
@@ -404,12 +410,6 @@ pre code {
 
 .region-pill:hover::before {
   left: 0;
-}
-
-.region-pill:hover {
-  position: relative;
-  z-index: 1;
-  color: var(--peru-white);
 }
 
 .tips-grid {
