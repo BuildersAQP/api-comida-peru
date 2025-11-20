@@ -28,8 +28,7 @@ jobs:
           npm run build
         working-directory: site
       - name: Install Worker dependencies
-        run: |
-          npm install
+        run: npm install
         working-directory: apps/api
       - uses: actions/upload-pages-artifact@v3
         with:
