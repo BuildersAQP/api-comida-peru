@@ -21,6 +21,8 @@ jobs:
         with:
           node-version: '20'
       - name: Build site
+        env:
+          VITE_API_BASE_URL: ${{ secrets.API_BASE_URL }}
         run: |
           npm install
           npm run build
@@ -34,9 +36,17 @@ jobs:
           path: site/dist
       - id: deploy-pages
         uses: actions/deploy-pages@v4
+      - name: Check Cloudflare credentials
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: whoami
       - name: Deploy Worker
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: deploy
+          wranglerVersion: '4.49.1'
+          workingDirectory: 'apps/api'
+          command: deploy --config ../wrangler.toml

@@ -26,12 +26,13 @@ const regions = [
   { slug: 'ucayali', nombre: 'Ucayali' }
 ]
 
+const API = (import.meta.env.VITE_API_BASE_URL || 'https://platos-api.<tu-subdominio>.workers.dev').replace(/\/$/, '')
 const el = document.getElementById('regions')
 if (el) {
   for (const r of regions) {
     const a = document.createElement('a')
     a.className = 'pill'
-    a.href = `https://<tu-worker>/api/${r.slug}?limit=5`
+    a.href = `${API}/api/${r.slug}?limit=5`
     a.textContent = r.nombre
     el.appendChild(a)
   }
