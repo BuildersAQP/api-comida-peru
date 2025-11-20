@@ -1,7 +1,9 @@
-name: deploy
+name: Deploy
+
 on:
-  push:
-    branches: [ main ]
+  workflow_dispatch: {}
+
+run-name: 'Build #${{ github.run_number }} - ${{ github.ref_name }}'
 
 jobs:
   site-and-api:
