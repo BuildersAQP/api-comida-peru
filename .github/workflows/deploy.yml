@@ -41,6 +41,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          wranglerVersion: '4.49.1'
           command: whoami
       - name: Deploy Worker
         uses: cloudflare/wrangler-action@v3
@@ -48,5 +49,5 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           wranglerVersion: '4.49.1'
-          workingDirectory: 'apps/api'
-          command: deploy --config ../wrangler.toml
+          workingDirectory: '.'
+          command: deploy --config wrangler.toml
