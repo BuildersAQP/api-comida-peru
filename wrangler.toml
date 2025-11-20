@@ -1,6 +1,7 @@
 name = "platos-api"
-main = "apps/api/src/index.ts"
+main = "src/index.ts"
 compatibility_date = "2025-01-01"
+account_id = "019ebe00b806287830ae606ba963d847"
 
 [vars]
 DATA_BASE_URL = "https://raw.githubusercontent.com/BuildersAQP/api-comida-peru/main/platostipicos"
