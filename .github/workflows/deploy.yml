@@ -22,9 +22,13 @@ jobs:
           node-version: '20'
       - name: Build site
         run: |
-          npm ci
+          npm install
           npm run build
         working-directory: site
+      - name: Install Worker dependencies
+        run: |
+          npm install
+        working-directory: apps/api
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site/dist
